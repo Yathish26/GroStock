@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Dove Intense Repair Shampoo",
+    "slug": "dove-intense-repair-shampoo",
+    "description": "Nourishing shampoo that helps repair signs of damage and strengthens hair from within.",
+    "highlights": ["Repairs damaged hair", "Deep nourishment", "Suitable for daily use"],
+    "images": ["https://cdn.example.com/haircare/dove_intense_repair.jpg"],
+    "thumbnail": "https://cdn.example.com/haircare/dove_intense_repair_thumb.jpg",
+    "brand": "Dove",
+    "category": "687cffff4dd1ce5ed8f73060",
+    "category_string": "Hair Care",
+    "sku": "HCR-SHM-001",
+    "barcode": "8921001000011",
+    "variants": [
+      {
+        "label": "340ml",
+        "price": 210,
+        "mrp": 240,
+        "stock": 60,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/haircare/dove_intense_repair.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 240,
+      "sellingPrice": 210,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["shampoo", "dove", "repair"],
+    "searchKeywords": ["dove", "intense repair", "shampoo", "hair care"],
+    "viewCount": 38,
+    "soldCount": 15
+  },
+  {
+    "name": "Pantene Hair Fall Control Conditioner",
+    "slug": "pantene-hair-fall-control-conditioner",
+    "description": "Conditioner that nourishes hair and reduces hair fall due to breakage.",
+    "highlights": ["Reduces hair fall", "Smoothens hair", "With Pro-V formula"],
+    "images": ["https://cdn.example.com/haircare/pantene_conditioner.jpg"],
+    "thumbnail": "https://cdn.example.com/haircare/pantene_conditioner_thumb.jpg",
+    "brand": "Pantene",
+    "category": "687cffff4dd1ce5ed8f73060",
+    "category_string": "Hair Care",
+    "sku": "HCR-CND-002",
+    "barcode": "8921001000028",
+    "variants": [
+      {
+        "label": "180ml",
+        "price": 145,
+        "mrp": 175,
+        "stock": 42,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/haircare/pantene_conditioner.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 175,
+      "sellingPrice": 145,
+      "discountPercent": 17.14,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 42,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["conditioner", "pantene", "hair fall"],
+    "searchKeywords": ["pantene", "hair fall control", "conditioner"],
+    "viewCount": 20,
+    "soldCount": 8
+  },
+  {
+    "name": "Indulekha Bringha Hair Oil",
+    "slug": "indulekha-bringha-hair-oil",
+    "description": "Ayurvedic hair oil clinically proven to reduce hair fall and promote hair growth.",
+    "highlights": ["Promotes hair growth", "Ayurvedic", "Reduces hair fall"],
+    "images": ["https://cdn.example.com/haircare/indulekha_bringha.jpg"],
+    "thumbnail": "https://cdn.example.com/haircare/indulekha_bringha_thumb.jpg",
+    "brand": "Indulekha",
+    "category": "687cffff4dd1ce5ed8f73060",
+    "category_string": "Hair Care",
+    "sku": "HCR-OIL-003",
+    "barcode": "8921001000035",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 352,
+        "mrp": 432,
+        "stock": 25,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/haircare/indulekha_bringha.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 432,
+      "sellingPrice": 352,
+      "discountPercent": 18.52,
+      "offerTag": "19% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["hair oil", "indulekha", "ayurvedic"],
+    "searchKeywords": ["indulekha", "bringha", "hair oil", "hair growth"],
+    "viewCount": 12,
+    "soldCount": 4
+  },
+  {
+    "name": "Parachute Advansed Coconut Hair Oil",
+    "slug": "parachute-advansed-coconut-hair-oil",
+    "description": "Pure coconut hair oil for deep nourishment and soft, manageable hair.",
+    "highlights": ["Pure coconut oil", "Deep nourishment", "Non-sticky"],
+    "images": ["https://cdn.example.com/haircare/parachute_advansed.jpg"],
+    "thumbnail": "https://cdn.example.com/haircare/parachute_advansed_thumb.jpg",
+    "brand": "Parachute",
+    "category": "687cffff4dd1ce5ed8f73060",
+    "category_string": "Hair Care",
+    "sku": "HCR-OIL-004",
+    "barcode": "8921001000042",
+    "variants": [
+      {
+        "label": "300ml",
+        "price": 134,
+        "mrp": 149,
+        "stock": 39,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/haircare/parachute_advansed.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 149,
+      "sellingPrice": 134,
+      "discountPercent": 10.07,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 39,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["coconut oil", "parachute", "hair oil"],
+    "searchKeywords": ["parachute", "coconut hair oil", "hair care"],
+    "viewCount": 18,
+    "soldCount": 6
+  },
+  {
+    "name": "L'Oreal Paris Total Repair 5 Serum",
+    "slug": "loreal-paris-total-repair-5-serum",
+    "description": "Nourishing hair serum to fight 5 signs of damage and leave hair smooth and shiny.",
+    "highlights": ["Fights 5 signs of damage", "Non-greasy", "Smooth & shiny hair"],
+    "images": ["https://cdn.example.com/haircare/loreal_serum.jpg"],
+    "thumbnail": "https://cdn.example.com/haircare/loreal_serum_thumb.jpg",
+    "brand": "L'Oreal Paris",
+    "category": "687cffff4dd1ce5ed8f73060",
+    "category_string": "Hair Care",
+    "sku": "HCR-SRM-005",
+    "barcode": "8921001000059",
+    "variants": [
+      {
+        "label": "80ml",
+        "price": 215,
+        "mrp": 245,
+        "stock": 21,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/haircare/loreal_serum.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 245,
+      "sellingPrice": 215,
+      "discountPercent": 12.24,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["hair serum", "loreal", "repair"],
+    "searchKeywords": ["loreal paris", "total repair", "hair serum", "hair care"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

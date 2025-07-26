@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Tomato (Hybrid)",
+    "slug": "tomato-hybrid",
+    "description": "Fresh and juicy hybrid tomatoes, ideal for salads and cooking.",
+    "highlights": ["Juicy", "Rich in Vitamin C", "Farm fresh"],
+    "images": ["https://cdn.example.com/vegetables/tomato.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/tomato_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-TOM-001",
+    "barcode": "8910001000011",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 24,
+        "mrp": 28,
+        "stock": 120,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/tomato.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 28,
+      "sellingPrice": 24,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 9,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["tomato", "vegetable", "fresh"],
+    "searchKeywords": ["tomato", "fresh tomato", "vegetable"],
+    "viewCount": 82,
+    "soldCount": 56
+  },
+  {
+    "name": "Potato (New Crop)",
+    "slug": "potato-new-crop",
+    "description": "Clean and firm new crop potatoes, staple for every kitchen.",
+    "highlights": ["Firm", "Versatile", "Rich in carbs"],
+    "images": ["https://cdn.example.com/vegetables/potato.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/potato_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-POT-002",
+    "barcode": "8910001000028",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 36,
+        "mrp": 40,
+        "stock": 95,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/potato.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 36,
+      "discountPercent": 10,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 95,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 8,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["potato", "vegetable", "fresh"],
+    "searchKeywords": ["potato", "new crop", "vegetable"],
+    "viewCount": 56,
+    "soldCount": 30
+  },
+  {
+    "name": "Onion",
+    "slug": "onion",
+    "description": "Fresh and pungent onions, a kitchen essential for every meal.",
+    "highlights": ["Pungent", "Essential", "Farm fresh"],
+    "images": ["https://cdn.example.com/vegetables/onion.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/onion_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-ONI-003",
+    "barcode": "8910001000035",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 42,
+        "mrp": 48,
+        "stock": 88,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/onion.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 48,
+      "sellingPrice": 42,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 88,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["onion", "vegetable", "fresh"],
+    "searchKeywords": ["onion", "fresh onion", "vegetable"],
+    "viewCount": 41,
+    "soldCount": 18
+  },
+  {
+    "name": "English Cucumber",
+    "slug": "english-cucumber",
+    "description": "Long, seedless, and refreshing English cucumbers for salads and snacks.",
+    "highlights": ["Seedless", "Hydrating", "Crisp"],
+    "images": ["https://cdn.example.com/vegetables/cucumber.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/cucumber_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-CUC-004",
+    "barcode": "8910001000042",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 34,
+        "mrp": 40,
+        "stock": 52,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/cucumber.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 34,
+      "discountPercent": 15,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 52,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 7,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cucumber", "vegetable", "fresh"],
+    "searchKeywords": ["cucumber", "english cucumber", "vegetable"],
+    "viewCount": 19,
+    "soldCount": 7
+  },
+  {
+    "name": "Carrot (Red)",
+    "slug": "carrot-red",
+    "description": "Fresh red carrots, sweet and crunchy, packed with Vitamin A.",
+    "highlights": ["Vitamin A", "Sweet & crunchy"],
+    "images": ["https://cdn.example.com/vegetables/carrot.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/carrot_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-CAR-005",
+    "barcode": "8910001000059",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 32,
+        "mrp": 38,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/carrot.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 38,
+      "sellingPrice": 32,
+      "discountPercent": 15.79,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 7,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["carrot", "vegetable", "fresh"],
+    "searchKeywords": ["carrot", "red carrot", "vegetable"],
+    "viewCount": 11,
+    "soldCount": 3
+  },
+  {
+    "name": "Green Capsicum",
+    "slug": "green-capsicum",
+    "description": "Crisp and fresh green capsicum, great for salads, pizza, and Indian curries.",
+    "highlights": ["Crisp", "Low calorie", "Vitamin C"],
+    "images": ["https://cdn.example.com/vegetables/greencapsicum.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/greencapsicum_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-CAP-006",
+    "barcode": "8910001000066",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 28,
+        "mrp": 34,
+        "stock": 48,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/greencapsicum.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 34,
+      "sellingPrice": 28,
+      "discountPercent": 17.65,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 48,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 6,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["capsicum", "vegetable", "fresh"],
+    "searchKeywords": ["capsicum", "green capsicum", "vegetable"],
+    "viewCount": 14,
+    "soldCount": 4
+  },
+  {
+    "name": "Fresh Spinach (Palak)",
+    "slug": "fresh-spinach-palak",
+    "description": "Tender green spinach leaves, rich in iron and ideal for Indian dishes.",
+    "highlights": ["Iron rich", "Tender leaves"],
+    "images": ["https://cdn.example.com/vegetables/spinach.jpg"],
+    "thumbnail": "https://cdn.example.com/vegetables/spinach_thumb.jpg",
+    "brand": "Local Farm",
+    "category": "687cffff4dd1ce5ed8f7305d",
+    "category_string": "Fresh Vegetables",
+    "sku": "FVG-SPN-007",
+    "barcode": "8910001000073",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 22,
+        "mrp": 26,
+        "stock": 36,
+        "unit": "pack",
+        "image": "https://cdn.example.com/vegetables/spinach.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 26,
+      "sellingPrice": 22,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 36,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 6,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["spinach", "palak", "fresh"],
+    "searchKeywords": ["spinach", "palak", "green leafy"],
+    "viewCount": 12,
+    "soldCount": 2
+  }
+]

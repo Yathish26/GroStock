@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Lays Classic Salted Potato Chips",
+    "slug": "lays-classic-salted-potato-chips",
+    "description": "Crispy and lightly salted potato chips for all occasions.",
+    "highlights": ["Classic taste", "Crispy", "Perfect for snacking"],
+    "images": ["https://cdn.example.com/chips/lays_classic.jpg"],
+    "thumbnail": "https://cdn.example.com/chips/lays_classic_thumb.jpg",
+    "brand": "Lays",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-CHP-001",
+    "barcode": "8907001000011",
+    "variants": [
+      {
+        "label": "90g",
+        "price": 40,
+        "mrp": 45,
+        "stock": 120,
+        "unit": "pack",
+        "image": "https://cdn.example.com/chips/lays_classic.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 45,
+      "sellingPrice": 40,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["chips", "lays", "potato"],
+    "searchKeywords": ["lays", "potato chips", "classic salted"],
+    "viewCount": 78,
+    "soldCount": 41
+  },
+  {
+    "name": "Bingo Mad Angles Masala Madness",
+    "slug": "bingo-mad-angles-masala-madness",
+    "description": "Triangle chips with bold masala flavor.",
+    "highlights": ["Masala flavor", "Unique shape"],
+    "images": ["https://cdn.example.com/chips/bingo_madangles.jpg"],
+    "thumbnail": "https://cdn.example.com/chips/bingo_madangles_thumb.jpg",
+    "brand": "Bingo",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-CHP-002",
+    "barcode": "8907001000028",
+    "variants": [
+      {
+        "label": "72g",
+        "price": 30,
+        "mrp": 35,
+        "stock": 90,
+        "unit": "pack",
+        "image": "https://cdn.example.com/chips/bingo_madangles.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 35,
+      "sellingPrice": 30,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 90,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chips", "bingo", "mad angles"],
+    "searchKeywords": ["bingo", "mad angles", "masala madness"],
+    "viewCount": 53,
+    "soldCount": 25
+  },
+  {
+    "name": "Haldiram's Aloo Bhujia",
+    "slug": "haldirams-aloo-bhujia",
+    "description": "Crunchy and spicy potato-based namkeen.",
+    "highlights": ["Spicy", "Potato snack"],
+    "images": ["https://cdn.example.com/namkeens/haldirams_aloo_bhujia.jpg"],
+    "thumbnail": "https://cdn.example.com/namkeens/haldirams_aloo_bhujia_thumb.jpg",
+    "brand": "Haldiram's",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-NAM-003",
+    "barcode": "8907001000035",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 52,
+        "mrp": 60,
+        "stock": 70,
+        "unit": "pack",
+        "image": "https://cdn.example.com/namkeens/haldirams_aloo_bhujia.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 60,
+      "sellingPrice": 52,
+      "discountPercent": 13.33,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["namkeen", "haldiram", "aloo bhujia"],
+    "searchKeywords": ["aloo bhujia", "haldiram", "namkeen"],
+    "viewCount": 63,
+    "soldCount": 28
+  },
+  {
+    "name": "Balaji Wafers Simply Salted",
+    "slug": "balaji-wafers-simply-salted",
+    "description": "Crispy potato wafers with a dash of salt.",
+    "highlights": ["Crispy", "Lightly salted"],
+    "images": ["https://cdn.example.com/chips/balaji_salted.jpg"],
+    "thumbnail": "https://cdn.example.com/chips/balaji_salted_thumb.jpg",
+    "brand": "Balaji",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-CHP-004",
+    "barcode": "8907001000042",
+    "variants": [
+      {
+        "label": "80g",
+        "price": 20,
+        "mrp": 25,
+        "stock": 95,
+        "unit": "pack",
+        "image": "https://cdn.example.com/chips/balaji_salted.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 25,
+      "sellingPrice": 20,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 95,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chips", "balaji", "wafers"],
+    "searchKeywords": ["balaji wafers", "simply salted", "chips"],
+    "viewCount": 35,
+    "soldCount": 15
+  },
+  {
+    "name": "Pringles Original Potato Crisps",
+    "slug": "pringles-original-potato-crisps",
+    "description": "Stackable potato crisps in a unique can.",
+    "highlights": ["Stackable", "Unique packaging"],
+    "images": ["https://cdn.example.com/chips/pringles_original.jpg"],
+    "thumbnail": "https://cdn.example.com/chips/pringles_original_thumb.jpg",
+    "brand": "Pringles",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-CHP-005",
+    "barcode": "8907001000059",
+    "variants": [
+      {
+        "label": "107g",
+        "price": 129,
+        "mrp": 145,
+        "stock": 48,
+        "unit": "can",
+        "image": "https://cdn.example.com/chips/pringles_original.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 145,
+      "sellingPrice": 129,
+      "discountPercent": 11.03,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 48,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chips", "pringles", "crisps"],
+    "searchKeywords": ["pringles", "potato crisps", "chips"],
+    "viewCount": 28,
+    "soldCount": 9
+  },
+  {
+    "name": "Haldiram's Moong Dal Namkeen",
+    "slug": "haldirams-moong-dal-namkeen",
+    "description": "Crispy fried moong dal, a classic snack.",
+    "highlights": ["Protein rich", "Crispy"],
+    "images": ["https://cdn.example.com/namkeens/haldirams_moongdal.jpg"],
+    "thumbnail": "https://cdn.example.com/namkeens/haldirams_moongdal_thumb.jpg",
+    "brand": "Haldiram's",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-NAM-006",
+    "barcode": "8907001000066",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 55,
+        "mrp": 65,
+        "stock": 67,
+        "unit": "pack",
+        "image": "https://cdn.example.com/namkeens/haldirams_moongdal.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 65,
+      "sellingPrice": 55,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 67,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["namkeen", "haldiram", "moong dal"],
+    "searchKeywords": ["haldiram", "moong dal", "namkeen"],
+    "viewCount": 23,
+    "soldCount": 7
+  },
+  {
+    "name": "Bikaji Bikaneri Bhujia",
+    "slug": "bikaji-bikaneri-bhujia",
+    "description": "Famous spicy Bikaneri Bhujia, a crunchy namkeen.",
+    "highlights": ["Spicy", "Authentic Rajasthan taste"],
+    "images": ["https://cdn.example.com/namkeens/bikaji_bhujia.jpg"],
+    "thumbnail": "https://cdn.example.com/namkeens/bikaji_bhujia_thumb.jpg",
+    "brand": "Bikaji",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-NAM-007",
+    "barcode": "8907001000073",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 52,
+        "mrp": 60,
+        "stock": 53,
+        "unit": "pack",
+        "image": "https://cdn.example.com/namkeens/bikaji_bhujia.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 60,
+      "sellingPrice": 52,
+      "discountPercent": 13.33,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 53,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 17,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["namkeen", "bikaji", "bhujia"],
+    "searchKeywords": ["bikaji", "bikaneri bhujia", "namkeen"],
+    "viewCount": 14,
+    "soldCount": 5
+  },
+  {
+    "name": "Kurkure Masala Munch",
+    "slug": "kurkure-masala-munch",
+    "description": "Crunchy sticks with a spicy masala twist.",
+    "highlights": ["Spicy", "Crunchy"],
+    "images": ["https://cdn.example.com/chips/kurkure_masala.jpg"],
+    "thumbnail": "https://cdn.example.com/chips/kurkure_masala_thumb.jpg",
+    "brand": "Kurkure",
+    "category": "687cffff4dd1ce5ed8f73054",
+    "category_string": "Chips and Namkeens",
+    "sku": "CN-CHP-008",
+    "barcode": "8907001000080",
+    "variants": [
+      {
+        "label": "85g",
+        "price": 20,
+        "mrp": 25,
+        "stock": 88,
+        "unit": "pack",
+        "image": "https://cdn.example.com/chips/kurkure_masala.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 25,
+      "sellingPrice": 20,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 88,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chips", "kurkure", "masala munch"],
+    "searchKeywords": ["kurkure", "masala munch", "chips"],
+    "viewCount": 34,
+    "soldCount": 13
+  }
+]

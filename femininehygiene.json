@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Whisper Ultra Clean Sanitary Pads XL",
+    "slug": "whisper-ultra-clean-sanitary-pads-xl",
+    "description": "Whisper Ultra Clean XL sanitary pads for superior protection and comfort during periods.",
+    "highlights": ["XL size", "Odour lock gel", "Long-lasting protection"],
+    "images": ["https://cdn.example.com/feminine/whisper_ultra_xl.jpg"],
+    "thumbnail": "https://cdn.example.com/feminine/whisper_ultra_xl_thumb.jpg",
+    "brand": "Whisper",
+    "category": "687cffff4dd1ce5ed8f7305b",
+    "category_string": "Feminine Hygiene",
+    "sku": "FHY-SNP-001",
+    "barcode": "8909601000011",
+    "variants": [
+      {
+        "label": "Pack of 15",
+        "price": 125,
+        "mrp": 145,
+        "stock": 50,
+        "unit": "pack",
+        "image": "https://cdn.example.com/feminine/whisper_ultra_xl.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 145,
+      "sellingPrice": 125,
+      "discountPercent": 13.79,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 50,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["sanitary pads", "whisper", "feminine hygiene"],
+    "searchKeywords": ["whisper", "sanitary pads", "feminine hygiene"],
+    "viewCount": 36,
+    "soldCount": 18
+  },
+  {
+    "name": "Stayfree Secure Cottony Soft Sanitary Pads",
+    "slug": "stayfree-secure-cottony-soft-sanitary-pads",
+    "description": "Stayfree Secure Cottony Soft pads for gentle comfort and all-day dryness.",
+    "highlights": ["Cottony soft", "Dry cover", "Leak lock channels"],
+    "images": ["https://cdn.example.com/feminine/stayfree_cottony.jpg"],
+    "thumbnail": "https://cdn.example.com/feminine/stayfree_cottony_thumb.jpg",
+    "brand": "Stayfree",
+    "category": "687cffff4dd1ce5ed8f7305b",
+    "category_string": "Feminine Hygiene",
+    "sku": "FHY-SNP-002",
+    "barcode": "8909601000028",
+    "variants": [
+      {
+        "label": "Pack of 20",
+        "price": 110,
+        "mrp": 130,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/feminine/stayfree_cottony.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 110,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["sanitary pads", "stayfree", "cottony soft"],
+    "searchKeywords": ["stayfree", "pads", "cottony", "feminine hygiene"],
+    "viewCount": 24,
+    "soldCount": 10
+  },
+  {
+    "name": "Sofy Antibacteria Extra Long Sanitary Pads",
+    "slug": "sofy-antibacteria-extra-long-sanitary-pads",
+    "description": "Antibacterial sanitary pads for extra long coverage and protection.",
+    "highlights": ["Antibacterial", "Extra long", "Odour control"],
+    "images": ["https://cdn.example.com/feminine/sofy_antibacteria.jpg"],
+    "thumbnail": "https://cdn.example.com/feminine/sofy_antibacteria_thumb.jpg",
+    "brand": "Sofy",
+    "category": "687cffff4dd1ce5ed8f7305b",
+    "category_string": "Feminine Hygiene",
+    "sku": "FHY-SNP-003",
+    "barcode": "8909601000035",
+    "variants": [
+      {
+        "label": "Pack of 14",
+        "price": 120,
+        "mrp": 135,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/feminine/sofy_antibacteria.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 135,
+      "sellingPrice": 120,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["sanitary pads", "sofy", "antibacterial"],
+    "searchKeywords": ["sofy", "antibacterial pads", "feminine hygiene"],
+    "viewCount": 15,
+    "soldCount": 6
+  },
+  {
+    "name": "Sirona Biodegradable Super Soft Panty Liners",
+    "slug": "sirona-biodegradable-super-soft-panty-liners",
+    "description": "Super soft biodegradable panty liners for everyday freshness and comfort.",
+    "highlights": ["Biodegradable", "Super soft", "Everyday use"],
+    "images": ["https://cdn.example.com/feminine/sirona_pantyliners.jpg"],
+    "thumbnail": "https://cdn.example.com/feminine/sirona_pantyliners_thumb.jpg",
+    "brand": "Sirona",
+    "category": "687cffff4dd1ce5ed8f7305b",
+    "category_string": "Feminine Hygiene",
+    "sku": "FHY-PTL-004",
+    "barcode": "8909601000042",
+    "variants": [
+      {
+        "label": "Pack of 30",
+        "price": 170,
+        "mrp": 200,
+        "stock": 32,
+        "unit": "pack",
+        "image": "https://cdn.example.com/feminine/sirona_pantyliners.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 200,
+      "sellingPrice": 170,
+      "discountPercent": 15,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["panty liners", "sirona", "biodegradable"],
+    "searchKeywords": ["sirona", "panty liners", "biodegradable"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Pee Safe Reusable Menstrual Cup (Medium)",
+    "slug": "pee-safe-reusable-menstrual-cup-medium",
+    "description": "Soft, reusable menstrual cup for eco-friendly, rash-free period protection.",
+    "highlights": ["Reusable", "Medical grade silicone", "Eco-friendly"],
+    "images": ["https://cdn.example.com/feminine/peesafe_cup.jpg"],
+    "thumbnail": "https://cdn.example.com/feminine/peesafe_cup_thumb.jpg",
+    "brand": "Pee Safe",
+    "category": "687cffff4dd1ce5ed8f7305b",
+    "category_string": "Feminine Hygiene",
+    "sku": "FHY-MCP-005",
+    "barcode": "8909601000059",
+    "variants": [
+      {
+        "label": "Medium",
+        "price": 299,
+        "mrp": 349,
+        "stock": 25,
+        "unit": "piece",
+        "image": "https://cdn.example.com/feminine/peesafe_cup.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 349,
+      "sellingPrice": 299,
+      "discountPercent": 14.61,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["menstrual cup", "pee safe", "reusable"],
+    "searchKeywords": ["pee safe", "menstrual cup", "reusable"],
+    "viewCount": 7,
+    "soldCount": 1
+  }
+]

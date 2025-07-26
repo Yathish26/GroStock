@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Amul Taaza Homogenised Toned Milk",
+    "slug": "amul-taaza-toned-milk",
+    "description": "Amul Taaza Toned Milk, homogenised and pasteurised for safe and healthy consumption.",
+    "highlights": ["Toned milk", "Rich in calcium", "Homogenised & pasteurised"],
+    "images": ["https://cdn.example.com/dairy/amul_taaza.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/amul_taaza_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-MLK-001",
+    "barcode": "8909002000011",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 68,
+        "mrp": 72,
+        "stock": 110,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dairy/amul_taaza.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 72,
+      "sellingPrice": 68,
+      "discountPercent": 5.56,
+      "offerTag": "6% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 110,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["milk", "amul", "dairy"],
+    "searchKeywords": ["amul milk", "toned milk", "dairy"],
+    "viewCount": 80,
+    "soldCount": 47
+  },
+  {
+    "name": "Mother Dairy Curd",
+    "slug": "mother-dairy-curd",
+    "description": "Fresh and creamy curd made from pasteurised milk.",
+    "highlights": ["Creamy texture", "Healthy probiotics"],
+    "images": ["https://cdn.example.com/dairy/motherdairy_curd.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/motherdairy_curd_thumb.jpg",
+    "brand": "Mother Dairy",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-CUR-002",
+    "barcode": "8909002000028",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 38,
+        "mrp": 42,
+        "stock": 70,
+        "unit": "cup",
+        "image": "https://cdn.example.com/dairy/motherdairy_curd.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 42,
+      "sellingPrice": 38,
+      "discountPercent": 9.52,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["curd", "mother dairy", "dairy"],
+    "searchKeywords": ["curd", "mother dairy", "yogurt"],
+    "viewCount": 36,
+    "soldCount": 12
+  },
+  {
+    "name": "Britannia Brown Bread",
+    "slug": "britannia-brown-bread",
+    "description": "Soft and healthy brown bread for a wholesome breakfast.",
+    "highlights": ["Rich in fibre", "Soft texture"],
+    "images": ["https://cdn.example.com/dairy/britannia_brownbread.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/britannia_brownbread_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-BRD-003",
+    "barcode": "8909002000035",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 48,
+        "mrp": 55,
+        "stock": 80,
+        "unit": "loaf",
+        "image": "https://cdn.example.com/dairy/britannia_brownbread.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 55,
+      "sellingPrice": 48,
+      "discountPercent": 12.73,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["bread", "britannia", "brown bread"],
+    "searchKeywords": ["britannia bread", "brown bread"],
+    "viewCount": 34,
+    "soldCount": 11
+  },
+  {
+    "name": "Modern White Bread",
+    "slug": "modern-white-bread",
+    "description": "Classic soft and fresh white bread, perfect for sandwiches.",
+    "highlights": ["Soft texture", "Fresh daily"],
+    "images": ["https://cdn.example.com/dairy/modern_whitebread.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/modern_whitebread_thumb.jpg",
+    "brand": "Modern",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-BRD-004",
+    "barcode": "8909002000042",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 44,
+        "mrp": 50,
+        "stock": 68,
+        "unit": "loaf",
+        "image": "https://cdn.example.com/dairy/modern_whitebread.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 50,
+      "sellingPrice": 44,
+      "discountPercent": 12,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 68,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["bread", "modern", "white bread"],
+    "searchKeywords": ["modern bread", "white bread"],
+    "viewCount": 18,
+    "soldCount": 7
+  },
+  {
+    "name": "Keggs Farm Fresh Eggs (Pack of 6)",
+    "slug": "keggs-farm-fresh-eggs-6",
+    "description": "Farm fresh white eggs, hygienically packed. Good source of protein.",
+    "highlights": ["Farm fresh", "High protein"],
+    "images": ["https://cdn.example.com/dairy/keggs_eggs.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/keggs_eggs_thumb.jpg",
+    "brand": "Keggs",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-EGG-005",
+    "barcode": "8909002000059",
+    "variants": [
+      {
+        "label": "Pack of 6",
+        "price": 72,
+        "mrp": 78,
+        "stock": 95,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dairy/keggs_eggs.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 78,
+      "sellingPrice": 72,
+      "discountPercent": 7.69,
+      "offerTag": "8% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 95,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 8,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["eggs", "keggs", "fresh eggs"],
+    "searchKeywords": ["eggs", "keggs", "farm fresh"],
+    "viewCount": 26,
+    "soldCount": 10
+  },
+  {
+    "name": "Amul Butter",
+    "slug": "amul-butter",
+    "description": "Delicious, creamy and pure Amul butter, ideal for breads and cooking.",
+    "highlights": ["Creamy", "Pure milk fat"],
+    "images": ["https://cdn.example.com/dairy/amul_butter.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/amul_butter_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-MLK-006",
+    "barcode": "8909002000066",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 58,
+        "mrp": 62,
+        "stock": 55,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dairy/amul_butter.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 62,
+      "sellingPrice": 58,
+      "discountPercent": 6.45,
+      "offerTag": "6% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["butter", "amul", "dairy"],
+    "searchKeywords": ["amul butter", "butter", "dairy"],
+    "viewCount": 20,
+    "soldCount": 6
+  },
+  {
+    "name": "Mother Dairy Paneer",
+    "slug": "mother-dairy-paneer",
+    "description": "Fresh and soft paneer, ideal for curries and snacks.",
+    "highlights": ["Soft texture", "High protein"],
+    "images": ["https://cdn.example.com/dairy/motherdairy_paneer.jpg"],
+    "thumbnail": "https://cdn.example.com/dairy/motherdairy_paneer_thumb.jpg",
+    "brand": "Mother Dairy",
+    "category": "687cffff4dd1ce5ed8f73059",
+    "category_string": "Dairy Breads and Eggs",
+    "sku": "DBE-PNR-007",
+    "barcode": "8909002000073",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 80,
+        "mrp": 90,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dairy/motherdairy_paneer.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 90,
+      "sellingPrice": 80,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paneer", "mother dairy", "dairy"],
+    "searchKeywords": ["mother dairy paneer", "paneer", "dairy"],
+    "viewCount": 13,
+    "soldCount": 4
+  }
+]

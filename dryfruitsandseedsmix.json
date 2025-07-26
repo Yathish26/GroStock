@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Happilo Premium International Dried Fruit Mix",
+    "slug": "happilo-premium-international-dried-fruit-mix",
+    "description": "A premium blend of dried fruits including almonds, cashews, pistachios, raisins, and walnuts.",
+    "highlights": ["High protein", "No preservatives", "Mixed nuts & berries"],
+    "images": ["https://cdn.example.com/dryfruits/happilo_mix.jpg"],
+    "thumbnail": "https://cdn.example.com/dryfruits/happilo_mix_thumb.jpg",
+    "brand": "Happilo",
+    "category": "687cffff4dd1ce5ed8f7305a",
+    "category_string": "Dry Fruits and Seeds Mix",
+    "sku": "DFS-MIX-001",
+    "barcode": "8909501000011",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 350,
+        "mrp": 420,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dryfruits/happilo_mix.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 420,
+      "sellingPrice": 350,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["dry fruits", "mixed nuts", "happilo"],
+    "searchKeywords": ["dry fruits", "mixed nuts", "happilo mix"],
+    "viewCount": 32,
+    "soldCount": 14
+  },
+  {
+    "name": "Nutraj Signature Daily Needs Mix",
+    "slug": "nutraj-signature-daily-needs-mix",
+    "description": "A healthy combination of almonds, walnuts, pistachios, raisins, and dried apricots.",
+    "highlights": ["Vitamins & minerals", "Ready to eat", "Wholesome snack"],
+    "images": ["https://cdn.example.com/dryfruits/nutraj_needs.jpg"],
+    "thumbnail": "https://cdn.example.com/dryfruits/nutraj_needs_thumb.jpg",
+    "brand": "Nutraj",
+    "category": "687cffff4dd1ce5ed8f7305a",
+    "category_string": "Dry Fruits and Seeds Mix",
+    "sku": "DFS-MIX-002",
+    "barcode": "8909501000028",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 320,
+        "mrp": 370,
+        "stock": 50,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dryfruits/nutraj_needs.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 370,
+      "sellingPrice": 320,
+      "discountPercent": 13.51,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 50,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["dry fruits", "nutraj", "mixed"],
+    "searchKeywords": ["nutraj", "dry fruit mix", "daily needs"],
+    "viewCount": 20,
+    "soldCount": 7
+  },
+  {
+    "name": "Organic India Seed Mix",
+    "slug": "organic-india-seed-mix",
+    "description": "A nutritious blend of organic flax seeds, chia seeds, pumpkin seeds, and sunflower seeds.",
+    "highlights": ["Organic certified", "Rich in Omega-3", "High fiber"],
+    "images": ["https://cdn.example.com/dryfruits/organicindia_seeds.jpg"],
+    "thumbnail": "https://cdn.example.com/dryfruits/organicindia_seeds_thumb.jpg",
+    "brand": "Organic India",
+    "category": "687cffff4dd1ce5ed8f7305a",
+    "category_string": "Dry Fruits and Seeds Mix",
+    "sku": "DFS-SED-003",
+    "barcode": "8909501000035",
+    "variants": [
+      {
+        "label": "150g",
+        "price": 180,
+        "mrp": 220,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dryfruits/organicindia_seeds.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 220,
+      "sellingPrice": 180,
+      "discountPercent": 18.18,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["seeds", "organic india", "omega-3"],
+    "searchKeywords": ["organic india", "seed mix", "omega-3"],
+    "viewCount": 17,
+    "soldCount": 4
+  },
+  {
+    "name": "Tata Sampann Nutri Mix Dry Fruits",
+    "slug": "tata-sampann-nutri-mix-dry-fruits",
+    "description": "A nutritious mixture of dry fruits and seeds, ideal for daily snacking and energy.",
+    "highlights": ["Energy booster", "Vitamin E", "No added sugar"],
+    "images": ["https://cdn.example.com/dryfruits/tata_sampann_nutri.jpg"],
+    "thumbnail": "https://cdn.example.com/dryfruits/tata_sampann_nutri_thumb.jpg",
+    "brand": "Tata Sampann",
+    "category": "687cffff4dd1ce5ed8f7305a",
+    "category_string": "Dry Fruits and Seeds Mix",
+    "sku": "DFS-MIX-004",
+    "barcode": "8909501000042",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 220,
+        "mrp": 260,
+        "stock": 55,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dryfruits/tata_sampann_nutri.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 260,
+      "sellingPrice": 220,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["dry fruits", "tata sampann", "nutri mix"],
+    "searchKeywords": ["tata sampann", "nutri mix", "seeds"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Rostaa Trail Mix",
+    "slug": "rostaa-trail-mix",
+    "description": "A delicious trail mix with nuts, seeds, and dried berries for instant energy.",
+    "highlights": ["With berries", "Quick energy", "No cholesterol"],
+    "images": ["https://cdn.example.com/dryfruits/rostaa_trailmix.jpg"],
+    "thumbnail": "https://cdn.example.com/dryfruits/rostaa_trailmix_thumb.jpg",
+    "brand": "Rostaa",
+    "category": "687cffff4dd1ce5ed8f7305a",
+    "category_string": "Dry Fruits and Seeds Mix",
+    "sku": "DFS-MIX-005",
+    "barcode": "8909501000059",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 330,
+        "mrp": 390,
+        "stock": 33,
+        "unit": "pack",
+        "image": "https://cdn.example.com/dryfruits/rostaa_trailmix.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 390,
+      "sellingPrice": 330,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 33,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["trail mix", "rostaa", "dry fruits"],
+    "searchKeywords": ["rostaa", "trail mix", "dry fruits"],
+    "viewCount": 8,
+    "soldCount": 2
+  }
+]

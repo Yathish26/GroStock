@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Cadbury Dairy Milk Chocolate Bar",
+    "slug": "cadbury-dairy-milk-chocolate-bar",
+    "description": "Classic milk chocolate from Cadbury, rich and creamy.",
+    "highlights": ["Rich & creamy", "Classic taste"],
+    "images": ["https://cdn.example.com/chocolates/dairymilk.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/dairymilk_thumb.jpg",
+    "brand": "Cadbury",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-001",
+    "barcode": "8908001000011",
+    "variants": [
+      {
+        "label": "50g",
+        "price": 50,
+        "mrp": 60,
+        "stock": 120,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/dairymilk.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 60,
+      "sellingPrice": 50,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["chocolate", "cadbury", "milk chocolate"],
+    "searchKeywords": ["cadbury", "dairy milk", "chocolate"],
+    "viewCount": 95,
+    "soldCount": 45
+  },
+  {
+    "name": "Nestle KitKat",
+    "slug": "nestle-kitkat",
+    "description": "Crispy wafer fingers covered in delicious milk chocolate.",
+    "highlights": ["Wafer fingers", "Crunchy & chocolaty"],
+    "images": ["https://cdn.example.com/chocolates/kitkat.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/kitkat_thumb.jpg",
+    "brand": "Nestle",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-002",
+    "barcode": "8908001000028",
+    "variants": [
+      {
+        "label": "38g",
+        "price": 35,
+        "mrp": 40,
+        "stock": 100,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/kitkat.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 100,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["chocolate", "kitkat", "wafer"],
+    "searchKeywords": ["kitkat", "nestle", "wafer chocolate"],
+    "viewCount": 62,
+    "soldCount": 25
+  },
+  {
+    "name": "Ferrero Rocher",
+    "slug": "ferrero-rocher",
+    "description": "Premium chocolate balls with a whole hazelnut, creamy filling, and crisp wafer.",
+    "highlights": ["Hazelnut center", "Premium chocolate"],
+    "images": ["https://cdn.example.com/chocolates/ferrero.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/ferrero_thumb.jpg",
+    "brand": "Ferrero Rocher",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-003",
+    "barcode": "8908001000035",
+    "variants": [
+      {
+        "label": "16 pcs (200g)",
+        "price": 480,
+        "mrp": 550,
+        "stock": 52,
+        "unit": "box",
+        "image": "https://cdn.example.com/chocolates/ferrero.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 550,
+      "sellingPrice": 480,
+      "discountPercent": 12.73,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 52,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "ferrero rocher", "hazelnut"],
+    "searchKeywords": ["ferrero rocher", "premium chocolate", "hazelnut"],
+    "viewCount": 30,
+    "soldCount": 12
+  },
+  {
+    "name": "Amul Dark Chocolate",
+    "slug": "amul-dark-chocolate",
+    "description": "Rich dark chocolate with minimum 55% cocoa.",
+    "highlights": ["55% cocoa", "Rich & intense"],
+    "images": ["https://cdn.example.com/chocolates/amul_dark.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/amul_dark_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-004",
+    "barcode": "8908001000042",
+    "variants": [
+      {
+        "label": "150g",
+        "price": 110,
+        "mrp": 130,
+        "stock": 60,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/amul_dark.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 110,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "amul", "dark chocolate"],
+    "searchKeywords": ["amul", "dark chocolate", "chocolate"],
+    "viewCount": 19,
+    "soldCount": 7
+  },
+  {
+    "name": "Snickers Chocolate Bar",
+    "slug": "snickers-chocolate-bar",
+    "description": "Delicious bar with nougat, caramel, peanuts, and milk chocolate.",
+    "highlights": ["With peanuts", "Filling snack"],
+    "images": ["https://cdn.example.com/chocolates/snickers.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/snickers_thumb.jpg",
+    "brand": "Snickers",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-005",
+    "barcode": "8908001000059",
+    "variants": [
+      {
+        "label": "45g",
+        "price": 35,
+        "mrp": 40,
+        "stock": 80,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/snickers.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "snickers", "peanut"],
+    "searchKeywords": ["snickers", "chocolate bar", "peanut"],
+    "viewCount": 22,
+    "soldCount": 11
+  },
+  {
+    "name": "Cadbury 5 Star",
+    "slug": "cadbury-5-star",
+    "description": "Chewy caramel and nougat covered with smooth milk chocolate.",
+    "highlights": ["Caramel & nougat", "Chewy texture"],
+    "images": ["https://cdn.example.com/chocolates/5star.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/5star_thumb.jpg",
+    "brand": "Cadbury",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-006",
+    "barcode": "8908001000066",
+    "variants": [
+      {
+        "label": "42g",
+        "price": 30,
+        "mrp": 35,
+        "stock": 98,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/5star.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 35,
+      "sellingPrice": 30,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 98,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "5 star", "cadbury"],
+    "searchKeywords": ["5 star", "cadbury", "chocolate"],
+    "viewCount": 18,
+    "soldCount": 6
+  },
+  {
+    "name": "Perk Chocolate Bar",
+    "slug": "perk-chocolate-bar",
+    "description": "Light wafer bar coated with smooth chocolate.",
+    "highlights": ["Wafer bar", "Light & crunchy"],
+    "images": ["https://cdn.example.com/chocolates/perk.jpg"],
+    "thumbnail": "https://cdn.example.com/chocolates/perk_thumb.jpg",
+    "brand": "Cadbury",
+    "category": "687cffff4dd1ce5ed8f73055",
+    "category_string": "Chocolates",
+    "sku": "CH-CHC-007",
+    "barcode": "8908001000073",
+    "variants": [
+      {
+        "label": "28g",
+        "price": 12,
+        "mrp": 15,
+        "stock": 180,
+        "unit": "bar",
+        "image": "https://cdn.example.com/chocolates/perk.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 15,
+      "sellingPrice": 12,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 180,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 8,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "perk", "wafer"],
+    "searchKeywords": ["perk", "wafer chocolate", "cadbury"],
+    "viewCount": 11,
+    "soldCount": 3
+  }
+]

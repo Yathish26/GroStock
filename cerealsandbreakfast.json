@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Kellogg's Corn Flakes",
+    "slug": "kelloggs-corn-flakes",
+    "description": "Crispy golden flakes, perfect for a healthy breakfast.",
+    "highlights": ["Low fat", "Easy to prepare", "Fortified with vitamins"],
+    "images": ["https://cdn.example.com/cereals/kelloggs_cornflakes.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/kelloggs_cornflakes_thumb.jpg",
+    "brand": "Kellogg's",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-001",
+    "barcode": "8906001000011",
+    "variants": [
+      {
+        "label": "475g",
+        "price": 165,
+        "mrp": 190,
+        "stock": 100,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/kelloggs_cornflakes.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 190,
+      "sellingPrice": 165,
+      "discountPercent": 13.16,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 100,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["cereal", "corn flakes", "kellogg's"],
+    "searchKeywords": ["corn flakes", "kellogg's", "breakfast cereal"],
+    "viewCount": 78,
+    "soldCount": 40
+  },
+  {
+    "name": "Quaker Oats",
+    "slug": "quaker-oats",
+    "description": "100% whole grain oats for a healthy start to your day.",
+    "highlights": ["High in fiber", "Heart healthy"],
+    "images": ["https://cdn.example.com/cereals/quaker_oats.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/quaker_oats_thumb.jpg",
+    "brand": "Quaker",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-002",
+    "barcode": "8906001000028",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 185,
+        "mrp": 220,
+        "stock": 75,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/quaker_oats.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 220,
+      "sellingPrice": 185,
+      "discountPercent": 15.91,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 75,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["oats", "quaker", "breakfast"],
+    "searchKeywords": ["oats", "quaker", "breakfast"],
+    "viewCount": 44,
+    "soldCount": 17
+  },
+  {
+    "name": "Bagrry's Crunchy Muesli",
+    "slug": "bagrrys-crunchy-muesli",
+    "description": "Crunchy muesli with almonds, raisins, and honey.",
+    "highlights": ["High fiber", "With almonds & raisins"],
+    "images": ["https://cdn.example.com/cereals/bagrrys_muesli.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/bagrrys_muesli_thumb.jpg",
+    "brand": "Bagrry's",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-003",
+    "barcode": "8906001000035",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 220,
+        "mrp": 260,
+        "stock": 48,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/bagrrys_muesli.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 260,
+      "sellingPrice": 220,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 48,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["muesli", "bagrry's", "breakfast"],
+    "searchKeywords": ["muesli", "bagrry's", "crunchy muesli"],
+    "viewCount": 19,
+    "soldCount": 8
+  },
+  {
+    "name": "Saffola Masala Oats",
+    "slug": "saffola-masala-oats",
+    "description": "Healthy and tasty masala oats, ready in 3 minutes.",
+    "highlights": ["Ready in 3 mins", "Masala flavor"],
+    "images": ["https://cdn.example.com/cereals/saffola_masala_oats.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/saffola_masala_oats_thumb.jpg",
+    "brand": "Saffola",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-004",
+    "barcode": "8906001000042",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 120,
+        "mrp": 140,
+        "stock": 50,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/saffola_masala_oats.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 140,
+      "sellingPrice": 120,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 50,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["oats", "saffola", "masala oats"],
+    "searchKeywords": ["saffola", "masala oats", "breakfast"],
+    "viewCount": 27,
+    "soldCount": 10
+  },
+  {
+    "name": "Patanjali Corn Flakes Mix",
+    "slug": "patanjali-corn-flakes-mix",
+    "description": "Breakfast corn flakes with added iron and vitamins.",
+    "highlights": ["With iron", "Crunchy"],
+    "images": ["https://cdn.example.com/cereals/patanjali_cornflakes.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/patanjali_cornflakes_thumb.jpg",
+    "brand": "Patanjali",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-005",
+    "barcode": "8906001000059",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 70,
+        "mrp": 80,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/patanjali_cornflakes.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 80,
+      "sellingPrice": 70,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["corn flakes", "patanjali", "breakfast"],
+    "searchKeywords": ["corn flakes", "patanjali", "breakfast"],
+    "viewCount": 12,
+    "soldCount": 3
+  },
+  {
+    "name": "Nestle Nesquik Chocolate Cereal",
+    "slug": "nestle-nesquik-chocolate-cereal",
+    "description": "Chocolate-flavored breakfast cereal made with whole grains.",
+    "highlights": ["Chocolate flavor", "Whole grain"],
+    "images": ["https://cdn.example.com/cereals/nesquik.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/nesquik_thumb.jpg",
+    "brand": "Nestle",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-CER-006",
+    "barcode": "8906001000066",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 170,
+        "mrp": 195,
+        "stock": 55,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/nesquik.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 195,
+      "sellingPrice": 170,
+      "discountPercent": 12.82,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cereal", "chocolate", "nestle"],
+    "searchKeywords": ["nesquik", "chocolate cereal", "breakfast"],
+    "viewCount": 20,
+    "soldCount": 7
+  },
+  {
+    "name": "MTR Instant Dosa Mix",
+    "slug": "mtr-instant-dosa-mix",
+    "description": "Instant dosa mix for quick and easy South Indian breakfast.",
+    "highlights": ["Instant mix", "Authentic taste"],
+    "images": ["https://cdn.example.com/cereals/mtr_dosa_mix.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/mtr_dosa_mix_thumb.jpg",
+    "brand": "MTR",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-MIX-007",
+    "barcode": "8906001000073",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 55,
+        "mrp": 65,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/mtr_dosa_mix.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 65,
+      "sellingPrice": 55,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["instant mix", "dosa", "mtr"],
+    "searchKeywords": ["mtr", "dosa mix", "instant breakfast"],
+    "viewCount": 15,
+    "soldCount": 6
+  },
+  {
+    "name": "Maggi Nutri-Licious Masala Veg Atta Noodles",
+    "slug": "maggi-nutri-licious-masala-veg-atta-noodles",
+    "description": "Tasty noodles made with whole wheat and real vegetables.",
+    "highlights": ["Atta noodles", "Veg masala"],
+    "images": ["https://cdn.example.com/cereals/maggi_atta_noodles.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/maggi_atta_noodles_thumb.jpg",
+    "brand": "Maggi",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-NDL-008",
+    "barcode": "8906001000080",
+    "variants": [
+      {
+        "label": "290g",
+        "price": 75,
+        "mrp": 90,
+        "stock": 70,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/maggi_atta_noodles.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 90,
+      "sellingPrice": 75,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["noodles", "maggi", "atta noodles"],
+    "searchKeywords": ["maggi", "atta noodles", "breakfast"],
+    "viewCount": 25,
+    "soldCount": 10
+  },
+  {
+    "name": "Nestle Everyday Dairy Whitener",
+    "slug": "nestle-everyday-dairy-whitener",
+    "description": "Dairy whitener for a rich, creamy cup of tea or coffee.",
+    "highlights": ["Creamy texture", "Easy to dissolve"],
+    "images": ["https://cdn.example.com/cereals/everyday_whitener.jpg"],
+    "thumbnail": "https://cdn.example.com/cereals/everyday_whitener_thumb.jpg",
+    "brand": "Nestle",
+    "category": "687cffff4dd1ce5ed8f73053",
+    "category_string": "Cereals and Breakfast",
+    "sku": "CB-DRY-009",
+    "barcode": "8906001000097",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 95,
+        "mrp": 112,
+        "stock": 46,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cereals/everyday_whitener.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 112,
+      "sellingPrice": 95,
+      "discountPercent": 15.18,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 46,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 17,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["dairy whitener", "nestle", "breakfast"],
+    "searchKeywords": ["nestle everyday", "dairy whitener", "breakfast"],
+    "viewCount": 10,
+    "soldCount": 3
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Harpic Power Plus Toilet Cleaner",
+    "slug": "harpic-power-plus-toilet-cleaner",
+    "description": "Thick liquid toilet cleaner for tough stains and germs.",
+    "highlights": ["Removes tough stains", "Kills 99.9% germs", "Fresh fragrance"],
+    "images": ["https://cdn.example.com/cleaning/harpic_toilet_cleaner.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/harpic_toilet_cleaner_thumb.jpg",
+    "brand": "Harpic",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-TCL-001",
+    "barcode": "8908001000111",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 98,
+        "mrp": 112,
+        "stock": 95,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/cleaning/harpic_toilet_cleaner.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 112,
+      "sellingPrice": 98,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 95,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["cleaning", "toilet cleaner", "harpic"],
+    "searchKeywords": ["harpic", "toilet cleaner", "cleaning essentials"],
+    "viewCount": 77,
+    "soldCount": 41
+  },
+  {
+    "name": "Lizol Disinfectant Surface Cleaner (Citrus)",
+    "slug": "lizol-disinfectant-surface-cleaner-citrus",
+    "description": "Multi-surface cleaner for floors, tiles, and kitchen with citrus fragrance.",
+    "highlights": ["Kills 99.9% germs", "Citrus fragrance", "Multi-surface use"],
+    "images": ["https://cdn.example.com/cleaning/lizol_citrus.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/lizol_citrus_thumb.jpg",
+    "brand": "Lizol",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-DSC-002",
+    "barcode": "8908001000128",
+    "variants": [
+      {
+        "label": "975ml",
+        "price": 175,
+        "mrp": 199,
+        "stock": 80,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/cleaning/lizol_citrus.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 199,
+      "sellingPrice": 175,
+      "discountPercent": 12.06,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 17,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cleaning", "lizol", "disinfectant"],
+    "searchKeywords": ["lizol", "surface cleaner", "disinfectant"],
+    "viewCount": 49,
+    "soldCount": 20
+  },
+  {
+    "name": "Scotch-Brite Scrub Pad",
+    "slug": "scotch-brite-scrub-pad",
+    "description": "Durable scrub pad for utensils and kitchen cleaning.",
+    "highlights": ["Removes tough stains", "Long-lasting", "Easy grip"],
+    "images": ["https://cdn.example.com/cleaning/scotchbrite_scrubpad.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/scotchbrite_scrubpad_thumb.jpg",
+    "brand": "Scotch-Brite",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-SCR-003",
+    "barcode": "8908001000135",
+    "variants": [
+      {
+        "label": "Pack of 3",
+        "price": 35,
+        "mrp": 45,
+        "stock": 110,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cleaning/scotchbrite_scrubpad.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 45,
+      "sellingPrice": 35,
+      "discountPercent": 22.22,
+      "offerTag": "22% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 110,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["scrub pad", "scotch-brite", "kitchen"],
+    "searchKeywords": ["scrub pad", "scotch-brite", "utensil cleaning"],
+    "viewCount": 33,
+    "soldCount": 12
+  },
+  {
+    "name": "Vim Dishwash Gel Lemon",
+    "slug": "vim-dishwash-gel-lemon",
+    "description": "Lemon fragrance dishwash gel for sparkling clean utensils.",
+    "highlights": ["Tough on grease", "Pleasant lemon fragrance"],
+    "images": ["https://cdn.example.com/cleaning/vim_dishwash_gel.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/vim_dishwash_gel_thumb.jpg",
+    "brand": "Vim",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-DWG-004",
+    "barcode": "8908001000142",
+    "variants": [
+      {
+        "label": "500ml",
+        "price": 98,
+        "mrp": 115,
+        "stock": 85,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/cleaning/vim_dishwash_gel.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 115,
+      "sellingPrice": 98,
+      "discountPercent": 14.78,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 85,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["dishwash", "vim", "lemon"],
+    "searchKeywords": ["vim", "dishwash gel", "lemon"],
+    "viewCount": 40,
+    "soldCount": 18
+  },
+  {
+    "name": "Colin Glass & Surface Cleaner",
+    "slug": "colin-glass-surface-cleaner",
+    "description": "Effective cleaner for glass, mirrors, and shiny surfaces.",
+    "highlights": ["Removes stains", "Streak-free shine", "Pleasant fragrance"],
+    "images": ["https://cdn.example.com/cleaning/colin_glass_cleaner.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/colin_glass_cleaner_thumb.jpg",
+    "brand": "Colin",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-GSC-005",
+    "barcode": "8908001000159",
+    "variants": [
+      {
+        "label": "500ml",
+        "price": 92,
+        "mrp": 109,
+        "stock": 60,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/cleaning/colin_glass_cleaner.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 109,
+      "sellingPrice": 92,
+      "discountPercent": 15.6,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["glass cleaner", "colin", "surface cleaner"],
+    "searchKeywords": ["colin", "glass cleaner", "surface cleaner"],
+    "viewCount": 21,
+    "soldCount": 7
+  },
+  {
+    "name": "Dettol Antiseptic Liquid",
+    "slug": "dettol-antiseptic-liquid",
+    "description": "Trusted antiseptic liquid for first aid, personal, and home hygiene.",
+    "highlights": ["Kills germs", "Multi-purpose"],
+    "images": ["https://cdn.example.com/cleaning/dettol_antiseptic.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/dettol_antiseptic_thumb.jpg",
+    "brand": "Dettol",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-ANT-006",
+    "barcode": "8908001000166",
+    "variants": [
+      {
+        "label": "250ml",
+        "price": 62,
+        "mrp": 72,
+        "stock": 70,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/cleaning/dettol_antiseptic.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 72,
+      "sellingPrice": 62,
+      "discountPercent": 13.89,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["antiseptic", "dettol", "cleaning"],
+    "searchKeywords": ["dettol", "antiseptic", "cleaning"],
+    "viewCount": 15,
+    "soldCount": 5
+  },
+  {
+    "name": "Spotzero by Milton Floor Wiper",
+    "slug": "spotzero-by-milton-floor-wiper",
+    "description": "Durable floor wiper for effective water removal and cleaning.",
+    "highlights": ["Durable", "Lightweight", "Wide blade"],
+    "images": ["https://cdn.example.com/cleaning/spotzero_wiper.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/spotzero_wiper_thumb.jpg",
+    "brand": "Spotzero",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-FWP-007",
+    "barcode": "8908001000173",
+    "variants": [
+      {
+        "label": "Standard",
+        "price": 85,
+        "mrp": 95,
+        "stock": 45,
+        "unit": "piece",
+        "image": "https://cdn.example.com/cleaning/spotzero_wiper.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 95,
+      "sellingPrice": 85,
+      "discountPercent": 10.53,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 45,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 21,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["floor wiper", "spotzero", "cleaning"],
+    "searchKeywords": ["floor wiper", "spotzero", "cleaning"],
+    "viewCount": 11,
+    "soldCount": 3
+  },
+  {
+    "name": "Gala No Dust Broom",
+    "slug": "gala-no-dust-broom",
+    "description": "Long-lasting broom for clean, dust-free floors.",
+    "highlights": ["No dust", "Long handle"],
+    "images": ["https://cdn.example.com/cleaning/gala_broom.jpg"],
+    "thumbnail": "https://cdn.example.com/cleaning/gala_broom_thumb.jpg",
+    "brand": "Gala",
+    "category": "687cffff4dd1ce5ed8f73056",
+    "category_string": "Cleaning Essentials",
+    "sku": "CE-BRM-008",
+    "barcode": "8908001000180",
+    "variants": [
+      {
+        "label": "Standard",
+        "price": 98,
+        "mrp": 115,
+        "stock": 38,
+        "unit": "piece",
+        "image": "https://cdn.example.com/cleaning/gala_broom.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 115,
+      "sellingPrice": 98,
+      "discountPercent": 14.78,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["broom", "gala", "cleaning"],
+    "searchKeywords": ["gala", "no dust broom", "cleaning"],
+    "viewCount": 7,
+    "soldCount": 2
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Pampers Baby-Dry Diapers",
+    "slug": "pampers-baby-dry-diapers",
+    "description": "Pampers Baby-Dry Diapers with magic gel technology for up to 12 hours of dryness.",
+    "highlights": ["Magic gel technology", "Up to 12 hours dryness", "Comfort fit"],
+    "images": ["https://cdn.example.com/babycare/pampers1.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/pampers_thumb.jpg",
+    "brand": "Pampers",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-DRY-001",
+    "barcode": "8903001000011",
+    "variants": [
+      {
+        "label": "Medium (66 pcs)",
+        "price": 899,
+        "mrp": 1050,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/babycare/pampers1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1050,
+      "sellingPrice": 899,
+      "discountPercent": 14.38,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["baby", "diaper", "pampers"],
+    "searchKeywords": ["baby diaper", "pampers", "dry diaper"],
+    "viewCount": 90,
+    "soldCount": 52
+  },
+  {
+    "name": "Johnson's Baby Powder",
+    "slug": "johnsons-baby-powder",
+    "description": "Mild and gentle powder to keep baby skin soft and fresh.",
+    "highlights": ["Hypoallergenic", "Mild fragrance"],
+    "images": ["https://cdn.example.com/babycare/johnsons_powder.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/johnsons_powder_thumb.jpg",
+    "brand": "Johnson's",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-POW-002",
+    "barcode": "8903001000028",
+    "variants": [
+      {
+        "label": "400 g",
+        "price": 148,
+        "mrp": 180,
+        "stock": 60,
+        "unit": "g",
+        "image": "https://cdn.example.com/babycare/johnsons_powder.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 180,
+      "sellingPrice": 148,
+      "discountPercent": 17.78,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 25,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "powder"],
+    "searchKeywords": ["baby powder", "johnson's", "powder"],
+    "viewCount": 40,
+    "soldCount": 22
+  },
+  {
+    "name": "Himalaya Baby Lotion",
+    "slug": "himalaya-baby-lotion",
+    "description": "Himalaya Baby Lotion with olive oil and almond oil for soft skin.",
+    "highlights": ["Olive oil", "Almond oil", "Paraben free"],
+    "images": ["https://cdn.example.com/babycare/himalaya_lotion.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/himalaya_lotion_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-LOT-003",
+    "barcode": "8903001000035",
+    "variants": [
+      {
+        "label": "200 ml",
+        "price": 110,
+        "mrp": 130,
+        "stock": 70,
+        "unit": "ml",
+        "image": "https://cdn.example.com/babycare/himalaya_lotion.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 110,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "lotion", "himalaya"],
+    "searchKeywords": ["baby lotion", "himalaya", "baby care"],
+    "viewCount": 30,
+    "soldCount": 18
+  },
+  {
+    "name": "Mee Mee Mild Baby Shampoo",
+    "slug": "mee-mee-mild-baby-shampoo",
+    "description": "Mild shampoo for baby's delicate scalp, gentle cleansing.",
+    "highlights": ["No tears formula", "Mild fragrance"],
+    "images": ["https://cdn.example.com/babycare/meemee_shampoo.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/meemee_shampoo_thumb.jpg",
+    "brand": "Mee Mee",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-SHP-004",
+    "barcode": "8903001000042",
+    "variants": [
+      {
+        "label": "500 ml",
+        "price": 230,
+        "mrp": 260,
+        "stock": 38,
+        "unit": "ml",
+        "image": "https://cdn.example.com/babycare/meemee_shampoo.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 260,
+      "sellingPrice": 230,
+      "discountPercent": 11.54,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 25,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "shampoo", "mee mee"],
+    "searchKeywords": ["baby shampoo", "mee mee", "no tears"],
+    "viewCount": 18,
+    "soldCount": 6
+  },
+  {
+    "name": "MamyPoko Pants Diapers",
+    "slug": "mamypoko-pants-diapers",
+    "description": "Up to 12 hours absorption for peaceful nights.",
+    "highlights": ["12 hours absorption", "Stretchable", "Comfort fit"],
+    "images": ["https://cdn.example.com/babycare/mamypoko1.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/mamypoko_thumb.jpg",
+    "brand": "MamyPoko",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-DIA-005",
+    "barcode": "8903001000059",
+    "variants": [
+      {
+        "label": "Large (54 pcs)",
+        "price": 950,
+        "mrp": 1199,
+        "stock": 24,
+        "unit": "pack",
+        "image": "https://cdn.example.com/babycare/mamypoko1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1199,
+      "sellingPrice": 950,
+      "discountPercent": 20.68,
+      "offerTag": "21% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 24,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "diaper", "mamypoko"],
+    "searchKeywords": ["diaper", "mamypoko", "pants"],
+    "viewCount": 25,
+    "soldCount": 8
+  },
+  {
+    "name": "Sebamed Baby Cream Extra Soft",
+    "slug": "sebamed-baby-cream-extra-soft",
+    "description": "Protects baby's skin from dryness and rashes.",
+    "highlights": ["Dermatologically tested", "For sensitive skin"],
+    "images": ["https://cdn.example.com/babycare/sebamed_cream.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/sebamed_cream_thumb.jpg",
+    "brand": "Sebamed",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-CRM-006",
+    "barcode": "8903001000066",
+    "variants": [
+      {
+        "label": "100 ml",
+        "price": 340,
+        "mrp": 380,
+        "stock": 18,
+        "unit": "ml",
+        "image": "https://cdn.example.com/babycare/sebamed_cream.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 380,
+      "sellingPrice": 340,
+      "discountPercent": 10.53,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "cream", "sebamed"],
+    "searchKeywords": ["baby cream", "sebamed", "moisturizer"],
+    "viewCount": 14,
+    "soldCount": 3
+  },
+  {
+    "name": "Chicco Baby Wipes",
+    "slug": "chicco-baby-wipes",
+    "description": "Gentle cleansing wipes for baby's delicate skin.",
+    "highlights": ["Alcohol free", "Aloe vera enriched"],
+    "images": ["https://cdn.example.com/babycare/chicco_wipes.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/chicco_wipes_thumb.jpg",
+    "brand": "Chicco",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-WIP-007",
+    "barcode": "8903001000073",
+    "variants": [
+      {
+        "label": "72 wipes",
+        "price": 129,
+        "mrp": 149,
+        "stock": 55,
+        "unit": "pack",
+        "image": "https://cdn.example.com/babycare/chicco_wipes.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 149,
+      "sellingPrice": 129,
+      "discountPercent": 13.42,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "wipes", "chicco"],
+    "searchKeywords": ["baby wipes", "chicco", "aloe vera"],
+    "viewCount": 34,
+    "soldCount": 13
+  },
+  {
+    "name": "Huggies Newborn Diapers",
+    "slug": "huggies-newborn-diapers",
+    "description": "Newborn diapers with wetness indicator and cottony softness.",
+    "highlights": ["Wetness indicator", "Cottony softness"],
+    "images": ["https://cdn.example.com/babycare/huggies_newborn.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/huggies_newborn_thumb.jpg",
+    "brand": "Huggies",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-DIA-008",
+    "barcode": "8903001000080",
+    "variants": [
+      {
+        "label": "Small (24 pcs)",
+        "price": 399,
+        "mrp": 460,
+        "stock": 30,
+        "unit": "pack",
+        "image": "https://cdn.example.com/babycare/huggies_newborn.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 460,
+      "sellingPrice": 399,
+      "discountPercent": 13.26,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 30,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "diaper", "huggies"],
+    "searchKeywords": ["newborn diaper", "huggies"],
+    "viewCount": 22,
+    "soldCount": 7
+  },
+  {
+    "name": "Mamaearth Baby Soap",
+    "slug": "mamaearth-baby-soap",
+    "description": "Natural baby soap, gentle on baby’s skin.",
+    "highlights": ["Natural oils", "No parabens", "Dermatologically tested"],
+    "images": ["https://cdn.example.com/babycare/mamaearth_soap.jpg"],
+    "thumbnail": "https://cdn.example.com/babycare/mamaearth_soap_thumb.jpg",
+    "brand": "Mamaearth",
+    "category": "687cffff4dd1ce5ed8f7304f",
+    "category_string": "Baby Care",
+    "sku": "BC-SOP-009",
+    "barcode": "8903001000097",
+    "variants": [
+      {
+        "label": "75 g",
+        "price": 90,
+        "mrp": 110,
+        "stock": 58,
+        "unit": "g",
+        "image": "https://cdn.example.com/babycare/mamaearth_soap.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 90,
+      "discountPercent": 18.18,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 58,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["baby", "soap", "mamaearth"],
+    "searchKeywords": ["baby soap", "mamaearth"],
+    "viewCount": 19,
+    "soldCount": 8
+  }
+]

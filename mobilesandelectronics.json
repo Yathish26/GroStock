@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Samsung Galaxy M34 5G (6GB RAM, 128GB Storage)",
+    "slug": "samsung-galaxy-m34-5g-6gb-128gb",
+    "description": "Samsung Galaxy M34 5G with AMOLED display, 6000mAh battery, and triple rear camera for all your smartphone needs.",
+    "highlights": ["AMOLED Display", "6000mAh Battery", "Triple Camera", "5G Connectivity"],
+    "images": ["https://cdn.example.com/mobiles/samsung_galaxy_m34.jpg"],
+    "thumbnail": "https://cdn.example.com/mobiles/samsung_galaxy_m34_thumb.jpg",
+    "brand": "Samsung",
+    "category": "687cffff4dd1ce5ed8f73069",
+    "category_string": "Mobiles and Electronics",
+    "sku": "MBE-SAM-001",
+    "barcode": "8938001000011",
+    "variants": [
+      {
+        "label": "6GB+128GB",
+        "price": 16999,
+        "mrp": 21999,
+        "stock": 20,
+        "unit": "piece",
+        "image": "https://cdn.example.com/mobiles/samsung_galaxy_m34.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 21999,
+      "sellingPrice": 16999,
+      "discountPercent": 22.73,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["mobile", "samsung", "smartphone", "5g"],
+    "searchKeywords": ["samsung", "galaxy m34", "5g", "smartphone", "android"],
+    "viewCount": 45,
+    "soldCount": 16
+  },
+  {
+    "name": "Apple iPhone 15 (128GB, Blue)",
+    "slug": "apple-iphone-15-128gb-blue",
+    "description": "Apple iPhone 15 with A16 Bionic chip, dual camera system, and stunning blue finish.",
+    "highlights": ["A16 Bionic", "Super Retina XDR", "Dual Camera", "128GB Storage"],
+    "images": ["https://cdn.example.com/mobiles/iphone_15_blue.jpg"],
+    "thumbnail": "https://cdn.example.com/mobiles/iphone_15_blue_thumb.jpg",
+    "brand": "Apple",
+    "category": "687cffff4dd1ce5ed8f73069",
+    "category_string": "Mobiles and Electronics",
+    "sku": "MBE-APL-002",
+    "barcode": "8938001000028",
+    "variants": [
+      {
+        "label": "128GB",
+        "price": 74999,
+        "mrp": 79999,
+        "stock": 8,
+        "unit": "piece",
+        "image": "https://cdn.example.com/mobiles/iphone_15_blue.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 79999,
+      "sellingPrice": 74999,
+      "discountPercent": 6.25,
+      "offerTag": "6% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 8,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["iphone", "apple", "smartphone"],
+    "searchKeywords": ["iphone 15", "apple", "ios", "blue"],
+    "viewCount": 32,
+    "soldCount": 7
+  },
+  {
+    "name": "boAt Airdopes 141 True Wireless Earbuds",
+    "slug": "boat-airdopes-141-tws-earbuds",
+    "description": "True wireless Bluetooth earbuds with 42-hour playback, ENx noise cancellation, and IPX4 water resistance.",
+    "highlights": ["42H Playback", "ENx Tech", "IPX4", "Touch Controls"],
+    "images": ["https://cdn.example.com/electronics/boat_airdopes_141.jpg"],
+    "thumbnail": "https://cdn.example.com/electronics/boat_airdopes_141_thumb.jpg",
+    "brand": "boAt",
+    "category": "687cffff4dd1ce5ed8f73069",
+    "category_string": "Mobiles and Electronics",
+    "sku": "MBE-BOA-003",
+    "barcode": "8938001000035",
+    "variants": [
+      {
+        "label": "Black",
+        "price": 1199,
+        "mrp": 4490,
+        "stock": 33,
+        "unit": "piece",
+        "image": "https://cdn.example.com/electronics/boat_airdopes_141.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 4490,
+      "sellingPrice": 1199,
+      "discountPercent": 73.3,
+      "offerTag": "73% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 33,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 200,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["earbuds", "boat", "tws", "bluetooth"],
+    "searchKeywords": ["boat", "airdopes", "earbuds", "tws", "bluetooth"],
+    "viewCount": 19,
+    "soldCount": 6
+  },
+  {
+    "name": "Sony Bravia 43 Inch 4K Ultra HD Smart LED TV",
+    "slug": "sony-bravia-43-4k-ultra-hd-smart-tv",
+    "description": "43-inch 4K Ultra HD Smart TV with Android OS, Google Assistant, and HDR support for immersive entertainment.",
+    "highlights": ["4K Ultra HD", "Android TV", "Google Assistant", "HDR"],
+    "images": ["https://cdn.example.com/electronics/sony_bravia_43.jpg"],
+    "thumbnail": "https://cdn.example.com/electronics/sony_bravia_43_thumb.jpg",
+    "brand": "Sony",
+    "category": "687cffff4dd1ce5ed8f73069",
+    "category_string": "Mobiles and Electronics",
+    "sku": "MBE-SON-004",
+    "barcode": "8938001000042",
+    "variants": [
+      {
+        "label": "43 Inch",
+        "price": 34999,
+        "mrp": 52990,
+        "stock": 6,
+        "unit": "piece",
+        "image": "https://cdn.example.com/electronics/sony_bravia_43.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 52990,
+      "sellingPrice": 34999,
+      "discountPercent": 33.92,
+      "offerTag": "34% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 6,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 300,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["tv", "sony", "smart tv", "4k"],
+    "searchKeywords": ["sony", "bravia", "4k tv", "smart tv"],
+    "viewCount": 10,
+    "soldCount": 2
+  },
+  {
+    "name": "Mi Power Bank 3i 20000mAh",
+    "slug": "mi-power-bank-3i-20000mah",
+    "description": "High-capacity 20000mAh power bank with triple output, 18W fast charging, and dual input ports.",
+    "highlights": ["20000mAh", "18W Fast Charging", "Triple Output", "Dual Input"],
+    "images": ["https://cdn.example.com/electronics/mi_powerbank_3i.jpg"],
+    "thumbnail": "https://cdn.example.com/electronics/mi_powerbank_3i_thumb.jpg",
+    "brand": "Mi",
+    "category": "687cffff4dd1ce5ed8f73069",
+    "category_string": "Mobiles and Electronics",
+    "sku": "MBE-MI-005",
+    "barcode": "8938001000059",
+    "variants": [
+      {
+        "label": "20000mAh",
+        "price": 1999,
+        "mrp": 2999,
+        "stock": 29,
+        "unit": "piece",
+        "image": "https://cdn.example.com/electronics/mi_powerbank_3i.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 2999,
+      "sellingPrice": 1999,
+      "discountPercent": 33.34,
+      "offerTag": "33% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 29,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 160,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["power bank", "mi", "charging", "portable"],
+    "searchKeywords": ["mi", "power bank", "20000mah", "portable charger"],
+    "viewCount": 13,
+    "soldCount": 5
+  }
+]

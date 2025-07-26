@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Licious Fresh Chicken Curry Cut",
+    "slug": "licious-fresh-chicken-curry-cut",
+    "description": "Fresh, cleaned chicken curry cut with bone, ideal for curries, marinated and ready to cook.",
+    "highlights": ["Fresh chicken", "Cleaned & cut", "With bone", "Ready to cook"],
+    "images": ["https://cdn.example.com/meat/licious_chicken_curry_cut.jpg"],
+    "thumbnail": "https://cdn.example.com/meat/licious_chicken_curry_cut_thumb.jpg",
+    "brand": "Licious",
+    "category": "687cffff4dd1ce5ed8f73068",
+    "category_string": "Meat and Seafood",
+    "sku": "MAS-CHIC-001",
+    "barcode": "8937001000011",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 219,
+        "mrp": 249,
+        "stock": 46,
+        "unit": "pack",
+        "image": "https://cdn.example.com/meat/licious_chicken_curry_cut.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 249,
+      "sellingPrice": 219,
+      "discountPercent": 12.05,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 46,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 40,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["chicken", "curry cut", "licious", "meat"],
+    "searchKeywords": ["chicken", "curry cut", "licious", "meat"],
+    "viewCount": 31,
+    "soldCount": 13
+  },
+  {
+    "name": "Freshwater Rohu Fish Slices",
+    "slug": "freshwater-rohu-fish-slices",
+    "description": "Sliced Rohu fish, cleaned and ready to cook, perfect for Bengali and East Indian recipes.",
+    "highlights": ["Rohu fish", "Cleaned & sliced", "Freshwater", "Ready to cook"],
+    "images": ["https://cdn.example.com/meat/rohu_fish_slices.jpg"],
+    "thumbnail": "https://cdn.example.com/meat/rohu_fish_slices_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73068",
+    "category_string": "Meat and Seafood",
+    "sku": "MAS-FISH-002",
+    "barcode": "8937001000028",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 259,
+        "mrp": 299,
+        "stock": 22,
+        "unit": "pack",
+        "image": "https://cdn.example.com/meat/rohu_fish_slices.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 299,
+      "sellingPrice": 259,
+      "discountPercent": 13.38,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 45,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["rohu", "fish", "seafood"],
+    "searchKeywords": ["rohu", "fish slices", "freshwater fish"],
+    "viewCount": 14,
+    "soldCount": 4
+  },
+  {
+    "name": "Licious Mutton Curry Cut",
+    "slug": "licious-mutton-curry-cut",
+    "description": "Tender mutton curry cut pieces, cleaned and ready to cook, perfect for rich curries and stews.",
+    "highlights": ["Tender mutton", "Curry cut", "Ready to cook"],
+    "images": ["https://cdn.example.com/meat/licious_mutton_curry_cut.jpg"],
+    "thumbnail": "https://cdn.example.com/meat/licious_mutton_curry_cut_thumb.jpg",
+    "brand": "Licious",
+    "category": "687cffff4dd1ce5ed8f73068",
+    "category_string": "Meat and Seafood",
+    "sku": "MAS-MUT-003",
+    "barcode": "8937001000035",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 489,
+        "mrp": 529,
+        "stock": 15,
+        "unit": "pack",
+        "image": "https://cdn.example.com/meat/licious_mutton_curry_cut.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 529,
+      "sellingPrice": 489,
+      "discountPercent": 7.56,
+      "offerTag": "8% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 47,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["mutton", "curry cut", "licious"],
+    "searchKeywords": ["mutton", "curry cut", "licious"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Fresh Prawns (Medium, Cleaned & Deveined)",
+    "slug": "fresh-prawns-medium-cleaned-deveined",
+    "description": "Fresh medium-sized prawns, fully cleaned and deveined, ready for your favorite seafood recipes.",
+    "highlights": ["Medium prawns", "Cleaned & deveined", "Fresh", "Ready to cook"],
+    "images": ["https://cdn.example.com/meat/fresh_prawns.jpg"],
+    "thumbnail": "https://cdn.example.com/meat/fresh_prawns_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73068",
+    "category_string": "Meat and Seafood",
+    "sku": "MAS-PRW-004",
+    "barcode": "8937001000042",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 239,
+        "mrp": 259,
+        "stock": 18,
+        "unit": "pack",
+        "image": "https://cdn.example.com/meat/fresh_prawns.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 259,
+      "sellingPrice": 239,
+      "discountPercent": 7.72,
+      "offerTag": "8% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 38,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["prawns", "seafood", "cleaned"],
+    "searchKeywords": ["prawns", "seafood", "cleaned prawns"],
+    "viewCount": 6,
+    "soldCount": 2
+  },
+  {
+    "name": "Fresh Eggs (Farm, White)",
+    "slug": "fresh-eggs-farm-white",
+    "description": "Farm-fresh white eggs, rich in protein and nutrients, ideal for breakfast and baking.",
+    "highlights": ["Farm fresh", "White eggs", "Protein-rich"],
+    "images": ["https://cdn.example.com/meat/fresh_eggs.jpg"],
+    "thumbnail": "https://cdn.example.com/meat/fresh_eggs_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73068",
+    "category_string": "Meat and Seafood",
+    "sku": "MAS-EGG-005",
+    "barcode": "8937001000059",
+    "variants": [
+      {
+        "label": "6 pcs",
+        "price": 55,
+        "mrp": 60,
+        "stock": 50,
+        "unit": "tray",
+        "image": "https://cdn.example.com/meat/fresh_eggs.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 60,
+      "sellingPrice": 55,
+      "discountPercent": 8.33,
+      "offerTag": "8% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 50,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["eggs", "farm", "protein"],
+    "searchKeywords": ["eggs", "farm fresh eggs", "white eggs"],
+    "viewCount": 13,
+    "soldCount": 4
+  }
+]

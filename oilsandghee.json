@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Fortune Sunlite Refined Sunflower Oil",
+    "slug": "fortune-sunlite-refined-sunflower-oil",
+    "description": "Light and healthy refined sunflower oil for everyday cooking with a neutral taste.",
+    "highlights": ["Refined", "Light & healthy", "Neutral taste"],
+    "images": ["https://cdn.example.com/oils/fortune_sunflower_oil.jpg"],
+    "thumbnail": "https://cdn.example.com/oils/fortune_sunflower_oil_thumb.jpg",
+    "brand": "Fortune",
+    "category": "687cffff4dd1ce5ed8f7306b",
+    "category_string": "Oils and Ghee",
+    "sku": "OAG-FRT-001",
+    "barcode": "8940001000011",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 145,
+        "mrp": 165,
+        "stock": 52,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/oils/fortune_sunflower_oil.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 165,
+      "sellingPrice": 145,
+      "discountPercent": 12.12,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 52,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["sunflower oil", "fortune", "refined oil"],
+    "searchKeywords": ["fortune", "sunflower oil", "refined", "cooking oil"],
+    "viewCount": 22,
+    "soldCount": 7
+  },
+  {
+    "name": "Saffola Gold Blended Edible Oil",
+    "slug": "saffola-gold-blended-edible-oil",
+    "description": "Healthy blend of rice bran and sunflower oil for a light, heart-friendly cooking experience.",
+    "highlights": ["Blended oil", "Heart healthy", "Rice bran & sunflower"],
+    "images": ["https://cdn.example.com/oils/saffola_gold.jpg"],
+    "thumbnail": "https://cdn.example.com/oils/saffola_gold_thumb.jpg",
+    "brand": "Saffola",
+    "category": "687cffff4dd1ce5ed8f7306b",
+    "category_string": "Oils and Ghee",
+    "sku": "OAG-SAF-002",
+    "barcode": "8940001000028",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 175,
+        "mrp": 199,
+        "stock": 38,
+        "unit": "pouch",
+        "image": "https://cdn.example.com/oils/saffola_gold.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 199,
+      "sellingPrice": 175,
+      "discountPercent": 12.06,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["blended oil", "saffola", "rice bran", "sunflower"],
+    "searchKeywords": ["saffola", "gold", "blended oil", "heart healthy"],
+    "viewCount": 13,
+    "soldCount": 4
+  },
+  {
+    "name": "Dhara Kachi Ghani Mustard Oil",
+    "slug": "dhara-kachi-ghani-mustard-oil",
+    "description": "Cold-pressed mustard oil with a strong aroma, perfect for traditional Indian cooking.",
+    "highlights": ["Kachi Ghani", "Cold-pressed", "Strong aroma"],
+    "images": ["https://cdn.example.com/oils/dhara_mustard.jpg"],
+    "thumbnail": "https://cdn.example.com/oils/dhara_mustard_thumb.jpg",
+    "brand": "Dhara",
+    "category": "687cffff4dd1ce5ed8f7306b",
+    "category_string": "Oils and Ghee",
+    "sku": "OAG-DHA-003",
+    "barcode": "8940001000035",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 189,
+        "mrp": 210,
+        "stock": 25,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/oils/dhara_mustard.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 210,
+      "sellingPrice": 189,
+      "discountPercent": 10,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["mustard oil", "dhara", "kachi ghani"],
+    "searchKeywords": ["dhara", "mustard oil", "kachi ghani", "cold pressed"],
+    "viewCount": 8,
+    "soldCount": 3
+  },
+  {
+    "name": "Patanjali Cow’s Ghee",
+    "slug": "patanjali-cows-ghee",
+    "description": "Pure cow’s ghee made from fresh cream with a rich aroma and granular texture.",
+    "highlights": ["Pure cow ghee", "Rich aroma", "Granular texture"],
+    "images": ["https://cdn.example.com/oils/patanjali_ghee.jpg"],
+    "thumbnail": "https://cdn.example.com/oils/patanjali_ghee_thumb.jpg",
+    "brand": "Patanjali",
+    "category": "687cffff4dd1ce5ed8f7306b",
+    "category_string": "Oils and Ghee",
+    "sku": "OAG-PAT-004",
+    "barcode": "8940001000042",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 555,
+        "mrp": 615,
+        "stock": 33,
+        "unit": "jar",
+        "image": "https://cdn.example.com/oils/patanjali_ghee.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 615,
+      "sellingPrice": 555,
+      "discountPercent": 9.76,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 33,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["ghee", "patanjali", "cow ghee"],
+    "searchKeywords": ["patanjali", "ghee", "cow ghee"],
+    "viewCount": 6,
+    "soldCount": 2
+  },
+  {
+    "name": "Amul Pure Ghee",
+    "slug": "amul-pure-ghee",
+    "description": "Rich and pure ghee made from cow’s milk, ideal for Indian cooking and sweets.",
+    "highlights": ["Pure ghee", "Made from cow’s milk", "Rich flavor"],
+    "images": ["https://cdn.example.com/oils/amul_ghee.jpg"],
+    "thumbnail": "https://cdn.example.com/oils/amul_ghee_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f7306b",
+    "category_string": "Oils and Ghee",
+    "sku": "OAG-AMU-005",
+    "barcode": "8940001000059",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 569,
+        "mrp": 635,
+        "stock": 28,
+        "unit": "tin",
+        "image": "https://cdn.example.com/oils/amul_ghee.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 635,
+      "sellingPrice": 569,
+      "discountPercent": 10.39,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["ghee", "amul", "pure ghee"],
+    "searchKeywords": ["amul", "pure ghee", "cow ghee"],
+    "viewCount": 7,
+    "soldCount": 3
+  }
+]

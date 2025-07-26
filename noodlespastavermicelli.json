@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Maggi 2-Minute Instant Noodles Masala",
+    "slug": "maggi-2minute-instant-noodles-masala",
+    "description": "Classic instant noodles with signature masala tastemaker for a quick and delicious snack.",
+    "highlights": ["Cooks in 2 minutes", "Signature masala", "Classic taste"],
+    "images": ["https://cdn.example.com/noodles/maggi_2min_masala.jpg"],
+    "thumbnail": "https://cdn.example.com/noodles/maggi_2min_masala_thumb.jpg",
+    "brand": "Maggi",
+    "category": "687cffff4dd1ce5ed8f7306a",
+    "category_string": "Noodles, Pasta, Vermicelli",
+    "sku": "NPV-MAG-001",
+    "barcode": "8939001000011",
+    "variants": [
+      {
+        "label": "70g",
+        "price": 16,
+        "mrp": 18,
+        "stock": 120,
+        "unit": "pack",
+        "image": "https://cdn.example.com/noodles/maggi_2min_masala.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 18,
+      "sellingPrice": 16,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["noodles", "maggi", "instant"],
+    "searchKeywords": ["maggi", "instant noodles", "masala"],
+    "viewCount": 64,
+    "soldCount": 33
+  },
+  {
+    "name": "Sunfeast Yippee Noodles Magic Masala",
+    "slug": "sunfeast-yippee-noodles-magic-masala",
+    "description": "Long, non-sticky instant noodles with a unique blend of magic masala spices.",
+    "highlights": ["Long noodles", "Non-sticky", "Magic masala taste"],
+    "images": ["https://cdn.example.com/noodles/yippee_magic_masala.jpg"],
+    "thumbnail": "https://cdn.example.com/noodles/yippee_magic_masala_thumb.jpg",
+    "brand": "Sunfeast Yippee",
+    "category": "687cffff4dd1ce5ed8f7306a",
+    "category_string": "Noodles, Pasta, Vermicelli",
+    "sku": "NPV-YIP-002",
+    "barcode": "8939001000028",
+    "variants": [
+      {
+        "label": "70g",
+        "price": 15,
+        "mrp": 17,
+        "stock": 84,
+        "unit": "pack",
+        "image": "https://cdn.example.com/noodles/yippee_magic_masala.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 17,
+      "sellingPrice": 15,
+      "discountPercent": 11.76,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 84,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["noodles", "yippee", "instant"],
+    "searchKeywords": ["sunfeast", "yippee", "magic masala", "noodles"],
+    "viewCount": 32,
+    "soldCount": 14
+  },
+  {
+    "name": "Weikfield Penne Pasta",
+    "slug": "weikfield-penne-pasta",
+    "description": "Durum wheat penne pasta, perfect for Italian-style recipes and healthy meals.",
+    "highlights": ["100% durum wheat", "No maida", "Authentic Italian style"],
+    "images": ["https://cdn.example.com/noodles/weikfield_penne.jpg"],
+    "thumbnail": "https://cdn.example.com/noodles/weikfield_penne_thumb.jpg",
+    "brand": "Weikfield",
+    "category": "687cffff4dd1ce5ed8f7306a",
+    "category_string": "Noodles, Pasta, Vermicelli",
+    "sku": "NPV-WKF-003",
+    "barcode": "8939001000035",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 89,
+        "mrp": 110,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/noodles/weikfield_penne.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 89,
+      "discountPercent": 19.09,
+      "offerTag": "19% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pasta", "weikfield", "penne"],
+    "searchKeywords": ["weikfield", "pasta", "penne", "durum wheat"],
+    "viewCount": 14,
+    "soldCount": 5
+  },
+  {
+    "name": "Bambino Roasted Vermicelli",
+    "slug": "bambino-roasted-vermicelli",
+    "description": "Premium roasted vermicelli for making upma, kheer, and other Indian dishes.",
+    "highlights": ["Roasted", "Non-sticky", "Versatile use"],
+    "images": ["https://cdn.example.com/noodles/bambino_vermicelli.jpg"],
+    "thumbnail": "https://cdn.example.com/noodles/bambino_vermicelli_thumb.jpg",
+    "brand": "Bambino",
+    "category": "687cffff4dd1ce5ed8f7306a",
+    "category_string": "Noodles, Pasta, Vermicelli",
+    "sku": "NPV-BAM-004",
+    "barcode": "8939001000042",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 25,
+        "mrp": 29,
+        "stock": 52,
+        "unit": "pack",
+        "image": "https://cdn.example.com/noodles/bambino_vermicelli.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 29,
+      "sellingPrice": 25,
+      "discountPercent": 13.79,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 52,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["vermicelli", "bambino", "roasted"],
+    "searchKeywords": ["bambino", "vermicelli", "roasted vermicelli"],
+    "viewCount": 11,
+    "soldCount": 3
+  },
+  {
+    "name": "Disano Fusilli Pasta",
+    "slug": "disano-fusilli-pasta",
+    "description": "Premium quality Italian fusilli pasta made from 100% durum wheat semolina.",
+    "highlights": ["Italian style", "100% durum wheat", "No maida"],
+    "images": ["https://cdn.example.com/noodles/disano_fusilli.jpg"],
+    "thumbnail": "https://cdn.example.com/noodles/disano_fusilli_thumb.jpg",
+    "brand": "Disano",
+    "category": "687cffff4dd1ce5ed8f7306a",
+    "category_string": "Noodles, Pasta, Vermicelli",
+    "sku": "NPV-DSN-005",
+    "barcode": "8939001000059",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 99,
+        "mrp": 125,
+        "stock": 38,
+        "unit": "pack",
+        "image": "https://cdn.example.com/noodles/disano_fusilli.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 125,
+      "sellingPrice": 99,
+      "discountPercent": 20.8,
+      "offerTag": "21% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pasta", "disano", "fusilli"],
+    "searchKeywords": ["disano", "fusilli", "pasta", "durum wheat"],
+    "viewCount": 8,
+    "soldCount": 2
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Tata Tea Premium",
+    "slug": "tata-tea-premium",
+    "description": "Popular Indian tea blend with rich flavor and strong aroma, perfect for daily chai.",
+    "highlights": ["Rich flavor", "Strong aroma", "Indian blend"],
+    "images": ["https://cdn.example.com/beverages/tata_tea_premium.jpg"],
+    "thumbnail": "https://cdn.example.com/beverages/tata_tea_premium_thumb.jpg",
+    "brand": "Tata Tea",
+    "category": "687cffff4dd1ce5ed8f73076",
+    "category_string": "Tea, Coffee and Milk Drinks",
+    "sku": "TCM-TAT-001",
+    "barcode": "8951001000011",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 210,
+        "mrp": 245,
+        "stock": 31,
+        "unit": "pack",
+        "image": "https://cdn.example.com/beverages/tata_tea_premium.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 245,
+      "sellingPrice": 210,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 31,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["tea", "tata", "chai"],
+    "searchKeywords": ["tata tea", "premium", "indian chai"],
+    "viewCount": 19,
+    "soldCount": 7
+  },
+  {
+    "name": "Nescafé Classic Instant Coffee",
+    "slug": "nescafe-classic-instant-coffee",
+    "description": "Instant coffee with a rich, robust taste, made from high-quality coffee beans.",
+    "highlights": ["Rich taste", "Instant", "Premium beans"],
+    "images": ["https://cdn.example.com/beverages/nescafe_classic.jpg"],
+    "thumbnail": "https://cdn.example.com/beverages/nescafe_classic_thumb.jpg",
+    "brand": "Nescafé",
+    "category": "687cffff4dd1ce5ed8f73076",
+    "category_string": "Tea, Coffee and Milk Drinks",
+    "sku": "TCM-NES-002",
+    "barcode": "8951001000028",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 295,
+        "mrp": 345,
+        "stock": 21,
+        "unit": "jar",
+        "image": "https://cdn.example.com/beverages/nescafe_classic.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 345,
+      "sellingPrice": 295,
+      "discountPercent": 14.49,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["coffee", "nescafe", "instant"],
+    "searchKeywords": ["nescafe", "instant coffee", "classic"],
+    "viewCount": 12,
+    "soldCount": 3
+  },
+  {
+    "name": "Bru Gold Instant Coffee",
+    "slug": "bru-gold-instant-coffee",
+    "description": "Premium instant coffee blend of 100% pure coffee beans, rich and aromatic.",
+    "highlights": ["100% coffee beans", "Rich aroma", "Instant"],
+    "images": ["https://cdn.example.com/beverages/bru_gold.jpg"],
+    "thumbnail": "https://cdn.example.com/beverages/bru_gold_thumb.jpg",
+    "brand": "Bru",
+    "category": "687cffff4dd1ce5ed8f73076",
+    "category_string": "Tea, Coffee and Milk Drinks",
+    "sku": "TCM-BRU-003",
+    "barcode": "8951001000035",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 249,
+        "mrp": 295,
+        "stock": 18,
+        "unit": "jar",
+        "image": "https://cdn.example.com/beverages/bru_gold.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 295,
+      "sellingPrice": 249,
+      "discountPercent": 15.59,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["coffee", "bru", "instant"],
+    "searchKeywords": ["bru", "gold", "instant coffee"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Amul Taaza Toned Milk",
+    "slug": "amul-taaza-toned-milk",
+    "description": "Nutritious, homogenized toned milk, perfect for drinking or adding to tea and coffee.",
+    "highlights": ["Homogenized", "Nutritious", "Fresh taste"],
+    "images": ["https://cdn.example.com/beverages/amul_taaza.jpg"],
+    "thumbnail": "https://cdn.example.com/beverages/amul_taaza_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f73076",
+    "category_string": "Tea, Coffee and Milk Drinks",
+    "sku": "TCM-AMU-004",
+    "barcode": "8951001000042",
+    "variants": [
+      {
+        "label": "1L",
+        "price": 72,
+        "mrp": 76,
+        "stock": 38,
+        "unit": "carton",
+        "image": "https://cdn.example.com/beverages/amul_taaza.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 76,
+      "sellingPrice": 72,
+      "discountPercent": 5.26,
+      "offerTag": "5% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 8,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["milk", "amul", "dairy"],
+    "searchKeywords": ["amul", "taaza", "toned milk"],
+    "viewCount": 14,
+    "soldCount": 5
+  },
+  {
+    "name": "Mother Dairy Classic Lassi",
+    "slug": "mother-dairy-classic-lassi",
+    "description": "Refreshing traditional Indian lassi, mildly sweetened and ready to drink.",
+    "highlights": ["Ready to drink", "Traditional", "Mildly sweet"],
+    "images": ["https://cdn.example.com/beverages/motherdairy_lassi.jpg"],
+    "thumbnail": "https://cdn.example.com/beverages/motherdairy_lassi_thumb.jpg",
+    "brand": "Mother Dairy",
+    "category": "687cffff4dd1ce5ed8f73076",
+    "category_string": "Tea, Coffee and Milk Drinks",
+    "sku": "TCM-MOD-005",
+    "barcode": "8951001000059",
+    "variants": [
+      {
+        "label": "200ml",
+        "price": 24,
+        "mrp": 26,
+        "stock": 25,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/beverages/motherdairy_lassi.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 26,
+      "sellingPrice": 24,
+      "discountPercent": 7.69,
+      "offerTag": "8% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 9,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["lassi", "mother dairy", "drink"],
+    "searchKeywords": ["mother dairy", "lassi", "classic"],
+    "viewCount": 8,
+    "soldCount": 2
+  }
+]

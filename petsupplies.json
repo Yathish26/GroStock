@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Pedigree Adult Dry Dog Food, Chicken & Vegetables",
+    "slug": "pedigree-adult-dry-dog-food-chicken-vegetables",
+    "description": "Complete and balanced nutrition for adult dogs with the goodness of chicken and vegetables.",
+    "highlights": ["For adult dogs", "Chicken & vegetables", "Balanced nutrition"],
+    "images": ["https://cdn.example.com/pet/pedigree_dog_food.jpg"],
+    "thumbnail": "https://cdn.example.com/pet/pedigree_dog_food_thumb.jpg",
+    "brand": "Pedigree",
+    "category": "687cffff4dd1ce5ed8f7306e",
+    "category_string": "Pet Supplies",
+    "sku": "PET-PED-001",
+    "barcode": "8943001000011",
+    "variants": [
+      {
+        "label": "3kg",
+        "price": 699,
+        "mrp": 820,
+        "stock": 21,
+        "unit": "bag",
+        "image": "https://cdn.example.com/pet/pedigree_dog_food.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 820,
+      "sellingPrice": 699,
+      "discountPercent": 14.76,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 180,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["dog food", "pedigree", "adult dogs"],
+    "searchKeywords": ["pedigree", "dog food", "adult", "chicken"],
+    "viewCount": 15,
+    "soldCount": 5
+  },
+  {
+    "name": "Whiskas Adult Cat Food, Ocean Fish",
+    "slug": "whiskas-adult-cat-food-ocean-fish",
+    "description": "Ocean fish flavored dry cat food for adult cats, fortified with essential nutrients and vitamins.",
+    "highlights": ["For adult cats", "Ocean fish", "Essential nutrients"],
+    "images": ["https://cdn.example.com/pet/whiskas_cat_food.jpg"],
+    "thumbnail": "https://cdn.example.com/pet/whiskas_cat_food_thumb.jpg",
+    "brand": "Whiskas",
+    "category": "687cffff4dd1ce5ed8f7306e",
+    "category_string": "Pet Supplies",
+    "sku": "PET-WHK-002",
+    "barcode": "8943001000028",
+    "variants": [
+      {
+        "label": "1.2kg",
+        "price": 410,
+        "mrp": 460,
+        "stock": 18,
+        "unit": "bag",
+        "image": "https://cdn.example.com/pet/whiskas_cat_food.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 460,
+      "sellingPrice": 410,
+      "discountPercent": 10.87,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cat food", "whiskas", "ocean fish"],
+    "searchKeywords": ["cat food", "whiskas", "ocean fish"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Drools Absolute Calcium Dog Chewable Tablets",
+    "slug": "drools-absolute-calcium-dog-chewable-tablets",
+    "description": "Calcium supplement tablets for dogs to support healthy bones and teeth.",
+    "highlights": ["Calcium supplement", "Chewable tablets", "For dogs"],
+    "images": ["https://cdn.example.com/pet/drools_calcium.jpg"],
+    "thumbnail": "https://cdn.example.com/pet/drools_calcium_thumb.jpg",
+    "brand": "Drools",
+    "category": "687cffff4dd1ce5ed8f7306e",
+    "category_string": "Pet Supplies",
+    "sku": "PET-DRO-003",
+    "barcode": "8943001000035",
+    "variants": [
+      {
+        "label": "110 tabs",
+        "price": 265,
+        "mrp": 320,
+        "stock": 15,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/pet/drools_calcium.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 320,
+      "sellingPrice": 265,
+      "discountPercent": 17.19,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 130,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["calcium supplement", "drools", "dog tablets"],
+    "searchKeywords": ["dog supplement", "drools", "calcium tablets"],
+    "viewCount": 7,
+    "soldCount": 1
+  },
+  {
+    "name": "Himalaya Erina EP Tick & Flea Dog Shampoo",
+    "slug": "himalaya-erina-ep-tick-flea-dog-shampoo",
+    "description": "Herbal shampoo for dogs, effective against ticks, fleas, and lice, leaves coat soft and shiny.",
+    "highlights": ["Anti-tick & flea", "Herbal", "For dogs"],
+    "images": ["https://cdn.example.com/pet/himalaya_tick_shampoo.jpg"],
+    "thumbnail": "https://cdn.example.com/pet/himalaya_tick_shampoo_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f7306e",
+    "category_string": "Pet Supplies",
+    "sku": "PET-HIM-004",
+    "barcode": "8943001000042",
+    "variants": [
+      {
+        "label": "200ml",
+        "price": 185,
+        "mrp": 210,
+        "stock": 13,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/pet/himalaya_tick_shampoo.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 210,
+      "sellingPrice": 185,
+      "discountPercent": 11.9,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 13,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["dog shampoo", "himalaya", "tick & flea"],
+    "searchKeywords": ["dog shampoo", "himalaya", "tick shampoo"],
+    "viewCount": 6,
+    "soldCount": 1
+  },
+  {
+    "name": "Me-O Creamy Treats for Cats (Salmon)",
+    "slug": "meo-creamy-treats-cats-salmon",
+    "description": "Creamy lickable treats for cats, rich in salmon flavor and essential nutrients.",
+    "highlights": ["Cat treats", "Salmon flavor", "Creamy texture"],
+    "images": ["https://cdn.example.com/pet/meo_creamy_treats.jpg"],
+    "thumbnail": "https://cdn.example.com/pet/meo_creamy_treats_thumb.jpg",
+    "brand": "Me-O",
+    "category": "687cffff4dd1ce5ed8f7306e",
+    "category_string": "Pet Supplies",
+    "sku": "PET-MEO-005",
+    "barcode": "8943001000059",
+    "variants": [
+      {
+        "label": "60g (4 sticks)",
+        "price": 75,
+        "mrp": 90,
+        "stock": 22,
+        "unit": "pack",
+        "image": "https://cdn.example.com/pet/meo_creamy_treats.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 90,
+      "sellingPrice": 75,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 100,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cat treats", "me-o", "salmon"],
+    "searchKeywords": ["me-o", "cat treats", "salmon"],
+    "viewCount": 4,
+    "soldCount": 1
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Parle-G Original Glucose Biscuits",
+    "slug": "parle-g-original-glucose-biscuits",
+    "description": "Classic and most-loved glucose biscuits, perfect with tea.",
+    "highlights": ["Classic taste", "Source of energy"],
+    "images": ["https://cdn.example.com/biscuits/parle_g.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/parle_g_thumb.jpg",
+    "brand": "Parle",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-001",
+    "barcode": "8905001000011",
+    "variants": [
+      {
+        "label": "800g Family Pack",
+        "price": 80,
+        "mrp": 95,
+        "stock": 90,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/parle_g.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 95,
+      "sellingPrice": 80,
+      "discountPercent": 15.79,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 90,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["biscuits", "parle", "glucose"],
+    "searchKeywords": ["parle g", "glucose biscuits", "biscuits"],
+    "viewCount": 120,
+    "soldCount": 70
+  },
+  {
+    "name": "Britannia Marie Gold",
+    "slug": "britannia-marie-gold",
+    "description": "Light and crisp biscuits, ideal for tea-time snacking.",
+    "highlights": ["Low fat", "Crispy texture"],
+    "images": ["https://cdn.example.com/biscuits/marie_gold.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/marie_gold_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-002",
+    "barcode": "8905001000028",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 35,
+        "mrp": 40,
+        "stock": 120,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/marie_gold.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["biscuits", "britannia", "marie gold"],
+    "searchKeywords": ["marie gold", "biscuits", "britannia"],
+    "viewCount": 80,
+    "soldCount": 52
+  },
+  {
+    "name": "Sunfeast Dark Fantasy Choco Fills",
+    "slug": "sunfeast-dark-fantasy-choco-fills",
+    "description": "Rich chocolate-filled cookies for a decadent treat.",
+    "highlights": ["Chocolate filling", "Crunchy outside"],
+    "images": ["https://cdn.example.com/biscuits/dark_fantasy.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/dark_fantasy_thumb.jpg",
+    "brand": "Sunfeast",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-003",
+    "barcode": "8905001000035",
+    "variants": [
+      {
+        "label": "75g",
+        "price": 35,
+        "mrp": 40,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/dark_fantasy.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["biscuits", "sunfeast", "choco fills"],
+    "searchKeywords": ["dark fantasy", "choco fills", "biscuits"],
+    "viewCount": 45,
+    "soldCount": 30
+  },
+  {
+    "name": "Britannia Good Day Cashew Cookies",
+    "slug": "britannia-good-day-cashew-cookies",
+    "description": "Rich, buttery cookies with crunchy cashew bits.",
+    "highlights": ["Buttery", "With cashew nuts"],
+    "images": ["https://cdn.example.com/biscuits/good_day.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/good_day_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-004",
+    "barcode": "8905001000042",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 40,
+        "mrp": 47,
+        "stock": 80,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/good_day.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 47,
+      "sellingPrice": 40,
+      "discountPercent": 14.89,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["biscuits", "good day", "cashew"],
+    "searchKeywords": ["good day", "cashew cookies", "britannia"],
+    "viewCount": 55,
+    "soldCount": 24
+  },
+  {
+    "name": "Cadbury Choco Layered Cake",
+    "slug": "cadbury-choco-layered-cake",
+    "description": "Soft and spongy chocolate cake with a rich choco layer.",
+    "highlights": ["Chocolate cake", "Rich choco layer"],
+    "images": ["https://cdn.example.com/cakes/cadbury_cake.jpg"],
+    "thumbnail": "https://cdn.example.com/cakes/cadbury_cake_thumb.jpg",
+    "brand": "Cadbury",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-CAK-005",
+    "barcode": "8905001000059",
+    "variants": [
+      {
+        "label": "150g",
+        "price": 60,
+        "mrp": 70,
+        "stock": 44,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cakes/cadbury_cake.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 70,
+      "sellingPrice": 60,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 44,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["cake", "cadbury", "chocolate"],
+    "searchKeywords": ["cadbury cake", "chocolate cake"],
+    "viewCount": 42,
+    "soldCount": 15
+  },
+  {
+    "name": "Britannia Treat Jim Jam",
+    "slug": "britannia-treat-jim-jam",
+    "description": "Crunchy biscuits with a jam center and sugar crystals.",
+    "highlights": ["Jam center", "Sugar toppings"],
+    "images": ["https://cdn.example.com/biscuits/jim_jam.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/jim_jam_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-006",
+    "barcode": "8905001000066",
+    "variants": [
+      {
+        "label": "150g",
+        "price": 40,
+        "mrp": 45,
+        "stock": 76,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/jim_jam.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 45,
+      "sellingPrice": 40,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 76,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["biscuits", "jim jam", "treat"],
+    "searchKeywords": ["jim jam", "treat biscuits", "britannia"],
+    "viewCount": 32,
+    "soldCount": 10
+  },
+  {
+    "name": "Unibic Choco Chip Cookies",
+    "slug": "unibic-choco-chip-cookies",
+    "description": "Loaded with chocolate chips for a delightful bite.",
+    "highlights": ["Choco chips", "Crunchy"],
+    "images": ["https://cdn.example.com/biscuits/unibic_choco_chip.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/unibic_choco_chip_thumb.jpg",
+    "brand": "Unibic",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-007",
+    "barcode": "8905001000073",
+    "variants": [
+      {
+        "label": "75g",
+        "price": 35,
+        "mrp": 40,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/unibic_choco_chip.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["biscuits", "choco chip", "unibic"],
+    "searchKeywords": ["unibic", "choco chip cookies", "biscuits"],
+    "viewCount": 17,
+    "soldCount": 7
+  },
+  {
+    "name": "Britannia Milk Bikis",
+    "slug": "britannia-milk-bikis",
+    "description": "Milky, crunchy biscuits perfect for kids.",
+    "highlights": ["Milky taste", "Crunchy"],
+    "images": ["https://cdn.example.com/biscuits/milk_bikis.jpg"],
+    "thumbnail": "https://cdn.example.com/biscuits/milk_bikis_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-BIS-008",
+    "barcode": "8905001000080",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 20,
+        "mrp": 24,
+        "stock": 110,
+        "unit": "pack",
+        "image": "https://cdn.example.com/biscuits/milk_bikis.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 24,
+      "sellingPrice": 20,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 110,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["biscuits", "milk bikis", "kids"],
+    "searchKeywords": ["milk bikis", "britannia", "biscuits"],
+    "viewCount": 22,
+    "soldCount": 11
+  },
+  {
+    "name": "Britannia Fruit Cake",
+    "slug": "britannia-fruit-cake",
+    "description": "Soft and spongy cake with real fruit bits for a rich taste.",
+    "highlights": ["Fruit bits", "Soft cake"],
+    "images": ["https://cdn.example.com/cakes/fruit_cake.jpg"],
+    "thumbnail": "https://cdn.example.com/cakes/fruit_cake_thumb.jpg",
+    "brand": "Britannia",
+    "category": "687cffff4dd1ce5ed8f73051",
+    "category_string": "Biscuits and Cakes",
+    "sku": "BC-CAK-009",
+    "barcode": "8905001000097",
+    "variants": [
+      {
+        "label": "120g",
+        "price": 40,
+        "mrp": 48,
+        "stock": 80,
+        "unit": "pack",
+        "image": "https://cdn.example.com/cakes/fruit_cake.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 48,
+      "sellingPrice": 40,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cake", "fruit cake", "britannia"],
+    "searchKeywords": ["fruit cake", "britannia", "cakes"],
+    "viewCount": 19,
+    "soldCount": 9
+  }
+]

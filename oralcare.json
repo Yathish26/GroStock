@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Colgate Strong Teeth Toothpaste",
+    "slug": "colgate-strong-teeth-toothpaste",
+    "description": "Strengthens teeth with calcium and minerals; fights cavities for all-round oral protection.",
+    "highlights": ["Strengthens teeth", "Fights cavities", "Fresh breath"],
+    "images": ["https://cdn.example.com/oralcare/colgate_strong_teeth.jpg"],
+    "thumbnail": "https://cdn.example.com/oralcare/colgate_strong_teeth_thumb.jpg",
+    "brand": "Colgate",
+    "category": "687cffff4dd1ce5ed8f7306c",
+    "category_string": "Oral Care",
+    "sku": "ORC-COL-001",
+    "barcode": "8941001000011",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 99,
+        "mrp": 110,
+        "stock": 60,
+        "unit": "tube",
+        "image": "https://cdn.example.com/oralcare/colgate_strong_teeth.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 99,
+      "discountPercent": 10,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["toothpaste", "colgate", "strong teeth"],
+    "searchKeywords": ["colgate", "strong teeth", "toothpaste", "oral care"],
+    "viewCount": 23,
+    "soldCount": 8
+  },
+  {
+    "name": "Sensodyne Fresh Mint Toothpaste",
+    "slug": "sensodyne-fresh-mint-toothpaste",
+    "description": "Relieves tooth sensitivity and helps protect against pain triggers, with long-lasting mint freshness.",
+    "highlights": ["For sensitive teeth", "Mint flavor", "Cavity protection"],
+    "images": ["https://cdn.example.com/oralcare/sensodyne_mint.jpg"],
+    "thumbnail": "https://cdn.example.com/oralcare/sensodyne_mint_thumb.jpg",
+    "brand": "Sensodyne",
+    "category": "687cffff4dd1ce5ed8f7306c",
+    "category_string": "Oral Care",
+    "sku": "ORC-SEN-002",
+    "barcode": "8941001000028",
+    "variants": [
+      {
+        "label": "75g",
+        "price": 125,
+        "mrp": 140,
+        "stock": 44,
+        "unit": "tube",
+        "image": "https://cdn.example.com/oralcare/sensodyne_mint.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 140,
+      "sellingPrice": 125,
+      "discountPercent": 10.71,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 44,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["toothpaste", "sensodyne", "sensitive"],
+    "searchKeywords": ["sensodyne", "toothpaste", "mint", "sensitivity"],
+    "viewCount": 16,
+    "soldCount": 5
+  },
+  {
+    "name": "Pepsodent Germicheck Toothpaste",
+    "slug": "pepsodent-germicheck-toothpaste",
+    "description": "Protects against cavity-causing germs and ensures all-day freshness with regular brushing.",
+    "highlights": ["Germ protection", "Freshness", "Cavity protection"],
+    "images": ["https://cdn.example.com/oralcare/pepsodent_germicheck.jpg"],
+    "thumbnail": "https://cdn.example.com/oralcare/pepsodent_germicheck_thumb.jpg",
+    "brand": "Pepsodent",
+    "category": "687cffff4dd1ce5ed8f7306c",
+    "category_string": "Oral Care",
+    "sku": "ORC-PEP-003",
+    "barcode": "8941001000035",
+    "variants": [
+      {
+        "label": "150g",
+        "price": 72,
+        "mrp": 85,
+        "stock": 41,
+        "unit": "tube",
+        "image": "https://cdn.example.com/oralcare/pepsodent_germicheck.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 85,
+      "sellingPrice": 72,
+      "discountPercent": 15.29,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 41,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["toothpaste", "pepsodent", "germicheck"],
+    "searchKeywords": ["pepsodent", "germicheck", "toothpaste", "oral care"],
+    "viewCount": 10,
+    "soldCount": 4
+  },
+  {
+    "name": "Oral-B Pro-Health All-in-One Toothbrush (Medium)",
+    "slug": "oralb-prohealth-allinone-toothbrush-medium",
+    "description": "Removes plaque, massages gums, and cleans difficult-to-reach areas for complete oral care.",
+    "highlights": ["Plaque removal", "Gum care", "All-in-one design"],
+    "images": ["https://cdn.example.com/oralcare/oralb_prohealth.jpg"],
+    "thumbnail": "https://cdn.example.com/oralcare/oralb_prohealth_thumb.jpg",
+    "brand": "Oral-B",
+    "category": "687cffff4dd1ce5ed8f7306c",
+    "category_string": "Oral Care",
+    "sku": "ORC-ORB-004",
+    "barcode": "8941001000042",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 49,
+        "mrp": 55,
+        "stock": 55,
+        "unit": "piece",
+        "image": "https://cdn.example.com/oralcare/oralb_prohealth.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 55,
+      "sellingPrice": 49,
+      "discountPercent": 10.91,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 9,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["toothbrush", "oralb", "pro-health"],
+    "searchKeywords": ["oralb", "toothbrush", "pro health", "oral care"],
+    "viewCount": 11,
+    "soldCount": 3
+  },
+  {
+    "name": "Listerine Cool Mint Mouthwash",
+    "slug": "listerine-cool-mint-mouthwash",
+    "description": "Antiseptic mouthwash for 24-hour protection against germs and long-lasting minty freshness.",
+    "highlights": ["Antiseptic", "Mint flavor", "24-hour protection"],
+    "images": ["https://cdn.example.com/oralcare/listerine_mouthwash.jpg"],
+    "thumbnail": "https://cdn.example.com/oralcare/listerine_mouthwash_thumb.jpg",
+    "brand": "Listerine",
+    "category": "687cffff4dd1ce5ed8f7306c",
+    "category_string": "Oral Care",
+    "sku": "ORC-LIS-005",
+    "barcode": "8941001000059",
+    "variants": [
+      {
+        "label": "250ml",
+        "price": 110,
+        "mrp": 125,
+        "stock": 20,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/oralcare/listerine_mouthwash.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 125,
+      "sellingPrice": 110,
+      "discountPercent": 12,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["mouthwash", "listerine", "mint"],
+    "searchKeywords": ["listerine", "mouthwash", "cool mint", "oral care"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

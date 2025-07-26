@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Cosco Fitness Hex Dumbbells (Pair)",
+    "slug": "cosco-fitness-hex-dumbbells-pair",
+    "description": "Durable hex-shaped rubber dumbbells for home and gym workouts. Anti-roll design for safety.",
+    "highlights": ["Rubber coated", "Anti-roll", "Available in multiple weights"],
+    "images": ["https://cdn.example.com/sports/cosco_hex_dumbbells.jpg"],
+    "thumbnail": "https://cdn.example.com/sports/cosco_hex_dumbbells_thumb.jpg",
+    "brand": "Cosco",
+    "category": "687cffff4dd1ce5ed8f73074",
+    "category_string": "Sports and Fitness",
+    "sku": "SPF-COS-001",
+    "barcode": "8949001000011",
+    "variants": [
+      {
+        "label": "2kg (Pair)",
+        "price": 599,
+        "mrp": 760,
+        "stock": 21,
+        "unit": "pair",
+        "image": "https://cdn.example.com/sports/cosco_hex_dumbbells.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 760,
+      "sellingPrice": 599,
+      "discountPercent": 21.18,
+      "offerTag": "21% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["dumbbells", "fitness", "cosco"],
+    "searchKeywords": ["cosco", "dumbbells", "hex", "fitness"],
+    "viewCount": 13,
+    "soldCount": 6
+  },
+  {
+    "name": "Yonex GR 303 Badminton Racket",
+    "slug": "yonex-gr-303-badminton-racket",
+    "description": "Lightweight and durable badminton racket for beginners and casual play.",
+    "highlights": ["Lightweight", "For beginners", "Aluminium frame"],
+    "images": ["https://cdn.example.com/sports/yonex_gr303.jpg"],
+    "thumbnail": "https://cdn.example.com/sports/yonex_gr303_thumb.jpg",
+    "brand": "Yonex",
+    "category": "687cffff4dd1ce5ed8f73074",
+    "category_string": "Sports and Fitness",
+    "sku": "SPF-YON-002",
+    "barcode": "8949001000028",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 499,
+        "mrp": 650,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/sports/yonex_gr303.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 650,
+      "sellingPrice": 499,
+      "discountPercent": 23.23,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 100,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["badminton", "yonex", "racket"],
+    "searchKeywords": ["yonex", "badminton", "racket", "GR303"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Nivia Storm Football Size 5",
+    "slug": "nivia-storm-football-size-5",
+    "description": "Durable and water-resistant football with high air retention for regular play.",
+    "highlights": ["Size 5", "Water-resistant", "Durable outer"],
+    "images": ["https://cdn.example.com/sports/nivia_storm_football.jpg"],
+    "thumbnail": "https://cdn.example.com/sports/nivia_storm_football_thumb.jpg",
+    "brand": "Nivia",
+    "category": "687cffff4dd1ce5ed8f73074",
+    "category_string": "Sports and Fitness",
+    "sku": "SPF-NIV-003",
+    "barcode": "8949001000035",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 449,
+        "mrp": 590,
+        "stock": 23,
+        "unit": "piece",
+        "image": "https://cdn.example.com/sports/nivia_storm_football.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 590,
+      "sellingPrice": 449,
+      "discountPercent": 23.9,
+      "offerTag": "24% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 23,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 110,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["football", "nivia", "sports"],
+    "searchKeywords": ["nivia", "storm", "football", "size 5"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Strauss Yoga Mat 6mm",
+    "slug": "strauss-yoga-mat-6mm",
+    "description": "High-density, anti-slip yoga mat for comfortable and safe workouts at home or studio.",
+    "highlights": ["6mm thick", "Anti-slip", "High density foam"],
+    "images": ["https://cdn.example.com/sports/strauss_yoga_mat.jpg"],
+    "thumbnail": "https://cdn.example.com/sports/strauss_yoga_mat_thumb.jpg",
+    "brand": "Strauss",
+    "category": "687cffff4dd1ce5ed8f73074",
+    "category_string": "Sports and Fitness",
+    "sku": "SPF-STR-004",
+    "barcode": "8949001000042",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 529,
+        "mrp": 699,
+        "stock": 29,
+        "unit": "piece",
+        "image": "https://cdn.example.com/sports/strauss_yoga_mat.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 699,
+      "sellingPrice": 529,
+      "discountPercent": 24.32,
+      "offerTag": "24% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 29,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 130,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["yoga mat", "strauss", "fitness"],
+    "searchKeywords": ["strauss", "yoga mat", "6mm", "anti-slip"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Head Radical Tennis Balls (Pack of 3)",
+    "slug": "head-radical-tennis-balls-pack-3",
+    "description": "Premium quality tennis balls suitable for all court types, ideal for practice and matches.",
+    "highlights": ["Pack of 3", "All court", "Premium felt"],
+    "images": ["https://cdn.example.com/sports/head_tennis_balls.jpg"],
+    "thumbnail": "https://cdn.example.com/sports/head_tennis_balls_thumb.jpg",
+    "brand": "Head",
+    "category": "687cffff4dd1ce5ed8f73074",
+    "category_string": "Sports and Fitness",
+    "sku": "SPF-HED-005",
+    "barcode": "8949001000059",
+    "variants": [
+      {
+        "label": "3 balls",
+        "price": 249,
+        "mrp": 325,
+        "stock": 25,
+        "unit": "pack",
+        "image": "https://cdn.example.com/sports/head_tennis_balls.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 325,
+      "sellingPrice": 249,
+      "discountPercent": 23.38,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 100,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["tennis balls", "head", "sports"],
+    "searchKeywords": ["head", "tennis balls", "radical", "pack of 3"],
+    "viewCount": 4,
+    "soldCount": 1
+  }
+]

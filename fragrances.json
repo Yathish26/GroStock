@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Fogg Fresh Aqua Body Spray",
+    "slug": "fogg-fresh-aqua-body-spray",
+    "description": "Refreshing and long-lasting body spray with aqua fragrance for daily use.",
+    "highlights": ["Aqua fragrance", "Long lasting", "No gas"],
+    "images": ["https://cdn.example.com/fragrances/fogg_aqua.jpg"],
+    "thumbnail": "https://cdn.example.com/fragrances/fogg_aqua_thumb.jpg",
+    "brand": "Fogg",
+    "category": "687cffff4dd1ce5ed8f7305c",
+    "category_string": "Fragrances",
+    "sku": "FRG-BSP-001",
+    "barcode": "8909801000011",
+    "variants": [
+      {
+        "label": "150ml",
+        "price": 210,
+        "mrp": 250,
+        "stock": 80,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/fragrances/fogg_aqua.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 250,
+      "sellingPrice": 210,
+      "discountPercent": 16,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["body spray", "fogg", "fragrance"],
+    "searchKeywords": ["fogg", "body spray", "aqua", "fragrance"],
+    "viewCount": 47,
+    "soldCount": 19
+  },
+  {
+    "name": "Denver Hamilton Deodorant Body Spray",
+    "slug": "denver-hamilton-deodorant-body-spray",
+    "description": "Masculine fragrance deodorant with a fresh and intense aroma.",
+    "highlights": ["Masculine", "Fresh aroma", "Long lasting"],
+    "images": ["https://cdn.example.com/fragrances/denver_hamilton.jpg"],
+    "thumbnail": "https://cdn.example.com/fragrances/denver_hamilton_thumb.jpg",
+    "brand": "Denver",
+    "category": "687cffff4dd1ce5ed8f7305c",
+    "category_string": "Fragrances",
+    "sku": "FRG-BSP-002",
+    "barcode": "8909801000028",
+    "variants": [
+      {
+        "label": "150ml",
+        "price": 210,
+        "mrp": 249,
+        "stock": 60,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/fragrances/denver_hamilton.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 249,
+      "sellingPrice": 210,
+      "discountPercent": 15.66,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["deodorant", "denver", "body spray"],
+    "searchKeywords": ["denver", "hamilton", "body spray", "fragrance"],
+    "viewCount": 24,
+    "soldCount": 8
+  },
+  {
+    "name": "Engage L'amante Eau De Parfum",
+    "slug": "engage-lamante-eau-de-parfum",
+    "description": "Premium perfume with a rich blend of floral and woody notes.",
+    "highlights": ["Floral & woody", "Premium fragrance", "For special occasions"],
+    "images": ["https://cdn.example.com/fragrances/engage_lamante.jpg"],
+    "thumbnail": "https://cdn.example.com/fragrances/engage_lamante_thumb.jpg",
+    "brand": "Engage",
+    "category": "687cffff4dd1ce5ed8f7305c",
+    "category_string": "Fragrances",
+    "sku": "FRG-PFM-003",
+    "barcode": "8909801000035",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 550,
+        "mrp": 650,
+        "stock": 40,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/fragrances/engage_lamante.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 650,
+      "sellingPrice": 550,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["perfume", "engage", "eau de parfum"],
+    "searchKeywords": ["engage", "perfume", "lamante", "fragrance"],
+    "viewCount": 17,
+    "soldCount": 5
+  },
+  {
+    "name": "Bella Vita Organic CEO Man Luxury Perfume",
+    "slug": "bella-vita-organic-ceo-man-luxury-perfume",
+    "description": "Luxury perfume for men with a powerful and charismatic scent.",
+    "highlights": ["Luxury", "Long lasting", "Charismatic scent"],
+    "images": ["https://cdn.example.com/fragrances/bella_ceo_man.jpg"],
+    "thumbnail": "https://cdn.example.com/fragrances/bella_ceo_man_thumb.jpg",
+    "brand": "Bella Vita Organic",
+    "category": "687cffff4dd1ce5ed8f7305c",
+    "category_string": "Fragrances",
+    "sku": "FRG-PFM-004",
+    "barcode": "8909801000042",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 375,
+        "mrp": 449,
+        "stock": 42,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/fragrances/bella_ceo_man.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 449,
+      "sellingPrice": 375,
+      "discountPercent": 16.49,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 42,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["perfume", "bella vita", "luxury"],
+    "searchKeywords": ["bella vita", "ceo man", "perfume", "fragrance"],
+    "viewCount": 12,
+    "soldCount": 4
+  },
+  {
+    "name": "Yardley London English Lavender Perfumed Talc",
+    "slug": "yardley-london-english-lavender-perfumed-talc",
+    "description": "Classic perfumed talc with the soothing fragrance of English lavender.",
+    "highlights": ["Lavender", "Fresh & soothing", "Classic talcum powder"],
+    "images": ["https://cdn.example.com/fragrances/yardley_lavender_talc.jpg"],
+    "thumbnail": "https://cdn.example.com/fragrances/yardley_lavender_talc_thumb.jpg",
+    "brand": "Yardley London",
+    "category": "687cffff4dd1ce5ed8f7305c",
+    "category_string": "Fragrances",
+    "sku": "FRG-TAL-005",
+    "barcode": "8909801000059",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 140,
+        "mrp": 160,
+        "stock": 60,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/fragrances/yardley_lavender_talc.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 160,
+      "sellingPrice": 140,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["talc", "yardley", "lavender"],
+    "searchKeywords": ["yardley", "lavender", "talc", "fragrance"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

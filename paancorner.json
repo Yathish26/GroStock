@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Calcutta Meetha Paan",
+    "slug": "calcutta-meetha-paan",
+    "description": "Traditional sweet paan made from betel leaf, gulkand, tutti frutti, coconut, and aromatic spices for a refreshing mouth freshener.",
+    "highlights": ["Sweet paan", "Gulkand & coconut", "Aromatic and refreshing"],
+    "images": ["https://cdn.example.com/paan/calcutta_meetha_paan.jpg"],
+    "thumbnail": "https://cdn.example.com/paan/calcutta_meetha_paan_thumb.jpg",
+    "brand": "Local Paanwala",
+    "category": "687cffff4dd1ce5ed8f7306d",
+    "category_string": "Paan Corner",
+    "sku": "PAAN-CAL-001",
+    "barcode": "8942001000011",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 35,
+        "mrp": 40,
+        "stock": 30,
+        "unit": "piece",
+        "image": "https://cdn.example.com/paan/calcutta_meetha_paan.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 30,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["paan", "meetha paan", "calcutta style"],
+    "searchKeywords": ["meetha paan", "calcutta paan", "gulkand", "mouth freshener"],
+    "viewCount": 18,
+    "soldCount": 9
+  },
+  {
+    "name": "Banarasi Saada Paan",
+    "slug": "banarasi-saada-paan",
+    "description": "Classic Banarasi plain paan with betel leaf, catechu, slaked lime, and areca nut for a traditional taste.",
+    "highlights": ["Banarasi style", "Plain paan", "Traditional taste"],
+    "images": ["https://cdn.example.com/paan/banarasi_saada_paan.jpg"],
+    "thumbnail": "https://cdn.example.com/paan/banarasi_saada_paan_thumb.jpg",
+    "brand": "Local Paanwala",
+    "category": "687cffff4dd1ce5ed8f7306d",
+    "category_string": "Paan Corner",
+    "sku": "PAAN-BAN-002",
+    "barcode": "8942001000028",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 20,
+        "mrp": 25,
+        "stock": 36,
+        "unit": "piece",
+        "image": "https://cdn.example.com/paan/banarasi_saada_paan.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 25,
+      "sellingPrice": 20,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 36,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paan", "saada paan", "banarasi"],
+    "searchKeywords": ["banarasi paan", "saada paan", "betel leaf"],
+    "viewCount": 9,
+    "soldCount": 4
+  },
+  {
+    "name": "Chocolate Paan",
+    "slug": "chocolate-paan",
+    "description": "Fusion paan with a betel leaf filled with chocolate, gulkand, and sweetened coconut for a unique dessert experience.",
+    "highlights": ["Chocolate filling", "Fusion dessert", "Sweet and refreshing"],
+    "images": ["https://cdn.example.com/paan/chocolate_paan.jpg"],
+    "thumbnail": "https://cdn.example.com/paan/chocolate_paan_thumb.jpg",
+    "brand": "Local Paanwala",
+    "category": "687cffff4dd1ce5ed8f7306d",
+    "category_string": "Paan Corner",
+    "sku": "PAAN-CHO-003",
+    "barcode": "8942001000035",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 45,
+        "mrp": 50,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/paan/chocolate_paan.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 50,
+      "sellingPrice": 45,
+      "discountPercent": 10,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paan", "chocolate", "dessert"],
+    "searchKeywords": ["chocolate paan", "fusion paan", "sweet paan"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Fire Paan",
+    "slug": "fire-paan",
+    "description": "Exciting paan experience with a flaming betel leaf, filled with sweet and spicy ingredients; served ignited.",
+    "highlights": ["Flaming paan", "Sweet & spicy", "Unique experience"],
+    "images": ["https://cdn.example.com/paan/fire_paan.jpg"],
+    "thumbnail": "https://cdn.example.com/paan/fire_paan_thumb.jpg",
+    "brand": "Local Paanwala",
+    "category": "687cffff4dd1ce5ed8f7306d",
+    "category_string": "Paan Corner",
+    "sku": "PAAN-FIR-004",
+    "barcode": "8942001000042",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 60,
+        "mrp": 70,
+        "stock": 12,
+        "unit": "piece",
+        "image": "https://cdn.example.com/paan/fire_paan.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 70,
+      "sellingPrice": 60,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 12,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paan", "fire paan", "unique"],
+    "searchKeywords": ["fire paan", "flaming paan", "unique experience"],
+    "viewCount": 5,
+    "soldCount": 1
+  },
+  {
+    "name": "Ice Paan",
+    "slug": "ice-paan",
+    "description": "Chilled paan with a blend of menthol, gulkand, and sweet toppings for a cool, refreshing aftertaste.",
+    "highlights": ["Chilled paan", "Menthol & gulkand", "Refreshing"],
+    "images": ["https://cdn.example.com/paan/ice_paan.jpg"],
+    "thumbnail": "https://cdn.example.com/paan/ice_paan_thumb.jpg",
+    "brand": "Local Paanwala",
+    "category": "687cffff4dd1ce5ed8f7306d",
+    "category_string": "Paan Corner",
+    "sku": "PAAN-ICE-005",
+    "barcode": "8942001000059",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 40,
+        "mrp": 45,
+        "stock": 15,
+        "unit": "piece",
+        "image": "https://cdn.example.com/paan/ice_paan.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 45,
+      "sellingPrice": 40,
+      "discountPercent": 11.11,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paan", "ice paan", "menthol"],
+    "searchKeywords": ["ice paan", "chilled paan", "menthol", "refreshing"],
+    "viewCount": 6,
+    "soldCount": 2
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Funskool Monopoly Classic Board Game",
+    "slug": "funskool-monopoly-classic-board-game",
+    "description": "Timeless real estate trading game for family and friends. Includes board, tokens, cards, and Monopoly money.",
+    "highlights": ["Classic board game", "Family fun", "2-6 players"],
+    "images": ["https://cdn.example.com/toys/funskool_monopoly.jpg"],
+    "thumbnail": "https://cdn.example.com/toys/funskool_monopoly_thumb.jpg",
+    "brand": "Funskool",
+    "category": "687cffff4dd1ce5ed8f73077",
+    "category_string": "Toys and Games",
+    "sku": "TOY-FUN-001",
+    "barcode": "8952001000011",
+    "variants": [
+      {
+        "label": "1 set",
+        "price": 499,
+        "mrp": 599,
+        "stock": 29,
+        "unit": "box",
+        "image": "https://cdn.example.com/toys/funskool_monopoly.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 599,
+      "sellingPrice": 499,
+      "discountPercent": 16.69,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 29,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["monopoly", "board game", "funskool"],
+    "searchKeywords": ["funskool", "monopoly", "board game", "family game"],
+    "viewCount": 22,
+    "soldCount": 8
+  },
+  {
+    "name": "Hot Wheels Basic Car (Assorted)",
+    "slug": "hot-wheels-basic-car-assorted",
+    "description": "Die-cast toy car from Hot Wheels, assorted models for collecting and racing fun.",
+    "highlights": ["Die-cast toy", "Collectible", "Assorted models"],
+    "images": ["https://cdn.example.com/toys/hotwheels_basic_car.jpg"],
+    "thumbnail": "https://cdn.example.com/toys/hotwheels_basic_car_thumb.jpg",
+    "brand": "Hot Wheels",
+    "category": "687cffff4dd1ce5ed8f73077",
+    "category_string": "Toys and Games",
+    "sku": "TOY-HOT-002",
+    "barcode": "8952001000028",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 119,
+        "mrp": 149,
+        "stock": 41,
+        "unit": "piece",
+        "image": "https://cdn.example.com/toys/hotwheels_basic_car.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 149,
+      "sellingPrice": 119,
+      "discountPercent": 20.13,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 41,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["hot wheels", "toy car", "die-cast"],
+    "searchKeywords": ["hot wheels", "toy car", "die-cast", "collectible"],
+    "viewCount": 18,
+    "soldCount": 5
+  },
+  {
+    "name": "Mattel Scrabble Original",
+    "slug": "mattel-scrabble-original",
+    "description": "The classic word-building board game to improve vocabulary and have fun with friends and family.",
+    "highlights": ["Word game", "Educational", "2-4 players"],
+    "images": ["https://cdn.example.com/toys/mattel_scrabble.jpg"],
+    "thumbnail": "https://cdn.example.com/toys/mattel_scrabble_thumb.jpg",
+    "brand": "Mattel",
+    "category": "687cffff4dd1ce5ed8f73077",
+    "category_string": "Toys and Games",
+    "sku": "TOY-MAT-003",
+    "barcode": "8952001000035",
+    "variants": [
+      {
+        "label": "1 set",
+        "price": 599,
+        "mrp": 710,
+        "stock": 17,
+        "unit": "box",
+        "image": "https://cdn.example.com/toys/mattel_scrabble.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 710,
+      "sellingPrice": 599,
+      "discountPercent": 15.63,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 17,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["scrabble", "mattel", "word game"],
+    "searchKeywords": ["mattel", "scrabble", "word game", "board game"],
+    "viewCount": 10,
+    "soldCount": 3
+  },
+  {
+    "name": "Lego Classic Creative Bricks Set",
+    "slug": "lego-classic-creative-bricks",
+    "description": "A box of colorful LEGO bricks for endless building fun and creativity. Includes multiple shapes and sizes.",
+    "highlights": ["Creative play", "Colorful bricks", "Multiple shapes"],
+    "images": ["https://cdn.example.com/toys/lego_classic_bricks.jpg"],
+    "thumbnail": "https://cdn.example.com/toys/lego_classic_bricks_thumb.jpg",
+    "brand": "LEGO",
+    "category": "687cffff4dd1ce5ed8f73077",
+    "category_string": "Toys and Games",
+    "sku": "TOY-LEG-004",
+    "barcode": "8952001000042",
+    "variants": [
+      {
+        "label": "221 pcs",
+        "price": 799,
+        "mrp": 995,
+        "stock": 24,
+        "unit": "box",
+        "image": "https://cdn.example.com/toys/lego_classic_bricks.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 995,
+      "sellingPrice": 799,
+      "discountPercent": 19.6,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 24,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["lego", "bricks", "building blocks"],
+    "searchKeywords": ["lego", "creative bricks", "building", "blocks"],
+    "viewCount": 13,
+    "soldCount": 4
+  },
+  {
+    "name": "Hasbro Jenga Classic",
+    "slug": "hasbro-jenga-classic",
+    "description": "The original stacking game of skill and strategy, perfect for parties and family gatherings.",
+    "highlights": ["Stacking game", "Skill & strategy", "Family fun"],
+    "images": ["https://cdn.example.com/toys/hasbro_jenga.jpg"],
+    "thumbnail": "https://cdn.example.com/toys/hasbro_jenga_thumb.jpg",
+    "brand": "Hasbro",
+    "category": "687cffff4dd1ce5ed8f73077",
+    "category_string": "Toys and Games",
+    "sku": "TOY-HAS-005",
+    "barcode": "8952001000059",
+    "variants": [
+      {
+        "label": "1 set",
+        "price": 525,
+        "mrp": 630,
+        "stock": 20,
+        "unit": "box",
+        "image": "https://cdn.example.com/toys/hasbro_jenga.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 630,
+      "sellingPrice": 525,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["jenga", "hasbro", "stacking game"],
+    "searchKeywords": ["hasbro", "jenga", "stacking game", "party game"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

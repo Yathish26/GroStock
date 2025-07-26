@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Havan Samagri",
+    "slug": "havan-samagri",
+    "description": "Traditional blend of herbs, wood, and natural ingredients for performing havan and puja rituals.",
+    "highlights": ["For all pujas", "Natural ingredients", "Ready to use"],
+    "images": ["https://cdn.example.com/puja/havan_samagri.jpg"],
+    "thumbnail": "https://cdn.example.com/puja/havan_samagri_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73070",
+    "category_string": "Puja",
+    "sku": "PUJ-HAV-001",
+    "barcode": "8945001000011",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 75,
+        "mrp": 90,
+        "stock": 35,
+        "unit": "pack",
+        "image": "https://cdn.example.com/puja/havan_samagri.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 90,
+      "sellingPrice": 75,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 25,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["havan", "puja", "samagri"],
+    "searchKeywords": ["havan", "puja samagri", "ritual"],
+    "viewCount": 16,
+    "soldCount": 7
+  },
+  {
+    "name": "Pure Cow Ghee Diya Batti (Cotton Wicks)",
+    "slug": "cow-ghee-diya-batti-cotton-wicks",
+    "description": "Pre-soaked cotton wicks in pure cow ghee for lighting diyas during puja and aartis.",
+    "highlights": ["Cow ghee soaked", "Ready to use", "Long burning"],
+    "images": ["https://cdn.example.com/puja/ghee_diya_batti.jpg"],
+    "thumbnail": "https://cdn.example.com/puja/ghee_diya_batti_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73070",
+    "category_string": "Puja",
+    "sku": "PUJ-GHE-002",
+    "barcode": "8945001000028",
+    "variants": [
+      {
+        "label": "100 pcs",
+        "price": 79,
+        "mrp": 105,
+        "stock": 28,
+        "unit": "box",
+        "image": "https://cdn.example.com/puja/ghee_diya_batti.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 105,
+      "sellingPrice": 79,
+      "discountPercent": 24.76,
+      "offerTag": "25% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["diya", "ghee batti", "cotton wicks", "puja"],
+    "searchKeywords": ["diya batti", "ghee batti", "puja", "cotton wick"],
+    "viewCount": 10,
+    "soldCount": 3
+  },
+  {
+    "name": "Agarbatti Premium Incense Sticks (Sandalwood)",
+    "slug": "agarbatti-premium-incense-sandalwood",
+    "description": "Premium sandalwood-scented incense sticks for daily puja, meditation, and spiritual atmosphere.",
+    "highlights": ["Sandalwood fragrance", "Long-lasting", "Premium quality"],
+    "images": ["https://cdn.example.com/puja/sandal_agarbatti.jpg"],
+    "thumbnail": "https://cdn.example.com/puja/sandal_agarbatti_thumb.jpg",
+    "brand": "Cycle Pure",
+    "category": "687cffff4dd1ce5ed8f73070",
+    "category_string": "Puja",
+    "sku": "PUJ-AGB-003",
+    "barcode": "8945001000035",
+    "variants": [
+      {
+        "label": "120 sticks",
+        "price": 85,
+        "mrp": 99,
+        "stock": 48,
+        "unit": "box",
+        "image": "https://cdn.example.com/puja/sandal_agarbatti.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 99,
+      "sellingPrice": 85,
+      "discountPercent": 14.14,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 48,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["agarbatti", "incense", "sandalwood", "puja"],
+    "searchKeywords": ["incense sticks", "sandalwood", "agarbatti", "puja"],
+    "viewCount": 11,
+    "soldCount": 4
+  },
+  {
+    "name": "Brass Puja Thali Set (5 Pieces)",
+    "slug": "brass-puja-thali-set",
+    "description": "Traditional brass thali set including plate, diya, bell, bowl, and spoon for complete puja rituals.",
+    "highlights": ["Brass set", "5 pieces", "Traditional design"],
+    "images": ["https://cdn.example.com/puja/brass_thali_set.jpg"],
+    "thumbnail": "https://cdn.example.com/puja/brass_thali_set_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73070",
+    "category_string": "Puja",
+    "sku": "PUJ-THL-004",
+    "barcode": "8945001000042",
+    "variants": [
+      {
+        "label": "5 pcs",
+        "price": 399,
+        "mrp": 499,
+        "stock": 15,
+        "unit": "set",
+        "image": "https://cdn.example.com/puja/brass_thali_set.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 499,
+      "sellingPrice": 399,
+      "discountPercent": 20.04,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 22,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["puja thali", "brass", "ritual set"],
+    "searchKeywords": ["puja thali", "brass set", "ritual", "thali set"],
+    "viewCount": 6,
+    "soldCount": 2
+  },
+  {
+    "name": "Kumkum (Sindoor) Pure Red",
+    "slug": "kumkum-pure-red",
+    "description": "High-quality pure red kumkum for tilak, puja, and traditional ceremonies.",
+    "highlights": ["Pure red", "Fine texture", "Traditional use"],
+    "images": ["https://cdn.example.com/puja/kumkum_red.jpg"],
+    "thumbnail": "https://cdn.example.com/puja/kumkum_red_thumb.jpg",
+    "brand": "Local",
+    "category": "687cffff4dd1ce5ed8f73070",
+    "category_string": "Puja",
+    "sku": "PUJ-KUM-005",
+    "barcode": "8945001000059",
+    "variants": [
+      {
+        "label": "50g",
+        "price": 22,
+        "mrp": 30,
+        "stock": 70,
+        "unit": "box",
+        "image": "https://cdn.example.com/puja/kumkum_red.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 30,
+      "sellingPrice": 22,
+      "discountPercent": 26.67,
+      "offerTag": "27% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kumkum", "sindoor", "puja"],
+    "searchKeywords": ["kumkum", "sindoor", "puja", "tilak"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

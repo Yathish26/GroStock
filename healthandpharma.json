@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Dettol Antiseptic Liquid",
+    "slug": "dettol-antiseptic-liquid",
+    "description": "Multipurpose antiseptic liquid for first aid, personal hygiene, and household cleaning.",
+    "highlights": ["Kills 99.9% germs", "Multipurpose use", "Trusted protection"],
+    "images": ["https://cdn.example.com/healthpharma/dettol_liquid.jpg"],
+    "thumbnail": "https://cdn.example.com/healthpharma/dettol_liquid_thumb.jpg",
+    "brand": "Dettol",
+    "category": "687cffff4dd1ce5ed8f73061",
+    "category_string": "Health and Pharma",
+    "sku": "HAP-ANT-001",
+    "barcode": "8930001000011",
+    "variants": [
+      {
+        "label": "500ml",
+        "price": 95,
+        "mrp": 115,
+        "stock": 60,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/healthpharma/dettol_liquid.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 115,
+      "sellingPrice": 95,
+      "discountPercent": 17.39,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["antiseptic", "dettol", "health"],
+    "searchKeywords": ["dettol", "antiseptic liquid", "healthcare"],
+    "viewCount": 44,
+    "soldCount": 18
+  },
+  {
+    "name": "Himalaya Wellness Pure Herbs Ashwagandha Tablets",
+    "slug": "himalaya-ashwagandha-tablets",
+    "description": "Ashwagandha tablets for stress relief, stamina and overall wellness.",
+    "highlights": ["Herbal supplement", "Reduces stress", "Improves stamina"],
+    "images": ["https://cdn.example.com/healthpharma/himalaya_ashwagandha.jpg"],
+    "thumbnail": "https://cdn.example.com/healthpharma/himalaya_ashwagandha_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f73061",
+    "category_string": "Health and Pharma",
+    "sku": "HAP-TAB-002",
+    "barcode": "8930001000028",
+    "variants": [
+      {
+        "label": "60 tablets",
+        "price": 185,
+        "mrp": 210,
+        "stock": 45,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/healthpharma/himalaya_ashwagandha.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 210,
+      "sellingPrice": 185,
+      "discountPercent": 11.9,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 45,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["ashwagandha", "herbal", "tablets"],
+    "searchKeywords": ["himalaya", "ashwagandha", "wellness", "herbs"],
+    "viewCount": 21,
+    "soldCount": 7
+  },
+  {
+    "name": "Cipla Maxirich Multivitamin Softgels",
+    "slug": "cipla-maxirich-multivitamin-softgels",
+    "description": "Daily multivitamin softgels to boost immunity and overall health.",
+    "highlights": ["Boosts immunity", "Daily supplement", "Rich in vitamins"],
+    "images": ["https://cdn.example.com/healthpharma/maxirich_multivitamin.jpg"],
+    "thumbnail": "https://cdn.example.com/healthpharma/maxirich_multivitamin_thumb.jpg",
+    "brand": "Cipla",
+    "category": "687cffff4dd1ce5ed8f73061",
+    "category_string": "Health and Pharma",
+    "sku": "HAP-MVT-003",
+    "barcode": "8930001000035",
+    "variants": [
+      {
+        "label": "30 softgels",
+        "price": 180,
+        "mrp": 210,
+        "stock": 32,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/healthpharma/maxirich_multivitamin.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 210,
+      "sellingPrice": 180,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["multivitamin", "cipla", "immune booster"],
+    "searchKeywords": ["cipla", "maxirich", "multivitamin", "softgels"],
+    "viewCount": 12,
+    "soldCount": 4
+  },
+  {
+    "name": "Savlon Antiseptic Liquid",
+    "slug": "savlon-antiseptic-liquid",
+    "description": "Antiseptic liquid for first aid, wound cleaning, and personal hygiene.",
+    "highlights": ["Kills germs", "First aid", "Trusted by doctors"],
+    "images": ["https://cdn.example.com/healthpharma/savlon_liquid.jpg"],
+    "thumbnail": "https://cdn.example.com/healthpharma/savlon_liquid_thumb.jpg",
+    "brand": "Savlon",
+    "category": "687cffff4dd1ce5ed8f73061",
+    "category_string": "Health and Pharma",
+    "sku": "HAP-ANT-004",
+    "barcode": "8930001000042",
+    "variants": [
+      {
+        "label": "500ml",
+        "price": 85,
+        "mrp": 99,
+        "stock": 32,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/healthpharma/savlon_liquid.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 99,
+      "sellingPrice": 85,
+      "discountPercent": 14.14,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["antiseptic", "savlon", "health"],
+    "searchKeywords": ["savlon", "antiseptic liquid", "healthcare"],
+    "viewCount": 15,
+    "soldCount": 5
+  },
+  {
+    "name": "Himalaya Koflet Syrup",
+    "slug": "himalaya-koflet-syrup",
+    "description": "Ayurvedic cough syrup for relief from cough and throat irritation.",
+    "highlights": ["Ayurvedic", "Non-drowsy", "Soothes throat"],
+    "images": ["https://cdn.example.com/healthpharma/himalaya_koflet.jpg"],
+    "thumbnail": "https://cdn.example.com/healthpharma/himalaya_koflet_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f73061",
+    "category_string": "Health and Pharma",
+    "sku": "HAP-SYR-005",
+    "barcode": "8930001000059",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 85,
+        "mrp": 95,
+        "stock": 26,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/healthpharma/himalaya_koflet.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 95,
+      "sellingPrice": 85,
+      "discountPercent": 10.53,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 26,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cough syrup", "himalaya", "ayurvedic"],
+    "searchKeywords": ["himalaya", "koflet", "cough syrup"],
+    "viewCount": 7,
+    "soldCount": 2
+  }
+]

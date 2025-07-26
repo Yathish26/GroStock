@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Kissan Fresh Tomato Ketchup",
+    "slug": "kissan-fresh-tomato-ketchup",
+    "description": "Classic tomato ketchup made from 100% real tomatoes, perfect for snacks and meals.",
+    "highlights": ["100% real tomatoes", "Classic taste", "Versatile use"],
+    "images": ["https://cdn.example.com/sauces/kissan_tomato_ketchup.jpg"],
+    "thumbnail": "https://cdn.example.com/sauces/kissan_tomato_ketchup_thumb.jpg",
+    "brand": "Kissan",
+    "category": "687cffff4dd1ce5ed8f73071",
+    "category_string": "Sauces and Spreads",
+    "sku": "SAS-KIS-001",
+    "barcode": "8946001000011",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 85,
+        "mrp": 99,
+        "stock": 42,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/sauces/kissan_tomato_ketchup.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 99,
+      "sellingPrice": 85,
+      "discountPercent": 14.14,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 42,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["ketchup", "kissan", "sauce"],
+    "searchKeywords": ["kissan", "tomato ketchup", "sauce"],
+    "viewCount": 27,
+    "soldCount": 11
+  },
+  {
+    "name": "FunFoods Veg Mayonnaise",
+    "slug": "funfoods-veg-mayonnaise",
+    "description": "Rich and creamy eggless mayonnaise, ideal for sandwiches, rolls, and salads.",
+    "highlights": ["Eggless", "Rich & creamy", "Versatile spread"],
+    "images": ["https://cdn.example.com/sauces/funfoods_veg_mayo.jpg"],
+    "thumbnail": "https://cdn.example.com/sauces/funfoods_veg_mayo_thumb.jpg",
+    "brand": "FunFoods",
+    "category": "687cffff4dd1ce5ed8f73071",
+    "category_string": "Sauces and Spreads",
+    "sku": "SAS-FUN-002",
+    "barcode": "8946001000028",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 75,
+        "mrp": 89,
+        "stock": 31,
+        "unit": "jar",
+        "image": "https://cdn.example.com/sauces/funfoods_veg_mayo.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 89,
+      "sellingPrice": 75,
+      "discountPercent": 15.73,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 31,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["mayonnaise", "funfoods", "spread"],
+    "searchKeywords": ["funfoods", "veg mayo", "mayonnaise", "spread"],
+    "viewCount": 14,
+    "soldCount": 5
+  },
+  {
+    "name": "Veeba Classic Pizza Pasta Sauce",
+    "slug": "veeba-classic-pizza-pasta-sauce",
+    "description": "Tangy and herby sauce for pizzas and pastas, made with quality tomatoes and Italian herbs.",
+    "highlights": ["Pizza & pasta", "Italian herbs", "Tangy flavor"],
+    "images": ["https://cdn.example.com/sauces/veeba_pizza_pasta.jpg"],
+    "thumbnail": "https://cdn.example.com/sauces/veeba_pizza_pasta_thumb.jpg",
+    "brand": "Veeba",
+    "category": "687cffff4dd1ce5ed8f73071",
+    "category_string": "Sauces and Spreads",
+    "sku": "SAS-VEE-003",
+    "barcode": "8946001000035",
+    "variants": [
+      {
+        "label": "280g",
+        "price": 89,
+        "mrp": 109,
+        "stock": 24,
+        "unit": "jar",
+        "image": "https://cdn.example.com/sauces/veeba_pizza_pasta.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 109,
+      "sellingPrice": 89,
+      "discountPercent": 18.35,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 24,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pizza sauce", "veeba", "pasta sauce"],
+    "searchKeywords": ["veeba", "pizza sauce", "pasta sauce"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Nutella Hazelnut Spread with Cocoa",
+    "slug": "nutella-hazelnut-spread-cocoa",
+    "description": "World-famous hazelnut cocoa spread for breads, pancakes, and desserts.",
+    "highlights": ["Hazelnut & cocoa", "Creamy", "International favorite"],
+    "images": ["https://cdn.example.com/sauces/nutella_hazelnut.jpg"],
+    "thumbnail": "https://cdn.example.com/sauces/nutella_hazelnut_thumb.jpg",
+    "brand": "Nutella",
+    "category": "687cffff4dd1ce5ed8f73071",
+    "category_string": "Sauces and Spreads",
+    "sku": "SAS-NUT-004",
+    "barcode": "8946001000042",
+    "variants": [
+      {
+        "label": "350g",
+        "price": 319,
+        "mrp": 369,
+        "stock": 17,
+        "unit": "jar",
+        "image": "https://cdn.example.com/sauces/nutella_hazelnut.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 369,
+      "sellingPrice": 319,
+      "discountPercent": 13.55,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 17,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["nutella", "hazelnut", "spread"],
+    "searchKeywords": ["nutella", "hazelnut", "cocoa", "spread"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Dabur Honey Squeezy",
+    "slug": "dabur-honey-squeezy",
+    "description": "Pure, high-quality honey in an easy-to-use squeezy pack, perfect for breakfast and health drinks.",
+    "highlights": ["Pure honey", "Easy squeezy pack", "Natural sweetener"],
+    "images": ["https://cdn.example.com/sauces/dabur_honey.jpg"],
+    "thumbnail": "https://cdn.example.com/sauces/dabur_honey_thumb.jpg",
+    "brand": "Dabur",
+    "category": "687cffff4dd1ce5ed8f73071",
+    "category_string": "Sauces and Spreads",
+    "sku": "SAS-DAB-005",
+    "barcode": "8946001000059",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 185,
+        "mrp": 225,
+        "stock": 28,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/sauces/dabur_honey.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 225,
+      "sellingPrice": 185,
+      "discountPercent": 17.78,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["honey", "dabur", "spread"],
+    "searchKeywords": ["dabur", "honey", "spread"],
+    "viewCount": 9,
+    "soldCount": 2
+  }
+]

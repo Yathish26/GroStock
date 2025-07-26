@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Dove Cream Beauty Bathing Bar",
+    "slug": "dove-cream-beauty-bathing-bar",
+    "description": "Dove Beauty Bar with 1/4 moisturizing cream for softer, smoother skin.",
+    "highlights": ["Moisturizing", "Gentle cleansing", "Dermatologically tested"],
+    "images": ["https://cdn.example.com/bathbody/dove_bar.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/dove_bar_thumb.jpg",
+    "brand": "Dove",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-SOP-001",
+    "barcode": "8904001000011",
+    "variants": [
+      {
+        "label": "100g - Pack of 3",
+        "price": 165,
+        "mrp": 195,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/bathbody/dove_bar.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 195,
+      "sellingPrice": 165,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["soap", "dove", "moisturizing"],
+    "searchKeywords": ["dove", "bathing bar", "moisturizing soap"],
+    "viewCount": 80,
+    "soldCount": 42
+  },
+  {
+    "name": "Lux Velvet Touch Soap",
+    "slug": "lux-velvet-touch-soap",
+    "description": "Lux Velvet Touch for fragrant, soft skin.",
+    "highlights": ["Silk protein extracts", "Jasmine scent"],
+    "images": ["https://cdn.example.com/bathbody/lux_soap.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/lux_soap_thumb.jpg",
+    "brand": "Lux",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-SOP-002",
+    "barcode": "8904001000028",
+    "variants": [
+      {
+        "label": "150g - Pack of 3",
+        "price": 120,
+        "mrp": 150,
+        "stock": 50,
+        "unit": "pack",
+        "image": "https://cdn.example.com/bathbody/lux_soap.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 150,
+      "sellingPrice": 120,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 50,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["soap", "lux", "fragrant"],
+    "searchKeywords": ["lux", "velvet touch", "bathing soap"],
+    "viewCount": 55,
+    "soldCount": 20
+  },
+  {
+    "name": "Dettol Original Liquid Handwash",
+    "slug": "dettol-original-liquid-handwash",
+    "description": "Dettol handwash for 99.9% germ protection.",
+    "highlights": ["Antibacterial", "Dermatologically tested"],
+    "images": ["https://cdn.example.com/bathbody/dettol_handwash.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/dettol_handwash_thumb.jpg",
+    "brand": "Dettol",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-HND-003",
+    "barcode": "8904001000035",
+    "variants": [
+      {
+        "label": "200ml Refill",
+        "price": 55,
+        "mrp": 75,
+        "stock": 120,
+        "unit": "ml",
+        "image": "https://cdn.example.com/bathbody/dettol_handwash.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 75,
+      "sellingPrice": 55,
+      "discountPercent": 26.67,
+      "offerTag": "27% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["handwash", "dettol", "antibacterial"],
+    "searchKeywords": ["dettol", "handwash", "germ protection"],
+    "viewCount": 44,
+    "soldCount": 22
+  },
+  {
+    "name": "Nivea Body Milk Nourishing Lotion",
+    "slug": "nivea-body-milk-nourishing-lotion",
+    "description": "Nivea deep moisture serum for 48h hydration.",
+    "highlights": ["Deep moisture serum", "48h hydration"],
+    "images": ["https://cdn.example.com/bathbody/nivea_lotion.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/nivea_lotion_thumb.jpg",
+    "brand": "Nivea",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-LOT-004",
+    "barcode": "8904001000042",
+    "variants": [
+      {
+        "label": "400ml",
+        "price": 310,
+        "mrp": 350,
+        "stock": 75,
+        "unit": "ml",
+        "image": "https://cdn.example.com/bathbody/nivea_lotion.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 350,
+      "sellingPrice": 310,
+      "discountPercent": 11.43,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 75,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 22,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["body lotion", "nivea", "moisturizer"],
+    "searchKeywords": ["nivea", "body milk", "moisturizing lotion"],
+    "viewCount": 63,
+    "soldCount": 31
+  },
+  {
+    "name": "Fiama Gel Bar Celebration Pack",
+    "slug": "fiama-gel-bar-celebration-pack",
+    "description": "Fiama gel bars for soft, glowing skin in multiple fragrances.",
+    "highlights": ["Skin conditioners", "Multiple fragrances"],
+    "images": ["https://cdn.example.com/bathbody/fiama_gel_bar.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/fiama_gel_bar_thumb.jpg",
+    "brand": "Fiama",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-SOP-005",
+    "barcode": "8904001000059",
+    "variants": [
+      {
+        "label": "125g - Pack of 3",
+        "price": 129,
+        "mrp": 165,
+        "stock": 44,
+        "unit": "pack",
+        "image": "https://cdn.example.com/bathbody/fiama_gel_bar.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 165,
+      "sellingPrice": 129,
+      "discountPercent": 21.82,
+      "offerTag": "22% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 44,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["soap", "fiama", "gel bar"],
+    "searchKeywords": ["fiama", "gel bar", "bathing soap"],
+    "viewCount": 21,
+    "soldCount": 10
+  },
+  {
+    "name": "Vaseline Intensive Care Body Lotion",
+    "slug": "vaseline-intensive-care-body-lotion",
+    "description": "Vaseline deep restore for dry skin, with micro-droplets of Vaseline jelly.",
+    "highlights": ["Deep restore", "Quick absorption"],
+    "images": ["https://cdn.example.com/bathbody/vaseline_lotion.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/vaseline_lotion_thumb.jpg",
+    "brand": "Vaseline",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-LOT-006",
+    "barcode": "8904001000066",
+    "variants": [
+      {
+        "label": "400ml",
+        "price": 255,
+        "mrp": 299,
+        "stock": 56,
+        "unit": "ml",
+        "image": "https://cdn.example.com/bathbody/vaseline_lotion.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 299,
+      "sellingPrice": 255,
+      "discountPercent": 14.72,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 56,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 22,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["body lotion", "vaseline", "moisturizer"],
+    "searchKeywords": ["vaseline", "body lotion", "dry skin"],
+    "viewCount": 31,
+    "soldCount": 12
+  },
+  {
+    "name": "Palmolive Aroma Morning Tonic Shower Gel",
+    "slug": "palmolive-aroma-morning-tonic-shower-gel",
+    "description": "Palmolive shower gel with citrus essential oil for an energizing bath.",
+    "highlights": ["Citrus oil", "Refreshing"],
+    "images": ["https://cdn.example.com/bathbody/palmolive_gel.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/palmolive_gel_thumb.jpg",
+    "brand": "Palmolive",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-GEL-007",
+    "barcode": "8904001000073",
+    "variants": [
+      {
+        "label": "250ml",
+        "price": 175,
+        "mrp": 199,
+        "stock": 29,
+        "unit": "ml",
+        "image": "https://cdn.example.com/bathbody/palmolive_gel.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 199,
+      "sellingPrice": 175,
+      "discountPercent": 12.06,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 29,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["shower gel", "palmolive"],
+    "searchKeywords": ["palmolive", "shower gel", "bath"],
+    "viewCount": 17,
+    "soldCount": 6
+  },
+  {
+    "name": "Himalaya Purifying Neem Face Wash",
+    "slug": "himalaya-purifying-neem-face-wash",
+    "description": "Soap-free herbal formulation for clear, pimple-free skin.",
+    "highlights": ["Neem and turmeric", "Soap-free", "Herbal"],
+    "images": ["https://cdn.example.com/bathbody/himalaya_facewash.jpg"],
+    "thumbnail": "https://cdn.example.com/bathbody/himalaya_facewash_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f73050",
+    "category_string": "Bath and Body",
+    "sku": "BB-FWS-008",
+    "barcode": "8904001000080",
+    "variants": [
+      {
+        "label": "200ml",
+        "price": 175,
+        "mrp": 195,
+        "stock": 65,
+        "unit": "ml",
+        "image": "https://cdn.example.com/bathbody/himalaya_facewash.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 195,
+      "sellingPrice": 175,
+      "discountPercent": 10.26,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 65,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["face wash", "himalaya", "neem"],
+    "searchKeywords": ["himalaya", "face wash", "neem"],
+    "viewCount": 42,
+    "soldCount": 22
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Jockey Men's Cotton Briefs",
+    "slug": "jockey-mens-cotton-briefs",
+    "description": "Comfortable, soft cotton briefs for men. Breathable fabric with elastic waistband.",
+    "highlights": ["100% cotton", "Soft waistband", "Machine washable"],
+    "images": ["https://cdn.example.com/clothing/jockey_briefs.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/jockey_briefs_thumb.jpg",
+    "brand": "Jockey",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-MBR-001",
+    "barcode": "8909001000011",
+    "variants": [
+      {
+        "label": "Large",
+        "price": 199,
+        "mrp": 230,
+        "stock": 60,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/jockey_briefs.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 230,
+      "sellingPrice": 199,
+      "discountPercent": 13.48,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 22,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["briefs", "men", "jockey"],
+    "searchKeywords": ["jockey", "briefs", "mens underwear"],
+    "viewCount": 33,
+    "soldCount": 14
+  },
+  {
+    "name": "Biba Women's Cotton Kurti",
+    "slug": "biba-womens-cotton-kurti",
+    "description": "Elegant printed Kurti for women, made with breathable cotton fabric.",
+    "highlights": ["Printed design", "Breathable", "Casual & office wear"],
+    "images": ["https://cdn.example.com/clothing/biba_kurti.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/biba_kurti_thumb.jpg",
+    "brand": "Biba",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-WKU-002",
+    "barcode": "8909001000028",
+    "variants": [
+      {
+        "label": "Medium",
+        "price": 799,
+        "mrp": 899,
+        "stock": 35,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/biba_kurti.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 899,
+      "sellingPrice": 799,
+      "discountPercent": 11.12,
+      "offerTag": "11% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 24,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kurti", "biba", "women"],
+    "searchKeywords": ["biba", "kurti", "women"],
+    "viewCount": 19,
+    "soldCount": 6
+  },
+  {
+    "name": "Allen Solly Men's Polo T-Shirt",
+    "slug": "allen-solly-mens-polo-tshirt",
+    "description": "Classic polo t-shirt with half sleeves, suitable for casual and semi-formal occasions.",
+    "highlights": ["Half sleeves", "Soft cotton", "Polo collar"],
+    "images": ["https://cdn.example.com/clothing/allen_polo.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/allen_polo_thumb.jpg",
+    "brand": "Allen Solly",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-MTS-003",
+    "barcode": "8909001000035",
+    "variants": [
+      {
+        "label": "XL",
+        "price": 649,
+        "mrp": 799,
+        "stock": 45,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/allen_polo.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 799,
+      "sellingPrice": 649,
+      "discountPercent": 18.77,
+      "offerTag": "19% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 45,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["t-shirt", "allen solly", "men"],
+    "searchKeywords": ["allen solly", "polo", "t-shirt", "men"],
+    "viewCount": 22,
+    "soldCount": 7
+  },
+  {
+    "name": "Max Kids Printed T-Shirt",
+    "slug": "max-kids-printed-tshirt",
+    "description": "Colorful printed t-shirt for kids, made with soft, skin-friendly fabric.",
+    "highlights": ["Colorful print", "Soft fabric", "Kids wear"],
+    "images": ["https://cdn.example.com/clothing/max_kids_tshirt.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/max_kids_tshirt_thumb.jpg",
+    "brand": "Max",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-KTS-004",
+    "barcode": "8909001000042",
+    "variants": [
+      {
+        "label": "8-10 Years",
+        "price": 299,
+        "mrp": 349,
+        "stock": 70,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/max_kids_tshirt.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 349,
+      "sellingPrice": 299,
+      "discountPercent": 14.33,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kids", "t-shirt", "max"],
+    "searchKeywords": ["kids t-shirt", "max", "printed"],
+    "viewCount": 16,
+    "soldCount": 4
+  },
+  {
+    "name": "Van Heusen Men's Formal Shirt",
+    "slug": "van-heusen-mens-formal-shirt",
+    "description": "Slim-fit, long sleeve formal shirt for men. Office and business wear.",
+    "highlights": ["Slim fit", "Long sleeve", "Office wear"],
+    "images": ["https://cdn.example.com/clothing/vanheusen_shirt.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/vanheusen_shirt_thumb.jpg",
+    "brand": "Van Heusen",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-MSH-005",
+    "barcode": "8909001000059",
+    "variants": [
+      {
+        "label": "40 (M)",
+        "price": 999,
+        "mrp": 1299,
+        "stock": 30,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/vanheusen_shirt.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1299,
+      "sellingPrice": 999,
+      "discountPercent": 23.1,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 30,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["shirt", "van heusen", "men", "formal"],
+    "searchKeywords": ["van heusen", "formal shirt", "men"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "W for Woman Straight Pants",
+    "slug": "w-for-woman-straight-pants",
+    "description": "Stylish and comfortable straight pants for women, perfect for daily wear.",
+    "highlights": ["Comfort fit", "Straight cut", "Daily wear"],
+    "images": ["https://cdn.example.com/clothing/woman_pants.jpg"],
+    "thumbnail": "https://cdn.example.com/clothing/woman_pants_thumb.jpg",
+    "brand": "W for Woman",
+    "category": "687cffff4dd1ce5ed8f73057",
+    "category_string": "Clothing",
+    "sku": "CL-WPN-006",
+    "barcode": "8909001000066",
+    "variants": [
+      {
+        "label": "Large",
+        "price": 699,
+        "mrp": 799,
+        "stock": 25,
+        "unit": "piece",
+        "image": "https://cdn.example.com/clothing/woman_pants.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 799,
+      "sellingPrice": 699,
+      "discountPercent": 12.52,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 25,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pants", "w for woman", "women"],
+    "searchKeywords": ["w for woman", "straight pants", "women"],
+    "viewCount": 8,
+    "soldCount": 2
+  }
+]

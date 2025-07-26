@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Durex Extra Time Condoms",
+    "slug": "durex-extra-time-condoms",
+    "description": "Delay condoms with benzocaine lubricant for longer-lasting pleasure and enhanced protection.",
+    "highlights": ["Long-lasting", "Benzocaine lubricant", "Enhanced protection"],
+    "images": ["https://cdn.example.com/sexual/durex_extra_time.jpg"],
+    "thumbnail": "https://cdn.example.com/sexual/durex_extra_time_thumb.jpg",
+    "brand": "Durex",
+    "category": "687cffff4dd1ce5ed8f73072",
+    "category_string": "Sexual Wellness",
+    "sku": "SEX-DUR-001",
+    "barcode": "8947001000011",
+    "variants": [
+      {
+        "label": "10 pcs",
+        "price": 199,
+        "mrp": 240,
+        "stock": 34,
+        "unit": "box",
+        "image": "https://cdn.example.com/sexual/durex_extra_time.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 240,
+      "sellingPrice": 199,
+      "discountPercent": 17.08,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 34,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["condoms", "durex", "delay"],
+    "searchKeywords": ["durex", "extra time", "delay condoms", "protection"],
+    "viewCount": 17,
+    "soldCount": 7
+  },
+  {
+    "name": "Manforce Flavoured Condoms – Strawberry",
+    "slug": "manforce-flavoured-condoms-strawberry",
+    "description": "Flavoured condoms for extra fun and safety, with a delicious strawberry fragrance and taste.",
+    "highlights": ["Flavoured", "Strawberry", "Extra safe"],
+    "images": ["https://cdn.example.com/sexual/manforce_strawberry.jpg"],
+    "thumbnail": "https://cdn.example.com/sexual/manforce_strawberry_thumb.jpg",
+    "brand": "Manforce",
+    "category": "687cffff4dd1ce5ed8f73072",
+    "category_string": "Sexual Wellness",
+    "sku": "SEX-MAN-002",
+    "barcode": "8947001000028",
+    "variants": [
+      {
+        "label": "10 pcs",
+        "price": 110,
+        "mrp": 130,
+        "stock": 28,
+        "unit": "box",
+        "image": "https://cdn.example.com/sexual/manforce_strawberry.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 110,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["condoms", "manforce", "flavoured"],
+    "searchKeywords": ["manforce", "flavoured condoms", "strawberry"],
+    "viewCount": 8,
+    "soldCount": 3
+  },
+  {
+    "name": "Skore Not Out Delay Spray for Men",
+    "slug": "skore-not-out-delay-spray-men",
+    "description": "Delay spray for men to help prolong performance and enhance experience.",
+    "highlights": ["Delay spray", "For men", "Longer performance"],
+    "images": ["https://cdn.example.com/sexual/skore_delay_spray.jpg"],
+    "thumbnail": "https://cdn.example.com/sexual/skore_delay_spray_thumb.jpg",
+    "brand": "Skore",
+    "category": "687cffff4dd1ce5ed8f73072",
+    "category_string": "Sexual Wellness",
+    "sku": "SEX-SKO-003",
+    "barcode": "8947001000035",
+    "variants": [
+      {
+        "label": "20g",
+        "price": 299,
+        "mrp": 375,
+        "stock": 17,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/sexual/skore_delay_spray.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 375,
+      "sellingPrice": 299,
+      "discountPercent": 20.27,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 17,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["delay spray", "skore", "men"],
+    "searchKeywords": ["skore", "delay spray", "not out"],
+    "viewCount": 6,
+    "soldCount": 2
+  },
+  {
+    "name": "Kamasutra Super Thin Condoms",
+    "slug": "kamasutra-super-thin-condoms",
+    "description": "Ultra-thin condoms for a natural feel, with advanced lubrication for maximum comfort.",
+    "highlights": ["Ultra thin", "Natural feel", "Lubricated"],
+    "images": ["https://cdn.example.com/sexual/kamasutra_thin.jpg"],
+    "thumbnail": "https://cdn.example.com/sexual/kamasutra_thin_thumb.jpg",
+    "brand": "Kamasutra",
+    "category": "687cffff4dd1ce5ed8f73072",
+    "category_string": "Sexual Wellness",
+    "sku": "SEX-KAM-004",
+    "barcode": "8947001000042",
+    "variants": [
+      {
+        "label": "12 pcs",
+        "price": 130,
+        "mrp": 155,
+        "stock": 23,
+        "unit": "box",
+        "image": "https://cdn.example.com/sexual/kamasutra_thin.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 155,
+      "sellingPrice": 130,
+      "discountPercent": 16.13,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 23,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["condoms", "kamasutra", "thin"],
+    "searchKeywords": ["kamasutra", "super thin", "ultra thin", "condoms"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Himalaya Intimate Wash for Women",
+    "slug": "himalaya-intimate-wash-women",
+    "description": "Gentle, pH-balanced intimate wash for daily feminine hygiene and freshness.",
+    "highlights": ["Feminine hygiene", "pH balanced", "Gentle cleansing"],
+    "images": ["https://cdn.example.com/sexual/himalaya_intimate_wash.jpg"],
+    "thumbnail": "https://cdn.example.com/sexual/himalaya_intimate_wash_thumb.jpg",
+    "brand": "Himalaya",
+    "category": "687cffff4dd1ce5ed8f73072",
+    "category_string": "Sexual Wellness",
+    "sku": "SEX-HIM-005",
+    "barcode": "8947001000059",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 165,
+        "mrp": 195,
+        "stock": 26,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/sexual/himalaya_intimate_wash.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 195,
+      "sellingPrice": 165,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 26,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["intimate wash", "himalaya", "women"],
+    "searchKeywords": ["himalaya", "intimate wash", "feminine hygiene"],
+    "viewCount": 6,
+    "soldCount": 2
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Electric Kettle",
+    "slug": "electric-kettle",
+    "description": "1.5L Stainless Steel Electric Kettle, auto shut-off, fast boiling.",
+    "highlights": ["1.5L capacity", "Auto shut-off", "360° swivel base"],
+    "images": ["https://cdn.example.com/appliances/kettle1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/kettle_thumb.jpg",
+    "brand": "Prestige",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-ELK-001",
+    "barcode": "8902001000012",
+    "variants": [
+      {
+        "label": "1.5L",
+        "price": 849,
+        "mrp": 1399,
+        "stock": 45,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/kettle1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1399,
+      "sellingPrice": 849,
+      "discountPercent": 39.32,
+      "offerTag": "39% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 45,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 40,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["appliance", "kitchen", "kettle"],
+    "searchKeywords": ["electric kettle", "kitchen appliance"],
+    "viewCount": 65,
+    "soldCount": 32
+  },
+  {
+    "name": "Pop-up Toaster",
+    "slug": "pop-up-toaster",
+    "description": "2-slice pop-up toaster with browning control.",
+    "highlights": ["2 slices", "Adjustable browning", "Cool touch body"],
+    "images": ["https://cdn.example.com/appliances/toaster1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/toaster_thumb.jpg",
+    "brand": "Philips",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-TST-002",
+    "barcode": "8902001000029",
+    "variants": [
+      {
+        "label": "2-Slice",
+        "price": 1199,
+        "mrp": 1699,
+        "stock": 32,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/toaster1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1699,
+      "sellingPrice": 1199,
+      "discountPercent": 29.43,
+      "offerTag": "29% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 35,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["appliance", "toaster", "kitchen"],
+    "searchKeywords": ["toaster", "kitchen appliance"],
+    "viewCount": 40,
+    "soldCount": 18
+  },
+  {
+    "name": "Hand Blender",
+    "slug": "hand-blender",
+    "description": "Multipurpose hand blender with detachable shaft.",
+    "highlights": ["Detachable shaft", "Easy to clean", "Powerful motor"],
+    "images": ["https://cdn.example.com/appliances/blender1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/blender_thumb.jpg",
+    "brand": "Bajaj",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-HBL-003",
+    "barcode": "8902001000036",
+    "variants": [
+      {
+        "label": "300W",
+        "price": 849,
+        "mrp": 1199,
+        "stock": 24,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/blender1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1199,
+      "sellingPrice": 849,
+      "discountPercent": 29.19,
+      "offerTag": "29% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 24,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 35,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["appliance", "blender", "kitchen"],
+    "searchKeywords": ["hand blender", "kitchen appliance"],
+    "viewCount": 28,
+    "soldCount": 9
+  },
+  {
+    "name": "Mixer Grinder",
+    "slug": "mixer-grinder",
+    "description": "3-jar mixer grinder, 500W motor, overload protection.",
+    "highlights": ["3 jars", "500W", "Overload protection"],
+    "images": ["https://cdn.example.com/appliances/mixer1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/mixer_thumb.jpg",
+    "brand": "Prestige",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-MIX-004",
+    "barcode": "8902001000043",
+    "variants": [
+      {
+        "label": "3 Jars",
+        "price": 2399,
+        "mrp": 3199,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/mixer1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 3199,
+      "sellingPrice": 2399,
+      "discountPercent": 25.01,
+      "offerTag": "25% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 45,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["appliance", "mixer grinder", "kitchen"],
+    "searchKeywords": ["mixer grinder", "kitchen appliance"],
+    "viewCount": 34,
+    "soldCount": 14
+  },
+  {
+    "name": "Induction Cooktop",
+    "slug": "induction-cooktop",
+    "description": "Energy efficient induction cooktop with touch controls.",
+    "highlights": ["Touch controls", "Auto-pan detection", "Timer"],
+    "images": ["https://cdn.example.com/appliances/induction1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/induction_thumb.jpg",
+    "brand": "Philips",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-IND-005",
+    "barcode": "8902001000050",
+    "variants": [
+      {
+        "label": "2000W",
+        "price": 2499,
+        "mrp": 3099,
+        "stock": 20,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/induction1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 3099,
+      "sellingPrice": 2499,
+      "discountPercent": 19.36,
+      "offerTag": "19% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 50,
+      "zones": ["Zone 1", "Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["appliance", "induction", "kitchen"],
+    "searchKeywords": ["induction cooktop", "kitchen appliance"],
+    "viewCount": 25,
+    "soldCount": 7
+  },
+  {
+    "name": "Room Heater",
+    "slug": "room-heater",
+    "description": "Instant heating, portable room heater with safety grill.",
+    "highlights": ["Overheat protection", "Portable", "Instant heating"],
+    "images": ["https://cdn.example.com/appliances/heater1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/heater_thumb.jpg",
+    "brand": "Orpat",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-HEA-006",
+    "barcode": "8902001000067",
+    "variants": [
+      {
+        "label": "1000W",
+        "price": 1099,
+        "mrp": 1699,
+        "stock": 14,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/heater1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1699,
+      "sellingPrice": 1099,
+      "discountPercent": 35.31,
+      "offerTag": "35% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 14,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 60,
+      "zones": ["Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["appliance", "heater", "home"],
+    "searchKeywords": ["room heater", "appliance"],
+    "viewCount": 17,
+    "soldCount": 5
+  },
+  {
+    "name": "Steam Iron",
+    "slug": "steam-iron",
+    "description": "Non-stick soleplate steam iron with variable temperature.",
+    "highlights": ["Non-stick soleplate", "Steam burst", "Self-clean"],
+    "images": ["https://cdn.example.com/appliances/iron1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/iron_thumb.jpg",
+    "brand": "Bajaj",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-IRN-007",
+    "barcode": "8902001000074",
+    "variants": [
+      {
+        "label": "1200W",
+        "price": 899,
+        "mrp": 1399,
+        "stock": 22,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/iron1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1399,
+      "sellingPrice": 899,
+      "discountPercent": 35.67,
+      "offerTag": "36% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["appliance", "iron", "home"],
+    "searchKeywords": ["steam iron", "appliance"],
+    "viewCount": 21,
+    "soldCount": 10
+  },
+  {
+    "name": "Table Fan",
+    "slug": "table-fan",
+    "description": "3-speed table fan with oscillation and low noise.",
+    "highlights": ["Low noise", "3 speed", "Oscillation"],
+    "images": ["https://cdn.example.com/appliances/fan1.jpg"],
+    "thumbnail": "https://cdn.example.com/appliances/fan_thumb.jpg",
+    "brand": "Usha",
+    "category": "687cffff4dd1ce5ed8f7304d",
+    "category_string": "Appliances",
+    "sku": "APP-FAN-008",
+    "barcode": "8902001000081",
+    "variants": [
+      {
+        "label": "400mm",
+        "price": 1599,
+        "mrp": 2399,
+        "stock": 16,
+        "unit": "piece",
+        "image": "https://cdn.example.com/appliances/fan1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 2399,
+      "sellingPrice": 1599,
+      "discountPercent": 33.35,
+      "offerTag": "33% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 16,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 60,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["appliance", "fan", "home"],
+    "searchKeywords": ["table fan", "appliance"],
+    "viewCount": 13,
+    "soldCount": 3
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Fresh Rose Bunch (Red)",
+    "slug": "fresh-rose-bunch-red",
+    "description": "A hand-picked bunch of vibrant red roses, perfect for gifting or religious offerings.",
+    "highlights": ["Hand-picked", "Long stems", "Bright red"],
+    "images": ["https://cdn.example.com/flowers/fresh_rose_bunch.jpg"],
+    "thumbnail": "https://cdn.example.com/flowers/fresh_rose_bunch_thumb.jpg",
+    "brand": "Local Florist",
+    "category": "687cffff4dd1ce5ed8f73078",
+    "category_string": "Fresh Flowers",
+    "sku": "FLR-ROS-001",
+    "barcode": "8953001000011",
+    "variants": [
+      {
+        "label": "12 stems",
+        "price": 149,
+        "mrp": 180,
+        "stock": 19,
+        "unit": "bunch",
+        "image": "https://cdn.example.com/flowers/fresh_rose_bunch.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 180,
+      "sellingPrice": 149,
+      "discountPercent": 17.22,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 19,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 40,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["rose", "fresh flowers", "red"],
+    "searchKeywords": ["rose", "flower", "bunch", "fresh"],
+    "viewCount": 17,
+    "soldCount": 8
+  },
+  {
+    "name": "Marigold Garland (Mala)",
+    "slug": "marigold-garland-mala",
+    "description": "Freshly strung marigold garland for puja, decoration, and auspicious occasions.",
+    "highlights": ["Bright yellow", "Handmade", "Traditional"],
+    "images": ["https://cdn.example.com/flowers/marigold_garland.jpg"],
+    "thumbnail": "https://cdn.example.com/flowers/marigold_garland_thumb.jpg",
+    "brand": "Local Florist",
+    "category": "687cffff4dd1ce5ed8f73078",
+    "category_string": "Fresh Flowers",
+    "sku": "FLR-MAR-002",
+    "barcode": "8953001000028",
+    "variants": [
+      {
+        "label": "1 garland",
+        "price": 49,
+        "mrp": 65,
+        "stock": 34,
+        "unit": "piece",
+        "image": "https://cdn.example.com/flowers/marigold_garland.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 65,
+      "sellingPrice": 49,
+      "discountPercent": 24.62,
+      "offerTag": "25% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 34,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["marigold", "garland", "mala"],
+    "searchKeywords": ["marigold", "garland", "mala", "flower"],
+    "viewCount": 10,
+    "soldCount": 5
+  },
+  {
+    "name": "Jasmine String (Mallige Hoo)",
+    "slug": "jasmine-string-mallige-hoo",
+    "description": "Fragrant jasmine flowers strung together, ideal for hair decoration and religious use.",
+    "highlights": ["Highly fragrant", "Soft white", "Traditional use"],
+    "images": ["https://cdn.example.com/flowers/jasmine_string.jpg"],
+    "thumbnail": "https://cdn.example.com/flowers/jasmine_string_thumb.jpg",
+    "brand": "Local Florist",
+    "category": "687cffff4dd1ce5ed8f73078",
+    "category_string": "Fresh Flowers",
+    "sku": "FLR-JAS-003",
+    "barcode": "8953001000035",
+    "variants": [
+      {
+        "label": "50g string",
+        "price": 55,
+        "mrp": 70,
+        "stock": 27,
+        "unit": "string",
+        "image": "https://cdn.example.com/flowers/jasmine_string.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 70,
+      "sellingPrice": 55,
+      "discountPercent": 21.43,
+      "offerTag": "21% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 27,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 35,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["jasmine", "mallige", "string", "fragrant"],
+    "searchKeywords": ["jasmine", "mallige hoo", "string", "flower"],
+    "viewCount": 12,
+    "soldCount": 4
+  },
+  {
+    "name": "Mixed Flower Bouquet",
+    "slug": "mixed-flower-bouquet",
+    "description": "A beautiful arrangement of assorted fresh flowers, perfect for gifting and celebrations.",
+    "highlights": ["Assorted flowers", "Gift ready", "Colorful arrangement"],
+    "images": ["https://cdn.example.com/flowers/mixed_bouquet.jpg"],
+    "thumbnail": "https://cdn.example.com/flowers/mixed_bouquet_thumb.jpg",
+    "brand": "Local Florist",
+    "category": "687cffff4dd1ce5ed8f73078",
+    "category_string": "Fresh Flowers",
+    "sku": "FLR-MIX-004",
+    "barcode": "8953001000042",
+    "variants": [
+      {
+        "label": "1 bouquet",
+        "price": 199,
+        "mrp": 240,
+        "stock": 21,
+        "unit": "bouquet",
+        "image": "https://cdn.example.com/flowers/mixed_bouquet.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 240,
+      "sellingPrice": 199,
+      "discountPercent": 17.08,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 45,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["bouquet", "mixed flowers", "gift"],
+    "searchKeywords": ["mixed flowers", "bouquet", "fresh", "gift"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Lotus Flowers (Padma)",
+    "slug": "lotus-flowers-padma",
+    "description": "Fresh pink lotus flowers, considered sacred and ideal for temple offerings and puja.",
+    "highlights": ["Sacred", "Pink lotus", "For puja"],
+    "images": ["https://cdn.example.com/flowers/lotus_padma.jpg"],
+    "thumbnail": "https://cdn.example.com/flowers/lotus_padma_thumb.jpg",
+    "brand": "Local Florist",
+    "category": "687cffff4dd1ce5ed8f73078",
+    "category_string": "Fresh Flowers",
+    "sku": "FLR-LOT-005",
+    "barcode": "8953001000059",
+    "variants": [
+      {
+        "label": "5 flowers",
+        "price": 99,
+        "mrp": 130,
+        "stock": 15,
+        "unit": "bunch",
+        "image": "https://cdn.example.com/flowers/lotus_padma.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 99,
+      "discountPercent": 23.85,
+      "offerTag": "24% OFF"
+    },
+    "tax": {
+      "gstRate": 0,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 50,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["lotus", "padma", "puja"],
+    "searchKeywords": ["lotus", "padma", "fresh", "flower"],
+    "viewCount": 7,
+    "soldCount": 2
+  }
+]

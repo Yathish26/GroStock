@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Optimum Nutrition (ON) Gold Standard 100% Whey Protein",
+    "slug": "on-gold-standard-whey-protein",
+    "description": "Premium quality whey protein blend for muscle recovery and growth, with BCAAs and glutamine.",
+    "highlights": ["24g protein per serving", "BCAAs & glutamine", "Fast absorption"],
+    "images": ["https://cdn.example.com/protein/on_gold_standard.jpg"],
+    "thumbnail": "https://cdn.example.com/protein/on_gold_standard_thumb.jpg",
+    "brand": "Optimum Nutrition",
+    "category": "687cffff4dd1ce5ed8f7306f",
+    "category_string": "Protein and Supplements",
+    "sku": "PS-ON-001",
+    "barcode": "8944001000011",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 3199,
+        "mrp": 4399,
+        "stock": 13,
+        "unit": "jar",
+        "image": "https://cdn.example.com/protein/on_gold_standard.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 4399,
+      "sellingPrice": 3199,
+      "discountPercent": 27.28,
+      "offerTag": "27% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 13,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 180,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["whey protein", "ON", "muscle recovery"],
+    "searchKeywords": ["whey protein", "ON", "gold standard", "supplement"],
+    "viewCount": 23,
+    "soldCount": 7
+  },
+  {
+    "name": "MuscleBlaze Whey Gold Protein",
+    "slug": "muscleblaze-whey-gold-protein",
+    "description": "Whey protein isolate with high protein content for lean muscle building and quick recovery.",
+    "highlights": ["25g protein per serving", "Isolate", "Fast absorption"],
+    "images": ["https://cdn.example.com/protein/muscleblaze_whey_gold.jpg"],
+    "thumbnail": "https://cdn.example.com/protein/muscleblaze_whey_gold_thumb.jpg",
+    "brand": "MuscleBlaze",
+    "category": "687cffff4dd1ce5ed8f7306f",
+    "category_string": "Protein and Supplements",
+    "sku": "PS-MB-002",
+    "barcode": "8944001000028",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 2599,
+        "mrp": 3599,
+        "stock": 17,
+        "unit": "jar",
+        "image": "https://cdn.example.com/protein/muscleblaze_whey_gold.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 3599,
+      "sellingPrice": 2599,
+      "discountPercent": 27.79,
+      "offerTag": "28% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 17,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 160,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["whey protein", "muscleblaze", "isolate"],
+    "searchKeywords": ["muscleblaze", "whey protein", "isolate"],
+    "viewCount": 12,
+    "soldCount": 3
+  },
+  {
+    "name": "Bigmuscles Nutrition Raw & Real Whey",
+    "slug": "bigmuscles-raw-real-whey",
+    "description": "Unflavoured, additive-free whey protein concentrate for clean nutrition and muscle gain.",
+    "highlights": ["Unflavoured", "No additives", "Pure whey concentrate"],
+    "images": ["https://cdn.example.com/protein/bigmuscles_raw_real.jpg"],
+    "thumbnail": "https://cdn.example.com/protein/bigmuscles_raw_real_thumb.jpg",
+    "brand": "Bigmuscles Nutrition",
+    "category": "687cffff4dd1ce5ed8f7306f",
+    "category_string": "Protein and Supplements",
+    "sku": "PS-BM-003",
+    "barcode": "8944001000035",
+    "variants": [
+      {
+        "label": "1kg",
+        "price": 1499,
+        "mrp": 1999,
+        "stock": 11,
+        "unit": "jar",
+        "image": "https://cdn.example.com/protein/bigmuscles_raw_real.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1999,
+      "sellingPrice": 1499,
+      "discountPercent": 25.01,
+      "offerTag": "25% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 11,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 130,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["whey protein", "bigmuscles", "raw whey"],
+    "searchKeywords": ["bigmuscles", "raw whey", "unflavoured"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "GNC Pro Performance Creatine Monohydrate",
+    "slug": "gnc-pro-performance-creatine",
+    "description": "Micronized creatine monohydrate to improve strength, power, and muscle recovery.",
+    "highlights": ["Micronized", "Improves strength", "Muscle recovery"],
+    "images": ["https://cdn.example.com/protein/gnc_creatine.jpg"],
+    "thumbnail": "https://cdn.example.com/protein/gnc_creatine_thumb.jpg",
+    "brand": "GNC",
+    "category": "687cffff4dd1ce5ed8f7306f",
+    "category_string": "Protein and Supplements",
+    "sku": "PS-GNC-004",
+    "barcode": "8944001000042",
+    "variants": [
+      {
+        "label": "250g",
+        "price": 799,
+        "mrp": 999,
+        "stock": 16,
+        "unit": "jar",
+        "image": "https://cdn.example.com/protein/gnc_creatine.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 999,
+      "sellingPrice": 799,
+      "discountPercent": 20.02,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 16,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 110,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["creatine", "gnc", "muscle recovery"],
+    "searchKeywords": ["creatine", "gnc", "pro performance"],
+    "viewCount": 5,
+    "soldCount": 1
+  },
+  {
+    "name": "Fast&Up Charge Natural Vitamin C & Zinc",
+    "slug": "fastup-charge-vitamin-c-zinc",
+    "description": "Effervescent tablets with natural vitamin C and zinc for daily immunity support.",
+    "highlights": ["Vitamin C", "Zinc", "Immunity booster"],
+    "images": ["https://cdn.example.com/protein/fastup_charge.jpg"],
+    "thumbnail": "https://cdn.example.com/protein/fastup_charge_thumb.jpg",
+    "brand": "Fast&Up",
+    "category": "687cffff4dd1ce5ed8f7306f",
+    "category_string": "Protein and Supplements",
+    "sku": "PS-FUP-005",
+    "barcode": "8944001000059",
+    "variants": [
+      {
+        "label": "20 tabs",
+        "price": 310,
+        "mrp": 380,
+        "stock": 22,
+        "unit": "tube",
+        "image": "https://cdn.example.com/protein/fastup_charge.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 380,
+      "sellingPrice": 310,
+      "discountPercent": 18.42,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["vitamin c", "zinc", "immunity"],
+    "searchKeywords": ["fast&up", "vitamin c", "zinc", "immunity"],
+    "viewCount": 4,
+    "soldCount": 1
+  }
+]

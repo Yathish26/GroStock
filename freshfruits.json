@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Banana",
+    "slug": "banana",
+    "description": "Rich in potassium and energy.",
+    "highlights": ["High fiber", "Digestive aid"],
+    "images": ["https://cdn.example.com/fruits/banana1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/banana_thumb.jpg",
+    "brand": "Local Farmer",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-BAN-001",
+    "barcode": "8901001000011",
+    "variants": [
+      {
+        "label": "1 Dozen",
+        "price": 55,
+        "mrp": 65,
+        "stock": 300,
+        "unit": "dozen",
+        "image": "https://cdn.example.com/fruits/banana1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 65,
+      "sellingPrice": 55,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 300,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["fruit", "fresh", "banana"],
+    "searchKeywords": ["banana", "yellow fruit", "fresh fruits"],
+    "viewCount": 120,
+    "soldCount": 85
+  },
+  {
+    "name": "Apple",
+    "slug": "apple",
+    "description": "Juicy, crisp apples perfect for snacking.",
+    "highlights": ["Rich in fiber", "Vitamin C"],
+    "images": ["https://cdn.example.com/fruits/apple1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/apple_thumb.jpg",
+    "brand": "Himalayan Orchards",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-APP-002",
+    "barcode": "8901001000028",
+    "variants": [
+      {
+        "label": "1 kg",
+        "price": 190,
+        "mrp": 220,
+        "stock": 120,
+        "unit": "kg",
+        "image": "https://cdn.example.com/fruits/apple1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 220,
+      "sellingPrice": 190,
+      "discountPercent": 13.64,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 120,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["fruit", "fresh", "apple"],
+    "searchKeywords": ["apple", "red fruit", "fresh fruits"],
+    "viewCount": 98,
+    "soldCount": 75
+  },
+  {
+    "name": "Orange",
+    "slug": "orange",
+    "description": "Sweet and tangy oranges full of Vitamin C.",
+    "highlights": ["Boosts immunity", "Juicy"],
+    "images": ["https://cdn.example.com/fruits/orange1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/orange_thumb.jpg",
+    "brand": "Nagpur Farms",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-ORA-003",
+    "barcode": "8901001000035",
+    "variants": [
+      {
+        "label": "1 kg",
+        "price": 90,
+        "mrp": 110,
+        "stock": 100,
+        "unit": "kg",
+        "image": "https://cdn.example.com/fruits/orange1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 90,
+      "discountPercent": 18.18,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 100,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "orange"],
+    "searchKeywords": ["orange", "citrus", "fresh fruits"],
+    "viewCount": 80,
+    "soldCount": 50
+  },
+  {
+    "name": "Mango",
+    "slug": "mango",
+    "description": "The king of fruits, juicy and aromatic.",
+    "highlights": ["Seasonal special", "Rich in Vitamin A"],
+    "images": ["https://cdn.example.com/fruits/mango1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/mango_thumb.jpg",
+    "brand": "Alphonso",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-MAN-004",
+    "barcode": "8901001000042",
+    "variants": [
+      {
+        "label": "1 kg",
+        "price": 150,
+        "mrp": 180,
+        "stock": 60,
+        "unit": "kg",
+        "image": "https://cdn.example.com/fruits/mango1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 180,
+      "sellingPrice": 150,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 25,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["fruit", "fresh", "mango"],
+    "searchKeywords": ["mango", "seasonal", "fresh fruits"],
+    "viewCount": 150,
+    "soldCount": 110
+  },
+  {
+    "name": "Grapes - Green",
+    "slug": "grapes-green",
+    "description": "Seedless, sweet and crunchy green grapes.",
+    "highlights": ["Seedless", "Rich in antioxidants"],
+    "images": ["https://cdn.example.com/fruits/grapes_green1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/grapes_green_thumb.jpg",
+    "brand": "Vineyard Select",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-GRA-005",
+    "barcode": "8901001000059",
+    "variants": [
+      {
+        "label": "500 g",
+        "price": 70,
+        "mrp": 85,
+        "stock": 110,
+        "unit": "g",
+        "image": "https://cdn.example.com/fruits/grapes_green1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 85,
+      "sellingPrice": 70,
+      "discountPercent": 17.65,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 110,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "grapes"],
+    "searchKeywords": ["grapes", "green grapes", "fresh fruits"],
+    "viewCount": 65,
+    "soldCount": 45
+  },
+  {
+    "name": "Pomegranate",
+    "slug": "pomegranate",
+    "description": "Ruby red seeds packed with nutrients.",
+    "highlights": ["Rich in antioxidants", "Improves immunity"],
+    "images": ["https://cdn.example.com/fruits/pomegranate1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/pomegranate_thumb.jpg",
+    "brand": "Local Farmer",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-POM-006",
+    "barcode": "8901001000066",
+    "variants": [
+      {
+        "label": "1 kg",
+        "price": 130,
+        "mrp": 150,
+        "stock": 90,
+        "unit": "kg",
+        "image": "https://cdn.example.com/fruits/pomegranate1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 150,
+      "sellingPrice": 130,
+      "discountPercent": 13.33,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 90,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "pomegranate"],
+    "searchKeywords": ["pomegranate", "seed fruit", "fresh fruits"],
+    "viewCount": 70,
+    "soldCount": 38
+  },
+  {
+    "name": "Papaya",
+    "slug": "papaya",
+    "description": "Tropical fruit rich in enzymes and vitamins.",
+    "highlights": ["Digestive health", "Vitamin C"],
+    "images": ["https://cdn.example.com/fruits/papaya1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/papaya_thumb.jpg",
+    "brand": "Local Farmer",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-PAP-007",
+    "barcode": "8901001000073",
+    "variants": [
+      {
+        "label": "1 piece (800g-1kg)",
+        "price": 55,
+        "mrp": 70,
+        "stock": 60,
+        "unit": "piece",
+        "image": "https://cdn.example.com/fruits/papaya1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 70,
+      "sellingPrice": 55,
+      "discountPercent": 21.43,
+      "offerTag": "21% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "papaya"],
+    "searchKeywords": ["papaya", "tropical", "fresh fruits"],
+    "viewCount": 52,
+    "soldCount": 32
+  },
+  {
+    "name": "Pineapple",
+    "slug": "pineapple",
+    "description": "Juicy and tangy pineapple for a tropical treat.",
+    "highlights": ["Vitamin C", "Digestive enzyme"],
+    "images": ["https://cdn.example.com/fruits/pineapple1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/pineapple_thumb.jpg",
+    "brand": "Tropical Farms",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-PIN-008",
+    "barcode": "8901001000080",
+    "variants": [
+      {
+        "label": "1 piece (1.2-1.5kg)",
+        "price": 85,
+        "mrp": 110,
+        "stock": 45,
+        "unit": "piece",
+        "image": "https://cdn.example.com/fruits/pineapple1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 85,
+      "discountPercent": 22.73,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 45,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "pineapple"],
+    "searchKeywords": ["pineapple", "tropical", "fresh fruits"],
+    "viewCount": 38,
+    "soldCount": 18
+  },
+  {
+    "name": "Kiwi",
+    "slug": "kiwi",
+    "description": "Tangy and vitamin-rich New Zealand kiwi.",
+    "highlights": ["High Vitamin C", "Low calorie"],
+    "images": ["https://cdn.example.com/fruits/kiwi1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/kiwi_thumb.jpg",
+    "brand": "Zespri",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-KIW-009",
+    "barcode": "8901001000097",
+    "variants": [
+      {
+        "label": "3 pcs",
+        "price": 130,
+        "mrp": 150,
+        "stock": 80,
+        "unit": "pack",
+        "image": "https://cdn.example.com/fruits/kiwi1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 150,
+      "sellingPrice": 130,
+      "discountPercent": 13.33,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["fruit", "fresh", "kiwi"],
+    "searchKeywords": ["kiwi", "vitamin c", "fresh fruits"],
+    "viewCount": 62,
+    "soldCount": 24
+  },
+  {
+    "name": "Guava",
+    "slug": "guava",
+    "description": "Sweet and crunchy guava, rich in Vitamin C.",
+    "highlights": ["High fiber", "Vitamin C"],
+    "images": ["https://cdn.example.com/fruits/guava1.jpg"],
+    "thumbnail": "https://cdn.example.com/fruits/guava_thumb.jpg",
+    "brand": "Local Farmer",
+    "category": "687cffff4dd1ce5ed8f7304c",
+    "category_string": "Fresh Fruits",
+    "sku": "FRU-GUA-010",
+    "barcode": "8901001000103",
+    "variants": [
+      {
+        "label": "500 g",
+        "price": 60,
+        "mrp": 75,
+        "stock": 70,
+        "unit": "g",
+        "image": "https://cdn.example.com/fruits/guava1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 75,
+      "sellingPrice": 60,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["fruit", "fresh", "guava"],
+    "searchKeywords": ["guava", "tropical", "fresh fruits"],
+    "viewCount": 44,
+    "soldCount": 17
+  }
+]

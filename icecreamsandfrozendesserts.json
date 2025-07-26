@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Amul Real Vanilla Ice Cream",
+    "slug": "amul-real-vanilla-ice-cream",
+    "description": "Classic vanilla ice cream made from real milk, smooth and creamy in texture.",
+    "highlights": ["Real milk", "Classic vanilla", "Rich & creamy"],
+    "images": ["https://cdn.example.com/icecream/amul_vanilla.jpg"],
+    "thumbnail": "https://cdn.example.com/icecream/amul_vanilla_thumb.jpg",
+    "brand": "Amul",
+    "category": "687cffff4dd1ce5ed8f73063",
+    "category_string": "Ice Creams and Frozen Desserts",
+    "sku": "ICF-AML-001",
+    "barcode": "8932001000011",
+    "variants": [
+      {
+        "label": "500ml",
+        "price": 105,
+        "mrp": 120,
+        "stock": 70,
+        "unit": "tub",
+        "image": "https://cdn.example.com/icecream/amul_vanilla.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 120,
+      "sellingPrice": 105,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 70,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["vanilla", "amul", "ice cream"],
+    "searchKeywords": ["amul", "vanilla ice cream", "classic"],
+    "viewCount": 52,
+    "soldCount": 21
+  },
+  {
+    "name": "Kwality Wall’s Choco Brownie Fudge",
+    "slug": "kwality-walls-choco-brownie-fudge",
+    "description": "Decadent chocolate ice cream with brownie chunks and fudge swirl.",
+    "highlights": ["Chocolate fudge", "Brownie pieces", "Rich flavor"],
+    "images": ["https://cdn.example.com/icecream/kwality_brownie.jpg"],
+    "thumbnail": "https://cdn.example.com/icecream/kwality_brownie_thumb.jpg",
+    "brand": "Kwality Wall’s",
+    "category": "687cffff4dd1ce5ed8f73063",
+    "category_string": "Ice Creams and Frozen Desserts",
+    "sku": "ICF-KWL-002",
+    "barcode": "8932001000028",
+    "variants": [
+      {
+        "label": "700ml",
+        "price": 210,
+        "mrp": 250,
+        "stock": 48,
+        "unit": "tub",
+        "image": "https://cdn.example.com/icecream/kwality_brownie.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 250,
+      "sellingPrice": 210,
+      "discountPercent": 16,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 48,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chocolate", "brownie", "ice cream"],
+    "searchKeywords": ["kwality wall's", "brownie fudge", "ice cream"],
+    "viewCount": 28,
+    "soldCount": 9
+  },
+  {
+    "name": "Mother Dairy Mango Lassi Frozen Dessert",
+    "slug": "mother-dairy-mango-lassi-frozen-dessert",
+    "description": "Frozen dessert inspired by traditional mango lassi, sweet, tangy, and refreshing.",
+    "highlights": ["Mango lassi", "Indian flavor", "Frozen dessert"],
+    "images": ["https://cdn.example.com/icecream/motherdairy_mango_lassi.jpg"],
+    "thumbnail": "https://cdn.example.com/icecream/motherdairy_mango_lassi_thumb.jpg",
+    "brand": "Mother Dairy",
+    "category": "687cffff4dd1ce5ed8f73063",
+    "category_string": "Ice Creams and Frozen Desserts",
+    "sku": "ICF-MDR-003",
+    "barcode": "8932001000035",
+    "variants": [
+      {
+        "label": "750ml",
+        "price": 175,
+        "mrp": 195,
+        "stock": 32,
+        "unit": "tub",
+        "image": "https://cdn.example.com/icecream/motherdairy_mango_lassi.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 195,
+      "sellingPrice": 175,
+      "discountPercent": 10.26,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["mango", "lassi", "frozen dessert"],
+    "searchKeywords": ["mother dairy", "mango lassi", "frozen dessert"],
+    "viewCount": 11,
+    "soldCount": 4
+  },
+  {
+    "name": "Havmor Belgian Chocolate Cone",
+    "slug": "havmor-belgian-chocolate-cone",
+    "description": "Crunchy cone filled with creamy Belgian chocolate ice cream, topped with chocolate chips.",
+    "highlights": ["Belgian chocolate", "Crunchy cone", "Chocolate chips topping"],
+    "images": ["https://cdn.example.com/icecream/havmor_belgian_cone.jpg"],
+    "thumbnail": "https://cdn.example.com/icecream/havmor_belgian_cone_thumb.jpg",
+    "brand": "Havmor",
+    "category": "687cffff4dd1ce5ed8f73063",
+    "category_string": "Ice Creams and Frozen Desserts",
+    "sku": "ICF-HVM-004",
+    "barcode": "8932001000042",
+    "variants": [
+      {
+        "label": "120ml",
+        "price": 60,
+        "mrp": 70,
+        "stock": 39,
+        "unit": "piece",
+        "image": "https://cdn.example.com/icecream/havmor_belgian_cone.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 70,
+      "sellingPrice": 60,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 39,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["cone", "havmor", "belgian chocolate"],
+    "searchKeywords": ["havmor", "belgian chocolate", "ice cream cone"],
+    "viewCount": 14,
+    "soldCount": 3
+  },
+  {
+    "name": "Vadilal Kesar Pista Kulfi",
+    "slug": "vadilal-kesar-pista-kulfi",
+    "description": "Traditional Indian kulfi flavored with saffron and pistachios, rich and creamy for authentic taste.",
+    "highlights": ["Saffron & pistachio", "Traditional kulfi", "Creamy texture"],
+    "images": ["https://cdn.example.com/icecream/vadilal_kesar_pista.jpg"],
+    "thumbnail": "https://cdn.example.com/icecream/vadilal_kesar_pista_thumb.jpg",
+    "brand": "Vadilal",
+    "category": "687cffff4dd1ce5ed8f73063",
+    "category_string": "Ice Creams and Frozen Desserts",
+    "sku": "ICF-KUL-005",
+    "barcode": "8932001000059",
+    "variants": [
+      {
+        "label": "60ml",
+        "price": 35,
+        "mrp": 40,
+        "stock": 55,
+        "unit": "piece",
+        "image": "https://cdn.example.com/icecream/vadilal_kesar_pista.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 40,
+      "sellingPrice": 35,
+      "discountPercent": 12.5,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kulfi", "vadilal", "kesar pista"],
+    "searchKeywords": ["vadilal", "kesar pista", "kulfi", "frozen dessert"],
+    "viewCount": 7,
+    "soldCount": 2
+  }
+]

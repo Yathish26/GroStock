@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Classmate Spiral Notebook (A4, 200 Pages)",
+    "slug": "classmate-spiral-notebook-a4-200-pages",
+    "description": "Classmate A4 spiral notebook, single line, 200 pages, high quality paper.",
+    "highlights": ["Single line", "200 pages", "A4 size"],
+    "images": ["https://cdn.example.com/stationary/classmate_a4.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/classmate_a4_thumb.jpg",
+    "brand": "Classmate",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-NBK-001",
+    "barcode": "8906001000011",
+    "variants": [
+      {
+        "label": "A4 - 200 pages",
+        "price": 95,
+        "mrp": 110,
+        "stock": 60,
+        "unit": "piece",
+        "image": "https://cdn.example.com/stationary/classmate_a4.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 110,
+      "sellingPrice": 95,
+      "discountPercent": 13.64,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["notebook", "classmate", "a4"],
+    "searchKeywords": ["notebook", "classmate", "spiral", "stationary"],
+    "viewCount": 32,
+    "soldCount": 19
+  },
+  {
+    "name": "Camlin Geometry Box",
+    "slug": "camlin-geometry-box",
+    "description": "All-in-one geometry box with compass, scale, protractor, divider, eraser, and sharpener.",
+    "highlights": ["Complete set", "Durable", "Student essential"],
+    "images": ["https://cdn.example.com/stationary/camlin_geometry.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/camlin_geometry_thumb.jpg",
+    "brand": "Camlin",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-GEO-002",
+    "barcode": "8906001000028",
+    "variants": [
+      {
+        "label": "Box",
+        "price": 65,
+        "mrp": 75,
+        "stock": 80,
+        "unit": "piece",
+        "image": "https://cdn.example.com/stationary/camlin_geometry.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 75,
+      "sellingPrice": 65,
+      "discountPercent": 13.33,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 80,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["geometry", "box", "camlin"],
+    "searchKeywords": ["geometry box", "camlin", "stationary"],
+    "viewCount": 25,
+    "soldCount": 14
+  },
+  {
+    "name": "Apsara Platinum Extra Dark Pencils (Pack of 10)",
+    "slug": "apsara-platinum-extra-dark-pencils-pack-of-10",
+    "description": "Smooth and dark pencils, easy to sharpen and erase.",
+    "highlights": ["Extra dark", "Smooth writing"],
+    "images": ["https://cdn.example.com/stationary/apsara_pencils.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/apsara_pencils_thumb.jpg",
+    "brand": "Apsara",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-PEN-003",
+    "barcode": "8906001000035",
+    "variants": [
+      {
+        "label": "Pack of 10",
+        "price": 40,
+        "mrp": 48,
+        "stock": 100,
+        "unit": "pack",
+        "image": "https://cdn.example.com/stationary/apsara_pencils.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 48,
+      "sellingPrice": 40,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 100,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pencils", "apsara", "extra dark"],
+    "searchKeywords": ["pencil", "apsara", "stationary"],
+    "viewCount": 28,
+    "soldCount": 12
+  },
+  {
+    "name": "Cello Butterflow Ball Pen (Blue, Pack of 5)",
+    "slug": "cello-butterflow-ball-pen-blue-pack-of-5",
+    "description": "Smooth, long-lasting blue ink pens for effortless writing.",
+    "highlights": ["Smooth writing", "Long-lasting ink"],
+    "images": ["https://cdn.example.com/stationary/cello_butterflow.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/cello_butterflow_thumb.jpg",
+    "brand": "Cello",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-PEN-004",
+    "barcode": "8906001000042",
+    "variants": [
+      {
+        "label": "Blue - Pack of 5",
+        "price": 45,
+        "mrp": 55,
+        "stock": 90,
+        "unit": "pack",
+        "image": "https://cdn.example.com/stationary/cello_butterflow.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 55,
+      "sellingPrice": 45,
+      "discountPercent": 18.18,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 90,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 8,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["pen", "cello", "butterflow"],
+    "searchKeywords": ["cello", "ball pen", "stationary"],
+    "viewCount": 31,
+    "soldCount": 16
+  },
+  {
+    "name": "Navneet Youva Long Book (172 Pages)",
+    "slug": "navneet-youva-long-book-172-pages",
+    "description": "Navneet Youva long book for school or college, single line, 172 pages.",
+    "highlights": ["172 pages", "Single line", "Long book"],
+    "images": ["https://cdn.example.com/stationary/navneet_longbook.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/navneet_longbook_thumb.jpg",
+    "brand": "Navneet",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-NBK-005",
+    "barcode": "8906001000059",
+    "variants": [
+      {
+        "label": "172 pages",
+        "price": 52,
+        "mrp": 65,
+        "stock": 75,
+        "unit": "piece",
+        "image": "https://cdn.example.com/stationary/navneet_longbook.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 65,
+      "sellingPrice": 52,
+      "discountPercent": 20,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 75,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["long book", "navneet", "notebook"],
+    "searchKeywords": ["navneet", "long book", "stationary"],
+    "viewCount": 17,
+    "soldCount": 6
+  },
+  {
+    "name": "Fevicol MR White Adhesive (50g)",
+    "slug": "fevicol-mr-white-adhesive-50g",
+    "description": "Fevicol MR for project work, crafts, and paper sticking.",
+    "highlights": ["Quick dry", "Strong bond"],
+    "images": ["https://cdn.example.com/stationary/fevicol_mr.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/fevicol_mr_thumb.jpg",
+    "brand": "Fevicol",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-GLU-006",
+    "barcode": "8906001000066",
+    "variants": [
+      {
+        "label": "50g",
+        "price": 25,
+        "mrp": 30,
+        "stock": 62,
+        "unit": "piece",
+        "image": "https://cdn.example.com/stationary/fevicol_mr.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 30,
+      "sellingPrice": 25,
+      "discountPercent": 16.67,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 62,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["adhesive", "fevicol", "glue"],
+    "searchKeywords": ["fevicol", "glue", "stationary"],
+    "viewCount": 14,
+    "soldCount": 5
+  },
+  {
+    "name": "JK Copier Paper A4 (500 Sheets)",
+    "slug": "jk-copier-paper-a4-500-sheets",
+    "description": "High quality A4 copier paper for printing and photocopying.",
+    "highlights": ["500 sheets", "A4 size", "Bright white"],
+    "images": ["https://cdn.example.com/stationary/jk_copier.jpg"],
+    "thumbnail": "https://cdn.example.com/stationary/jk_copier_thumb.jpg",
+    "brand": "JK Paper",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-PPR-007",
+    "barcode": "8906001000073",
+    "variants": [
+      {
+        "label": "A4 - 500 sheets",
+        "price": 299,
+        "mrp": 350,
+        "stock": 22,
+        "unit": "ream",
+        "image": "https://cdn.example.com/stationary/jk_copier.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 350,
+      "sellingPrice": 299,
+      "discountPercent": 14.57,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 20,
+      "zones": ["Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paper", "jk", "a4"],
+    "searchKeywords": ["copier paper", "jk", "stationary"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "slug": "harry-potter-and-the-philosophers-stone",
+    "description": "The first book in J.K. Rowling's magical Harry Potter series.",
+    "highlights": ["Fantasy", "Adventure", "Bestseller"],
+    "images": ["https://cdn.example.com/books/harry_potter1.jpg"],
+    "thumbnail": "https://cdn.example.com/books/harry_potter1_thumb.jpg",
+    "brand": "Bloomsbury",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-BOK-008",
+    "barcode": "9780747532699",
+    "variants": [
+      {
+        "label": "Paperback",
+        "price": 399,
+        "mrp": 499,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/books/harry_potter1.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 499,
+      "sellingPrice": 399,
+      "discountPercent": 20.04,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 30,
+      "zones": ["Zone 1", "Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["book", "harry potter", "fiction"],
+    "searchKeywords": ["harry potter", "books", "fiction"],
+    "viewCount": 25,
+    "soldCount": 7
+  },
+  {
+    "name": "The Power of Your Subconscious Mind",
+    "slug": "the-power-of-your-subconscious-mind",
+    "description": "Dr. Joseph Murphy's classic self-help book on harnessing the power of your mind.",
+    "highlights": ["Self-help", "Motivational"],
+    "images": ["https://cdn.example.com/books/power_subconscious.jpg"],
+    "thumbnail": "https://cdn.example.com/books/power_subconscious_thumb.jpg",
+    "brand": "Penguin",
+    "category": "687cffff4dd1ce5ed8f73052",
+    "category_string": "Books and Stationary",
+    "sku": "BS-BOK-009",
+    "barcode": "9788192910968",
+    "variants": [
+      {
+        "label": "Paperback",
+        "price": 199,
+        "mrp": 250,
+        "stock": 21,
+        "unit": "piece",
+        "image": "https://cdn.example.com/books/power_subconscious.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 250,
+      "sellingPrice": 199,
+      "discountPercent": 20.4,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 21,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 22,
+      "zones": ["Zone 1", "Zone 2", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["book", "motivation", "self-help"],
+    "searchKeywords": ["self help", "books", "motivation"],
+    "viewCount": 10,
+    "soldCount": 3
+  }
+]

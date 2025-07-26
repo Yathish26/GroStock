@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Everest Tikhalal Chilli Powder",
+    "slug": "everest-tikhalal-chilli-powder",
+    "description": "Finely ground red chilli powder for extra heat and vibrant color in Indian cuisine.",
+    "highlights": ["Pure chilli", "Intense heat", "Vibrant color"],
+    "images": ["https://cdn.example.com/masalas/everest_tikhalal.jpg"],
+    "thumbnail": "https://cdn.example.com/masalas/everest_tikhalal_thumb.jpg",
+    "brand": "Everest",
+    "category": "687cffff4dd1ce5ed8f73067",
+    "category_string": "Masalas",
+    "sku": "MSL-RED-001",
+    "barcode": "8936001000011",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 74,
+        "mrp": 84,
+        "stock": 65,
+        "unit": "pack",
+        "image": "https://cdn.example.com/masalas/everest_tikhalal.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 84,
+      "sellingPrice": 74,
+      "discountPercent": 11.9,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 65,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["chilli powder", "everest", "masala"],
+    "searchKeywords": ["everest", "tikhalal", "red chilli powder"],
+    "viewCount": 22,
+    "soldCount": 11
+  },
+  {
+    "name": "MDH Kitchen King Masala",
+    "slug": "mdh-kitchen-king-masala",
+    "description": "All-purpose spice blend for a variety of Indian curries and vegetable dishes.",
+    "highlights": ["All-purpose", "Rich aroma", "Authentic flavor"],
+    "images": ["https://cdn.example.com/masalas/mdh_kitchen_king.jpg"],
+    "thumbnail": "https://cdn.example.com/masalas/mdh_kitchen_king_thumb.jpg",
+    "brand": "MDH",
+    "category": "687cffff4dd1ce5ed8f73067",
+    "category_string": "Masalas",
+    "sku": "MSL-KIT-002",
+    "barcode": "8936001000028",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 74,
+        "mrp": 85,
+        "stock": 38,
+        "unit": "box",
+        "image": "https://cdn.example.com/masalas/mdh_kitchen_king.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 85,
+      "sellingPrice": 74,
+      "discountPercent": 12.94,
+      "offerTag": "13% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kitchen king", "mdh", "masala"],
+    "searchKeywords": ["mdh", "kitchen king", "masala"],
+    "viewCount": 16,
+    "soldCount": 6
+  },
+  {
+    "name": "Catch Garam Masala",
+    "slug": "catch-garam-masala",
+    "description": "Aromatic blend of select spices for North Indian gravies and curries.",
+    "highlights": ["Aromatic", "North Indian", "Finely ground"],
+    "images": ["https://cdn.example.com/masalas/catch_garam_masala.jpg"],
+    "thumbnail": "https://cdn.example.com/masalas/catch_garam_masala_thumb.jpg",
+    "brand": "Catch",
+    "category": "687cffff4dd1ce5ed8f73067",
+    "category_string": "Masalas",
+    "sku": "MSL-GRM-003",
+    "barcode": "8936001000035",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 62,
+        "mrp": 75,
+        "stock": 54,
+        "unit": "pack",
+        "image": "https://cdn.example.com/masalas/catch_garam_masala.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 75,
+      "sellingPrice": 62,
+      "discountPercent": 17.33,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 54,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["garam masala", "catch", "spices"],
+    "searchKeywords": ["catch", "garam masala", "spices"],
+    "viewCount": 12,
+    "soldCount": 4
+  },
+  {
+    "name": "Badshah Pav Bhaji Masala",
+    "slug": "badshah-pav-bhaji-masala",
+    "description": "Special blend of spices for Mumbai-style pav bhaji with authentic street food flavor.",
+    "highlights": ["Pav bhaji", "Street food", "Authentic taste"],
+    "images": ["https://cdn.example.com/masalas/badshah_pav_bhaji.jpg"],
+    "thumbnail": "https://cdn.example.com/masalas/badshah_pav_bhaji_thumb.jpg",
+    "brand": "Badshah",
+    "category": "687cffff4dd1ce5ed8f73067",
+    "category_string": "Masalas",
+    "sku": "MSL-PAV-004",
+    "barcode": "8936001000042",
+    "variants": [
+      {
+        "label": "100g",
+        "price": 54,
+        "mrp": 60,
+        "stock": 42,
+        "unit": "box",
+        "image": "https://cdn.example.com/masalas/badshah_pav_bhaji.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 60,
+      "sellingPrice": 54,
+      "discountPercent": 10,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 42,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pav bhaji", "badshah", "masala"],
+    "searchKeywords": ["badshah", "pav bhaji masala", "spices"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Aachi Sambar Powder",
+    "slug": "aachi-sambar-powder",
+    "description": "South Indian sambar masala made from ground lentils and spices for an authentic taste.",
+    "highlights": ["South Indian", "Lentil & spice mix", "Authentic flavor"],
+    "images": ["https://cdn.example.com/masalas/aachi_sambar.jpg"],
+    "thumbnail": "https://cdn.example.com/masalas/aachi_sambar_thumb.jpg",
+    "brand": "Aachi",
+    "category": "687cffff4dd1ce5ed8f73067",
+    "category_string": "Masalas",
+    "sku": "MSL-SMB-005",
+    "barcode": "8936001000059",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 62,
+        "mrp": 72,
+        "stock": 37,
+        "unit": "pack",
+        "image": "https://cdn.example.com/masalas/aachi_sambar.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 72,
+      "sellingPrice": 62,
+      "discountPercent": 13.89,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 37,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["sambar powder", "aachi", "masala"],
+    "searchKeywords": ["aachi", "sambar powder", "south indian masala"],
+    "viewCount": 6,
+    "soldCount": 1
+  }
+]

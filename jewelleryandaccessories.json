@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Zaveri Pearls Gold Plated Jhumka Earrings",
+    "slug": "zaveri-pearls-gold-plated-jhumka-earrings",
+    "description": "Traditional gold plated jhumka earrings with pearl detailing, perfect for festive occasions.",
+    "highlights": ["Gold plated", "Pearl detailing", "Ethnic design"],
+    "images": ["https://cdn.example.com/jewellery/zaveri_jhumka.jpg"],
+    "thumbnail": "https://cdn.example.com/jewellery/zaveri_jhumka_thumb.jpg",
+    "brand": "Zaveri Pearls",
+    "category": "687cffff4dd1ce5ed8f73064",
+    "category_string": "Jewellery and Accessories",
+    "sku": "JWA-ER-001",
+    "barcode": "8933001000011",
+    "variants": [
+      {
+        "label": "Pair",
+        "price": 299,
+        "mrp": 499,
+        "stock": 18,
+        "unit": "pair",
+        "image": "https://cdn.example.com/jewellery/zaveri_jhumka.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 499,
+      "sellingPrice": 299,
+      "discountPercent": 40.08,
+      "offerTag": "40% OFF"
+    },
+    "tax": {
+      "gstRate": 3,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["jhumka", "zaveri pearls", "earrings", "ethnic"],
+    "searchKeywords": ["jhumka", "gold plated earrings", "zaveri pearls"],
+    "viewCount": 21,
+    "soldCount": 7
+  },
+  {
+    "name": "Voylla Silver Oxidized Necklace Set",
+    "slug": "voylla-silver-oxidized-necklace-set",
+    "description": "Boho style oxidized silver necklace set with matching earrings for a chic look.",
+    "highlights": ["Oxidized silver", "Boho style", "Earrings included"],
+    "images": ["https://cdn.example.com/jewellery/voylla_necklace.jpg"],
+    "thumbnail": "https://cdn.example.com/jewellery/voylla_necklace_thumb.jpg",
+    "brand": "Voylla",
+    "category": "687cffff4dd1ce5ed8f73064",
+    "category_string": "Jewellery and Accessories",
+    "sku": "JWA-NK-002",
+    "barcode": "8933001000028",
+    "variants": [
+      {
+        "label": "Set",
+        "price": 399,
+        "mrp": 799,
+        "stock": 10,
+        "unit": "set",
+        "image": "https://cdn.example.com/jewellery/voylla_necklace.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 799,
+      "sellingPrice": 399,
+      "discountPercent": 50.06,
+      "offerTag": "50% OFF"
+    },
+    "tax": {
+      "gstRate": 3,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 10,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["necklace", "voylla", "silver oxidized"],
+    "searchKeywords": ["voylla", "silver necklace", "oxidized", "boho"],
+    "viewCount": 9,
+    "soldCount": 2
+  },
+  {
+    "name": "Fastrack Black Dial Women’s Watch",
+    "slug": "fastrack-black-dial-womens-watch",
+    "description": "Trendy black dial analog wrist watch for women with water-resistant design.",
+    "highlights": ["Analog", "Water-resistant", "Trendy design"],
+    "images": ["https://cdn.example.com/jewellery/fastrack_black_watch.jpg"],
+    "thumbnail": "https://cdn.example.com/jewellery/fastrack_black_watch_thumb.jpg",
+    "brand": "Fastrack",
+    "category": "687cffff4dd1ce5ed8f73064",
+    "category_string": "Jewellery and Accessories",
+    "sku": "JWA-WAT-003",
+    "barcode": "8933001000035",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 1349,
+        "mrp": 1695,
+        "stock": 8,
+        "unit": "piece",
+        "image": "https://cdn.example.com/jewellery/fastrack_black_watch.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1695,
+      "sellingPrice": 1349,
+      "discountPercent": 20.41,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 8,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["wrist watch", "fastrack", "black dial", "women"],
+    "searchKeywords": ["fastrack", "women's watch", "wrist watch", "black dial"],
+    "viewCount": 6,
+    "soldCount": 1
+  },
+  {
+    "name": "Titan Men’s Leather Wallet",
+    "slug": "titan-mens-leather-wallet",
+    "description": "Premium brown leather wallet for men with multiple compartments and a slim design.",
+    "highlights": ["Genuine leather", "Multiple compartments", "Slim design"],
+    "images": ["https://cdn.example.com/jewellery/titan_wallet.jpg"],
+    "thumbnail": "https://cdn.example.com/jewellery/titan_wallet_thumb.jpg",
+    "brand": "Titan",
+    "category": "687cffff4dd1ce5ed8f73064",
+    "category_string": "Jewellery and Accessories",
+    "sku": "JWA-WAL-004",
+    "barcode": "8933001000042",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 799,
+        "mrp": 999,
+        "stock": 14,
+        "unit": "piece",
+        "image": "https://cdn.example.com/jewellery/titan_wallet.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 999,
+      "sellingPrice": 799,
+      "discountPercent": 20.02,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 14,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["wallet", "titan", "leather", "men"],
+    "searchKeywords": ["titan", "leather wallet", "men's wallet"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Raymond Men’s Silk Tie (Blue)",
+    "slug": "raymond-mens-silk-tie-blue",
+    "description": "Elegant blue silk tie for formal and party wear, adds a classic touch to any outfit.",
+    "highlights": ["Silk", "Elegant blue", "Formal accessory"],
+    "images": ["https://cdn.example.com/jewellery/raymond_blue_tie.jpg"],
+    "thumbnail": "https://cdn.example.com/jewellery/raymond_blue_tie_thumb.jpg",
+    "brand": "Raymond",
+    "category": "687cffff4dd1ce5ed8f73064",
+    "category_string": "Jewellery and Accessories",
+    "sku": "JWA-TIE-005",
+    "barcode": "8933001000059",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 499,
+        "mrp": 699,
+        "stock": 12,
+        "unit": "piece",
+        "image": "https://cdn.example.com/jewellery/raymond_blue_tie.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 699,
+      "sellingPrice": 499,
+      "discountPercent": 28.61,
+      "offerTag": "29% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 12,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 240,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["tie", "raymond", "silk", "men"],
+    "searchKeywords": ["raymond", "silk tie", "blue tie"],
+    "viewCount": 5,
+    "soldCount": 1
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Maybelline New York Fit Me Matte+Poreless Foundation",
+    "slug": "maybelline-fit-me-matte-poreless-foundation",
+    "description": "Lightweight, oil-free liquid foundation for natural, matte finish and refined pores.",
+    "highlights": ["Matte finish", "Oil-free", "Buildable coverage"],
+    "images": ["https://cdn.example.com/makeup/maybelline_fitme_foundation.jpg"],
+    "thumbnail": "https://cdn.example.com/makeup/maybelline_fitme_foundation_thumb.jpg",
+    "brand": "Maybelline New York",
+    "category": "687cffff4dd1ce5ed8f73066",
+    "category_string": "Makeup",
+    "sku": "MKP-FDN-001",
+    "barcode": "8935001000011",
+    "variants": [
+      {
+        "label": "30ml",
+        "price": 439,
+        "mrp": 599,
+        "stock": 20,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/makeup/maybelline_fitme_foundation.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 599,
+      "sellingPrice": 439,
+      "discountPercent": 26.71,
+      "offerTag": "27% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 180,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["foundation", "maybelline", "matte"],
+    "searchKeywords": ["maybelline", "fit me", "foundation", "matte"],
+    "viewCount": 17,
+    "soldCount": 8
+  },
+  {
+    "name": "Lakmé Eyeconic Kajal Black",
+    "slug": "lakme-eyeconic-kajal-black",
+    "description": "Long-lasting, smudge-proof kajal with intense black finish for dramatic eyes.",
+    "highlights": ["Smudge-proof", "Long lasting", "Intense black"],
+    "images": ["https://cdn.example.com/makeup/lakme_eyeconic_kajal.jpg"],
+    "thumbnail": "https://cdn.example.com/makeup/lakme_eyeconic_kajal_thumb.jpg",
+    "brand": "Lakmé",
+    "category": "687cffff4dd1ce5ed8f73066",
+    "category_string": "Makeup",
+    "sku": "MKP-KAJ-002",
+    "barcode": "8935001000028",
+    "variants": [
+      {
+        "label": "0.35g",
+        "price": 180,
+        "mrp": 210,
+        "stock": 35,
+        "unit": "piece",
+        "image": "https://cdn.example.com/makeup/lakme_eyeconic_kajal.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 210,
+      "sellingPrice": 180,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 150,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kajal", "lakme", "eyeconic"],
+    "searchKeywords": ["lakme", "kajal", "eyeconic", "black"],
+    "viewCount": 10,
+    "soldCount": 5
+  },
+  {
+    "name": "L'Oréal Paris Rouge Signature Matte Liquid Lipstick",
+    "slug": "loreal-paris-rouge-signature-lipstick",
+    "description": "Lightweight matte liquid lipstick with intense pigment and comfortable wear.",
+    "highlights": ["Matte", "Lightweight", "Intense color"],
+    "images": ["https://cdn.example.com/makeup/loreal_rouge_signature.jpg"],
+    "thumbnail": "https://cdn.example.com/makeup/loreal_rouge_signature_thumb.jpg",
+    "brand": "L'Oréal Paris",
+    "category": "687cffff4dd1ce5ed8f73066",
+    "category_string": "Makeup",
+    "sku": "MKP-LIP-003",
+    "barcode": "8935001000035",
+    "variants": [
+      {
+        "label": "7ml",
+        "price": 499,
+        "mrp": 650,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/makeup/loreal_rouge_signature.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 650,
+      "sellingPrice": 499,
+      "discountPercent": 23.23,
+      "offerTag": "23% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 170,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["lipstick", "loreal", "matte"],
+    "searchKeywords": ["loreal", "lipstick", "rouge signature", "matte"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Colorbar Perfect Match Compact",
+    "slug": "colorbar-perfect-match-compact",
+    "description": "Pressed powder compact for oil control and smooth, even complexion.",
+    "highlights": ["Oil control", "Smooth finish", "Easy to blend"],
+    "images": ["https://cdn.example.com/makeup/colorbar_compact.jpg"],
+    "thumbnail": "https://cdn.example.com/makeup/colorbar_compact_thumb.jpg",
+    "brand": "Colorbar",
+    "category": "687cffff4dd1ce5ed8f73066",
+    "category_string": "Makeup",
+    "sku": "MKP-CMP-004",
+    "barcode": "8935001000042",
+    "variants": [
+      {
+        "label": "9g",
+        "price": 249,
+        "mrp": 299,
+        "stock": 22,
+        "unit": "piece",
+        "image": "https://cdn.example.com/makeup/colorbar_compact.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 299,
+      "sellingPrice": 249,
+      "discountPercent": 16.72,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 160,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["compact", "colorbar", "pressed powder"],
+    "searchKeywords": ["colorbar", "compact", "pressed powder"],
+    "viewCount": 6,
+    "soldCount": 2
+  },
+  {
+    "name": "Swiss Beauty Liquid Concealer",
+    "slug": "swiss-beauty-liquid-concealer",
+    "description": "Lightweight, blendable concealer for covering dark circles, blemishes, and imperfections.",
+    "highlights": ["Blendable", "Covers dark circles", "Lightweight"],
+    "images": ["https://cdn.example.com/makeup/swissbeauty_concealer.jpg"],
+    "thumbnail": "https://cdn.example.com/makeup/swissbeauty_concealer_thumb.jpg",
+    "brand": "Swiss Beauty",
+    "category": "687cffff4dd1ce5ed8f73066",
+    "category_string": "Makeup",
+    "sku": "MKP-CNC-005",
+    "barcode": "8935001000059",
+    "variants": [
+      {
+        "label": "5.6ml",
+        "price": 179,
+        "mrp": 229,
+        "stock": 15,
+        "unit": "piece",
+        "image": "https://cdn.example.com/makeup/swissbeauty_concealer.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 229,
+      "sellingPrice": 179,
+      "discountPercent": 21.83,
+      "offerTag": "22% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 140,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["concealer", "swiss beauty", "liquid"],
+    "searchKeywords": ["swiss beauty", "concealer", "liquid concealer"],
+    "viewCount": 4,
+    "soldCount": 1
+  }
+]

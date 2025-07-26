@@ -1,0 +1,290 @@
+[
+  {
+    "name": "ITC Master Chef Crispy French Fries",
+    "slug": "itc-master-chef-crispy-french-fries",
+    "description": "Ready-to-cook frozen French fries with a crispy texture, perfect for snacks and parties.",
+    "highlights": ["Quick fry", "Crispy", "Made from real potatoes"],
+    "images": ["https://cdn.example.com/frozen/itc_frenchfries.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/itc_frenchfries_thumb.jpg",
+    "brand": "ITC Master Chef",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-FRY-001",
+    "barcode": "8911001000011",
+    "variants": [
+      {
+        "label": "420g",
+        "price": 120,
+        "mrp": 140,
+        "stock": 55,
+        "unit": "pack",
+        "image": "https://cdn.example.com/frozen/itc_frenchfries.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 140,
+      "sellingPrice": 120,
+      "discountPercent": 14.29,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 55,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["french fries", "frozen", "itc"],
+    "searchKeywords": ["itc master chef", "french fries", "frozen food"],
+    "viewCount": 32,
+    "soldCount": 14
+  },
+  {
+    "name": "McCain Aloo Tikki",
+    "slug": "mccain-aloo-tikki",
+    "description": "Frozen North Indian-style aloo tikki; crispy outside, soft inside. Great for quick snacks.",
+    "highlights": ["North Indian style", "Quick cook", "No added preservatives"],
+    "images": ["https://cdn.example.com/frozen/mccain_alootikki.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/mccain_alootikki_thumb.jpg",
+    "brand": "McCain",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-TIK-002",
+    "barcode": "8911001000028",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 110,
+        "mrp": 130,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/frozen/mccain_alootikki.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 130,
+      "sellingPrice": 110,
+      "discountPercent": 15.38,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["aloo tikki", "mccain", "frozen"],
+    "searchKeywords": ["mccain", "aloo tikki", "frozen food"],
+    "viewCount": 20,
+    "soldCount": 7
+  },
+  {
+    "name": "Godrej Yummiez Chicken Nuggets",
+    "slug": "godrej-yummiez-chicken-nuggets",
+    "description": "Frozen chicken nuggets, easy to fry or bake, perfect for kids and parties.",
+    "highlights": ["Juicy chicken", "Crispy coating", "Quick snack"],
+    "images": ["https://cdn.example.com/frozen/yummiez_nuggets.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/yummiez_nuggets_thumb.jpg",
+    "brand": "Godrej Yummiez",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-NUG-003",
+    "barcode": "8911001000035",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 185,
+        "mrp": 220,
+        "stock": 35,
+        "unit": "pack",
+        "image": "https://cdn.example.com/frozen/yummiez_nuggets.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 220,
+      "sellingPrice": 185,
+      "discountPercent": 15.91,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["chicken nuggets", "yummiez", "frozen"],
+    "searchKeywords": ["yummiez", "chicken nuggets", "frozen food"],
+    "viewCount": 13,
+    "soldCount": 5
+  },
+  {
+    "name": "Prasuma Chicken Momos",
+    "slug": "prasuma-chicken-momos",
+    "description": "Steamed chicken momos, frozen and ready to heat. Soft and juicy dumplings with authentic taste.",
+    "highlights": ["Authentic taste", "Steamed", "Ready in minutes"],
+    "images": ["https://cdn.example.com/frozen/prasuma_momos.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/prasuma_momos_thumb.jpg",
+    "brand": "Prasuma",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-MMO-004",
+    "barcode": "8911001000042",
+    "variants": [
+      {
+        "label": "24 pcs",
+        "price": 270,
+        "mrp": 330,
+        "stock": 22,
+        "unit": "box",
+        "image": "https://cdn.example.com/frozen/prasuma_momos.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 330,
+      "sellingPrice": 270,
+      "discountPercent": 18.18,
+      "offerTag": "18% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["momos", "prasuma", "chicken", "frozen"],
+    "searchKeywords": ["prasuma", "chicken momos", "frozen food"],
+    "viewCount": 9,
+    "soldCount": 3
+  },
+  {
+    "name": "McCain Veggie Fingers",
+    "slug": "mccain-veggie-fingers",
+    "description": "Crunchy and tasty frozen veggie fingers, ideal for tea-time snacks.",
+    "highlights": ["Crunchy", "Veg snack", "Quick fry"],
+    "images": ["https://cdn.example.com/frozen/mccain_veggiefingers.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/mccain_veggiefingers_thumb.jpg",
+    "brand": "McCain",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-VGF-005",
+    "barcode": "8911001000059",
+    "variants": [
+      {
+        "label": "400g",
+        "price": 115,
+        "mrp": 135,
+        "stock": 40,
+        "unit": "pack",
+        "image": "https://cdn.example.com/frozen/mccain_veggiefingers.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 135,
+      "sellingPrice": 115,
+      "discountPercent": 14.81,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 40,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 11,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["veggie fingers", "mccain", "frozen"],
+    "searchKeywords": ["mccain", "veggie fingers", "frozen food"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Sumeru Mixed Veg Paratha",
+    "slug": "sumeru-mixed-veg-paratha",
+    "description": "Frozen mixed vegetable parathas, pre-cooked and ready to heat & eat.",
+    "highlights": ["Mixed veg", "Paratha", "Ready to eat"],
+    "images": ["https://cdn.example.com/frozen/sumeru_paratha.jpg"],
+    "thumbnail": "https://cdn.example.com/frozen/sumeru_paratha_thumb.jpg",
+    "brand": "Sumeru",
+    "category": "687cffff4dd1ce5ed8f7305e",
+    "category_string": "Frozen Food",
+    "sku": "FRZ-PAR-006",
+    "barcode": "8911001000066",
+    "variants": [
+      {
+        "label": "400g (5 pcs)",
+        "price": 95,
+        "mrp": 115,
+        "stock": 60,
+        "unit": "pack",
+        "image": "https://cdn.example.com/frozen/sumeru_paratha.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 115,
+      "sellingPrice": 95,
+      "discountPercent": 17.39,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 60,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["paratha", "sumeru", "frozen"],
+    "searchKeywords": ["sumeru", "mixed veg paratha", "frozen food"],
+    "viewCount": 6,
+    "soldCount": 2
+  }
+]

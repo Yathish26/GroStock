@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Bombay Dyeing Cotton Double Bedsheet",
+    "slug": "bombay-dyeing-cotton-double-bedsheet",
+    "description": "Premium cotton double bedsheet with 2 pillow covers, soft and durable for daily use.",
+    "highlights": ["100% cotton", "Soft & breathable", "Includes 2 pillow covers"],
+    "images": ["https://cdn.example.com/home/bombaydyeing_bedsheet.jpg"],
+    "thumbnail": "https://cdn.example.com/home/bombaydyeing_bedsheet_thumb.jpg",
+    "brand": "Bombay Dyeing",
+    "category": "687cffff4dd1ce5ed8f73062",
+    "category_string": "Home and Furnishing",
+    "sku": "HNF-BDS-001",
+    "barcode": "8931001000011",
+    "variants": [
+      {
+        "label": "Double",
+        "price": 799,
+        "mrp": 1099,
+        "stock": 20,
+        "unit": "set",
+        "image": "https://cdn.example.com/home/bombaydyeing_bedsheet.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1099,
+      "sellingPrice": 799,
+      "discountPercent": 27.3,
+      "offerTag": "27% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 20,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["bedsheet", "bombay dyeing", "cotton"],
+    "searchKeywords": ["bedsheet", "bombay dyeing", "cotton", "double bedsheet"],
+    "viewCount": 33,
+    "soldCount": 7
+  },
+  {
+    "name": "Spaces Premium Bath Towel",
+    "slug": "spaces-premium-bath-towel",
+    "description": "Super absorbent, quick-drying bath towel made from high-quality cotton.",
+    "highlights": ["Super absorbent", "Quick dry", "Soft cotton"],
+    "images": ["https://cdn.example.com/home/spaces_bathtowel.jpg"],
+    "thumbnail": "https://cdn.example.com/home/spaces_bathtowel_thumb.jpg",
+    "brand": "Spaces",
+    "category": "687cffff4dd1ce5ed8f73062",
+    "category_string": "Home and Furnishing",
+    "sku": "HNF-TWL-002",
+    "barcode": "8931001000028",
+    "variants": [
+      {
+        "label": "Bath Towel (70x140cm)",
+        "price": 299,
+        "mrp": 399,
+        "stock": 35,
+        "unit": "piece",
+        "image": "https://cdn.example.com/home/spaces_bathtowel.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 399,
+      "sellingPrice": 299,
+      "discountPercent": 25.06,
+      "offerTag": "25% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 90,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["towel", "spaces", "bath linen"],
+    "searchKeywords": ["bath towel", "spaces", "cotton towel"],
+    "viewCount": 15,
+    "soldCount": 4
+  },
+  {
+    "name": "Story@Home Microfiber Pillow (Set of 2)",
+    "slug": "storyathome-microfiber-pillow-set",
+    "description": "Soft and fluffy microfiber pillows for superior sleeping comfort.",
+    "highlights": ["Microfiber filling", "Breathable", "Set of 2"],
+    "images": ["https://cdn.example.com/home/storyathome_pillow.jpg"],
+    "thumbnail": "https://cdn.example.com/home/storyathome_pillow_thumb.jpg",
+    "brand": "Story@Home",
+    "category": "687cffff4dd1ce5ed8f73062",
+    "category_string": "Home and Furnishing",
+    "sku": "HNF-PIL-003",
+    "barcode": "8931001000035",
+    "variants": [
+      {
+        "label": "Standard (43x69cm, Set of 2)",
+        "price": 499,
+        "mrp": 599,
+        "stock": 22,
+        "unit": "set",
+        "image": "https://cdn.example.com/home/storyathome_pillow.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 599,
+      "sellingPrice": 499,
+      "discountPercent": 16.69,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 100,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["pillow", "story@home", "microfiber"],
+    "searchKeywords": ["microfiber pillow", "story@home", "pillow set"],
+    "viewCount": 8,
+    "soldCount": 2
+  },
+  {
+    "name": "Home Centre Polyester Window Curtain",
+    "slug": "home-centre-polyester-window-curtain",
+    "description": "Elegant window curtain with eyelets, made from premium polyester fabric.",
+    "highlights": ["Polyester", "Eyelet design", "Easy to wash"],
+    "images": ["https://cdn.example.com/home/homecentre_curtain.jpg"],
+    "thumbnail": "https://cdn.example.com/home/homecentre_curtain_thumb.jpg",
+    "brand": "Home Centre",
+    "category": "687cffff4dd1ce5ed8f73062",
+    "category_string": "Home and Furnishing",
+    "sku": "HNF-CRT-004",
+    "barcode": "8931001000042",
+    "variants": [
+      {
+        "label": "Window (1.35x1.5m)",
+        "price": 399,
+        "mrp": 499,
+        "stock": 18,
+        "unit": "piece",
+        "image": "https://cdn.example.com/home/homecentre_curtain.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 499,
+      "sellingPrice": 399,
+      "discountPercent": 20.04,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 18,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 120,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["curtain", "home centre", "polyester"],
+    "searchKeywords": ["window curtain", "home centre", "polyester curtain"],
+    "viewCount": 6,
+    "soldCount": 1
+  },
+  {
+    "name": "Divine Casa Reversible Comforter",
+    "slug": "divine-casa-reversible-comforter",
+    "description": "Warm, lightweight, reversible comforter for all-season use.",
+    "highlights": ["Reversible", "All-season", "Lightweight & warm"],
+    "images": ["https://cdn.example.com/home/divinecasa_comforter.jpg"],
+    "thumbnail": "https://cdn.example.com/home/divinecasa_comforter_thumb.jpg",
+    "brand": "Divine Casa",
+    "category": "687cffff4dd1ce5ed8f73062",
+    "category_string": "Home and Furnishing",
+    "sku": "HNF-COM-005",
+    "barcode": "8931001000059",
+    "variants": [
+      {
+        "label": "Double",
+        "price": 949,
+        "mrp": 1499,
+        "stock": 17,
+        "unit": "piece",
+        "image": "https://cdn.example.com/home/divinecasa_comforter.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 1499,
+      "sellingPrice": 949,
+      "discountPercent": 36.69,
+      "offerTag": "37% OFF"
+    },
+    "tax": {
+      "gstRate": 12,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 17,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": false,
+      "deliveryTimeInMinutes": 130,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["comforter", "divine casa", "reversible"],
+    "searchKeywords": ["reversible comforter", "divine casa", "double comforter"],
+    "viewCount": 5,
+    "soldCount": 1
+  }
+]

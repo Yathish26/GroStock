@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Haldiram’s Gulab Jamun Tin",
+    "slug": "haldirams-gulab-jamun-tin",
+    "description": "Soft, spongy gulab jamuns made from khoya, soaked in rose-flavored sugar syrup. Ready-to-eat.",
+    "highlights": ["Ready to eat", "Rich & spongy", "Classic Indian sweet"],
+    "images": ["https://cdn.example.com/sweets/haldirams_gulab_jamun.jpg"],
+    "thumbnail": "https://cdn.example.com/sweets/haldirams_gulab_jamun_thumb.jpg",
+    "brand": "Haldiram's",
+    "category": "687cffff4dd1ce5ed8f73075",
+    "category_string": "Sweets",
+    "sku": "SWT-HAL-001",
+    "barcode": "8950001000011",
+    "variants": [
+      {
+        "label": "1kg Tin",
+        "price": 315,
+        "mrp": 370,
+        "stock": 22,
+        "unit": "tin",
+        "image": "https://cdn.example.com/sweets/haldirams_gulab_jamun.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 370,
+      "sellingPrice": 315,
+      "discountPercent": 14.86,
+      "offerTag": "15% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 22,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 17,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["gulab jamun", "haldiram", "sweets"],
+    "searchKeywords": ["haldiram", "gulab jamun", "indian sweets", "ready to eat"],
+    "viewCount": 19,
+    "soldCount": 9
+  },
+  {
+    "name": "Bikaji Soan Papdi",
+    "slug": "bikaji-soan-papdi",
+    "description": "Traditional flaky and soft soan papdi made from gram flour, ghee, and sugar, delicately flavored with cardamom.",
+    "highlights": ["Flaky & soft", "Cardamom flavor", "Traditional sweet"],
+    "images": ["https://cdn.example.com/sweets/bikaji_soan_papdi.jpg"],
+    "thumbnail": "https://cdn.example.com/sweets/bikaji_soan_papdi_thumb.jpg",
+    "brand": "Bikaji",
+    "category": "687cffff4dd1ce5ed8f73075",
+    "category_string": "Sweets",
+    "sku": "SWT-BIK-002",
+    "barcode": "8950001000028",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 120,
+        "mrp": 145,
+        "stock": 35,
+        "unit": "box",
+        "image": "https://cdn.example.com/sweets/bikaji_soan_papdi.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 145,
+      "sellingPrice": 120,
+      "discountPercent": 17.24,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 35,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 13,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["soan papdi", "bikaji", "sweets"],
+    "searchKeywords": ["bikaji", "soan papdi", "indian sweets"],
+    "viewCount": 11,
+    "soldCount": 4
+  },
+  {
+    "name": "MTR Badam Drink Mix",
+    "slug": "mtr-badam-drink-mix",
+    "description": "Instant badam (almond) drink mix with saffron, cardamom, and sugar for a rich, traditional beverage.",
+    "highlights": ["Almond drink", "With saffron & cardamom", "Instant mix"],
+    "images": ["https://cdn.example.com/sweets/mtr_badam_mix.jpg"],
+    "thumbnail": "https://cdn.example.com/sweets/mtr_badam_mix_thumb.jpg",
+    "brand": "MTR",
+    "category": "687cffff4dd1ce5ed8f73075",
+    "category_string": "Sweets",
+    "sku": "SWT-MTR-003",
+    "barcode": "8950001000035",
+    "variants": [
+      {
+        "label": "200g",
+        "price": 108,
+        "mrp": 125,
+        "stock": 28,
+        "unit": "jar",
+        "image": "https://cdn.example.com/sweets/mtr_badam_mix.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 125,
+      "sellingPrice": 108,
+      "discountPercent": 13.6,
+      "offerTag": "14% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["badam mix", "mtr", "almond drink"],
+    "searchKeywords": ["mtr", "badam", "almond drink", "instant mix"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Bikano Rasgulla Tin",
+    "slug": "bikano-rasgulla-tin",
+    "description": "Soft and juicy Bengali rasgullas made from chenna and dipped in light sugar syrup. Ready-to-eat.",
+    "highlights": ["Ready to eat", "Juicy & soft", "Bengali sweet"],
+    "images": ["https://cdn.example.com/sweets/bikano_rasgulla.jpg"],
+    "thumbnail": "https://cdn.example.com/sweets/bikano_rasgulla_thumb.jpg",
+    "brand": "Bikano",
+    "category": "687cffff4dd1ce5ed8f73075",
+    "category_string": "Sweets",
+    "sku": "SWT-BIK-004",
+    "barcode": "8950001000042",
+    "variants": [
+      {
+        "label": "1kg Tin",
+        "price": 265,
+        "mrp": 315,
+        "stock": 15,
+        "unit": "tin",
+        "image": "https://cdn.example.com/sweets/bikano_rasgulla.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 315,
+      "sellingPrice": 265,
+      "discountPercent": 15.87,
+      "offerTag": "16% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 15,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["rasgulla", "bikano", "bengali sweet"],
+    "searchKeywords": ["bikano", "rasgulla", "bengali sweet"],
+    "viewCount": 8,
+    "soldCount": 3
+  },
+  {
+    "name": "Haldiram’s Kaju Katli",
+    "slug": "haldirams-kaju-katli",
+    "description": "Premium cashew (kaju) katli made from select cashews and pure ghee. Smooth and melt-in-the-mouth.",
+    "highlights": ["Premium cashew", "Pure ghee", "Smooth texture"],
+    "images": ["https://cdn.example.com/sweets/haldirams_kaju_katli.jpg"],
+    "thumbnail": "https://cdn.example.com/sweets/haldirams_kaju_katli_thumb.jpg",
+    "brand": "Haldiram's",
+    "category": "687cffff4dd1ce5ed8f73075",
+    "category_string": "Sweets",
+    "sku": "SWT-HAL-005",
+    "barcode": "8950001000059",
+    "variants": [
+      {
+        "label": "500g",
+        "price": 395,
+        "mrp": 450,
+        "stock": 19,
+        "unit": "box",
+        "image": "https://cdn.example.com/sweets/haldirams_kaju_katli.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 450,
+      "sellingPrice": 395,
+      "discountPercent": 12.22,
+      "offerTag": "12% OFF"
+    },
+    "tax": {
+      "gstRate": 5,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 19,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 15,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["kaju katli", "haldiram", "cashew sweet"],
+    "searchKeywords": ["haldiram", "kaju katli", "cashew", "indian sweets"],
+    "viewCount": 6,
+    "soldCount": 2
+  }
+]

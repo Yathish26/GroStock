@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Gillette Mach3 Razor",
+    "slug": "gillette-mach3-razor",
+    "description": "Triple-blade razor for a close and smooth shave with comfort guard and lubricating strip.",
+    "highlights": ["Triple blade", "Ergonomic handle", "Lubricating strip"],
+    "images": ["https://cdn.example.com/grooming/gillette_mach3.jpg"],
+    "thumbnail": "https://cdn.example.com/grooming/gillette_mach3_thumb.jpg",
+    "brand": "Gillette",
+    "category": "687cffff4dd1ce5ed8f7305f",
+    "category_string": "Grooming",
+    "sku": "GRM-RZR-001",
+    "barcode": "8920001000011",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 225,
+        "mrp": 249,
+        "stock": 62,
+        "unit": "piece",
+        "image": "https://cdn.example.com/grooming/gillette_mach3.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 249,
+      "sellingPrice": 225,
+      "discountPercent": 9.64,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 62,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 14,
+      "zones": ["Zone 1", "Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "tags": ["razor", "gillette", "grooming"],
+    "searchKeywords": ["gillette", "razor", "shaving", "mach3"],
+    "viewCount": 39,
+    "soldCount": 15
+  },
+  {
+    "name": "Philips BT1212/15 Beard Trimmer",
+    "slug": "philips-bt1212-beard-trimmer",
+    "description": "Cordless beard trimmer with USB charging and stainless steel blades.",
+    "highlights": ["Cordless", "USB charging", "Stainless steel blades"],
+    "images": ["https://cdn.example.com/grooming/philips_trimmer.jpg"],
+    "thumbnail": "https://cdn.example.com/grooming/philips_trimmer_thumb.jpg",
+    "brand": "Philips",
+    "category": "687cffff4dd1ce5ed8f7305f",
+    "category_string": "Grooming",
+    "sku": "GRM-TRM-002",
+    "barcode": "8920001000028",
+    "variants": [
+      {
+        "label": "1 pc",
+        "price": 899,
+        "mrp": 995,
+        "stock": 32,
+        "unit": "piece",
+        "image": "https://cdn.example.com/grooming/philips_trimmer.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 995,
+      "sellingPrice": 899,
+      "discountPercent": 9.65,
+      "offerTag": "10% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 32,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 18,
+      "zones": ["Zone 1"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["trimmer", "philips", "beard"],
+    "searchKeywords": ["philips", "beard trimmer", "grooming"],
+    "viewCount": 18,
+    "soldCount": 6
+  },
+  {
+    "name": "Park Avenue Good Morning Grooming Kit",
+    "slug": "park-avenue-good-morning-grooming-kit",
+    "description": "Complete grooming kit with deodorant, shaving cream, after shave, soap, and talc.",
+    "highlights": ["Complete kit", "Travel friendly", "Refreshing fragrance"],
+    "images": ["https://cdn.example.com/grooming/parkavenue_kit.jpg"],
+    "thumbnail": "https://cdn.example.com/grooming/parkavenue_kit_thumb.jpg",
+    "brand": "Park Avenue",
+    "category": "687cffff4dd1ce5ed8f7305f",
+    "category_string": "Grooming",
+    "sku": "GRM-KIT-003",
+    "barcode": "8920001000035",
+    "variants": [
+      {
+        "label": "1 kit",
+        "price": 499,
+        "mrp": 599,
+        "stock": 24,
+        "unit": "kit",
+        "image": "https://cdn.example.com/grooming/parkavenue_kit.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 599,
+      "sellingPrice": 499,
+      "discountPercent": 16.69,
+      "offerTag": "17% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 24,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 16,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["grooming kit", "park avenue", "men"],
+    "searchKeywords": ["park avenue", "grooming kit", "good morning"],
+    "viewCount": 11,
+    "soldCount": 3
+  },
+  {
+    "name": "Beardo Charcoal Face Wash",
+    "slug": "beardo-charcoal-face-wash",
+    "description": "Deep cleansing face wash with activated charcoal for men, removes dirt and excess oil.",
+    "highlights": ["Charcoal", "Deep cleansing", "Removes excess oil"],
+    "images": ["https://cdn.example.com/grooming/beardo_facewash.jpg"],
+    "thumbnail": "https://cdn.example.com/grooming/beardo_facewash_thumb.jpg",
+    "brand": "Beardo",
+    "category": "687cffff4dd1ce5ed8f7305f",
+    "category_string": "Grooming",
+    "sku": "GRM-FWS-004",
+    "barcode": "8920001000042",
+    "variants": [
+      {
+        "label": "100ml",
+        "price": 199,
+        "mrp": 250,
+        "stock": 38,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/grooming/beardo_facewash.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 250,
+      "sellingPrice": 199,
+      "discountPercent": 20.4,
+      "offerTag": "20% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 38,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 12,
+      "zones": ["Zone 1", "Zone 3"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["face wash", "beardo", "charcoal"],
+    "searchKeywords": ["beardo", "charcoal face wash", "grooming"],
+    "viewCount": 7,
+    "soldCount": 2
+  },
+  {
+    "name": "Bombay Shaving Company Shaving Foam",
+    "slug": "bombay-shaving-company-shaving-foam",
+    "description": "Rich lather shaving foam with aloe vera and menthol for a smooth, irritation-free shave.",
+    "highlights": ["Aloe vera", "Menthol cool", "Rich lather"],
+    "images": ["https://cdn.example.com/grooming/bombayshaving_foam.jpg"],
+    "thumbnail": "https://cdn.example.com/grooming/bombayshaving_foam_thumb.jpg",
+    "brand": "Bombay Shaving Company",
+    "category": "687cffff4dd1ce5ed8f7305f",
+    "category_string": "Grooming",
+    "sku": "GRM-SHF-005",
+    "barcode": "8920001000059",
+    "variants": [
+      {
+        "label": "266g",
+        "price": 215,
+        "mrp": 265,
+        "stock": 28,
+        "unit": "bottle",
+        "image": "https://cdn.example.com/grooming/bombayshaving_foam.jpg"
+      }
+    ],
+    "pricing": {
+      "mrp": 265,
+      "sellingPrice": 215,
+      "discountPercent": 18.87,
+      "offerTag": "19% OFF"
+    },
+    "tax": {
+      "gstRate": 18,
+      "includedInPrice": true
+    },
+    "stock": {
+      "quantity": 28,
+      "status": "in_stock"
+    },
+    "delivery": {
+      "isInstant": true,
+      "deliveryTimeInMinutes": 10,
+      "zones": ["Zone 2"]
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "tags": ["shaving foam", "bombay shaving company", "aloe vera"],
+    "searchKeywords": ["bombay shaving", "shaving foam", "grooming"],
+    "viewCount": 8,
+    "soldCount": 3
+  }
+]
